@@ -8,7 +8,7 @@
  */
 
 const NOTION_TOKEN = process.env.NOTION_TOKEN;
-const DATABASE_ID = "2cb930af-7f0d-4242-a19d-b66f36cebde9";
+const DATA_SOURCE_ID = "2c2e3d75-3aef-4be1-9ba8-26055fb9b8a0";
 
 if (!NOTION_TOKEN) {
   console.error("Error: NOTION_TOKEN required");
@@ -106,11 +106,11 @@ async function createPage(image) {
     method: "POST",
     headers: {
       Authorization: `Bearer ${NOTION_TOKEN}`,
-      "Notion-Version": "2022-06-28",
+      "Notion-Version": "2025-09-03",
       "Content-Type": "application/json",
     },
     body: JSON.stringify({
-      parent: { database_id: DATABASE_ID },
+      parent: { data_source_id: DATA_SOURCE_ID },
       properties,
     }),
   });
