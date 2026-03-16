@@ -40,10 +40,14 @@ jobs:
         run: npm ci
 
       - name: Fetch latest data from Notion
-        if: ${{ secrets.NOTION_TOKEN != '' }}
         env:
           NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
-        run: node scripts/fetch-notion.mjs
+        run: |
+          if [ -n "$NOTION_TOKEN" ]; then
+            node scripts/fetch-notion.mjs
+          else
+            echo "No NOTION_TOKEN set, skipping Notion fetch (using bundled data)"
+          fi
         continue-on-error: true
 
       - name: Build
