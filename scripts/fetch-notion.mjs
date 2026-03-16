@@ -11,7 +11,8 @@
  */
 
 const NOTION_TOKEN = process.env.NOTION_TOKEN;
-const DATABASE_ID = process.env.NOTION_DATABASE_ID || "2cb930af-7f0d-4242-a19d-b66f36cebde9";
+// Use data_source_id for Notion API 2025-09-03+ (multi-source DB support)
+const DATA_SOURCE_ID = process.env.NOTION_DATA_SOURCE_ID || "2c2e3d75-3aef-4be1-9ba8-26055fb9b8a0";
 
 if (!NOTION_TOKEN) {
   console.error("Error: NOTION_TOKEN environment variable is required.");
@@ -38,7 +39,7 @@ async function queryNotion(startCursor) {
   };
   if (startCursor) body.start_cursor = startCursor;
 
-  const res = await fetch(`https://api.notion.com/v1/databases/${DATABASE_ID}/query`, {
+  const res = await fetch(`https://api.notion.com/v1/data_sources/${DATA_SOURCE_ID}/query`, {
     method: "POST",
     headers: {
       Authorization: `Bearer ${NOTION_TOKEN}`,
