@@ -39,6 +39,15 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Import Fabric images to Notion (one-time)
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+        run: |
+          if [ -n "$NOTION_TOKEN" ]; then
+            node scripts/import-fabric-images.mjs
+          fi
+        continue-on-error: true
+
       - name: Fetch latest data from Notion
         env:
           NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
