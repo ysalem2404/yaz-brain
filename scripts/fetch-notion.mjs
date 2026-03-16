@@ -78,6 +78,7 @@ function parseItem(page, index) {
     status: p.Status?.select?.name || "Inbox",
     rating: p.Rating?.select?.name || "",
     tags: (p.Tags?.multi_select || []).map((t) => t.name).join(","),
+    imageUrl: p["Image URL"]?.url || "",
     dateAdded: page.created_time || "",
     lastEdited: page.last_edited_time || "",
   };

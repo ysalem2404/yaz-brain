@@ -12,6 +12,7 @@ export interface BrainItem {
   status: string | null;
   rating: string | null;
   tags: string | null;
+  imageUrl: string | null;
   dateAdded: string | null;
   lastEdited: string | null;
 }

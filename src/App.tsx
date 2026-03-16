@@ -238,8 +238,9 @@ function GalleryView({ items, onSelect }: { items: BrainItem[]; onSelect: (i: Br
 
 function MasonryCard({ item, onClick }: { item: BrainItem; onClick: () => void }) {
   const topic = item.topic || "Other";
-  const imgSrc = TOPIC_IMAGES[topic] || TOPIC_IMAGES["Other"];
+  const topicImgSrc = TOPIC_IMAGES[topic] || TOPIC_IMAGES["Other"];
   const hasContent = item.content && item.content.length > 30;
+  const hasImage = !!item.imageUrl;
   const tags = item.tags?.split(",").filter(Boolean) || [];
 
   return (
@@ -248,11 +249,40 @@ function MasonryCard({ item, onClick }: { item: BrainItem; onClick: () => void }
       style={{ background: "var(--bg-card)", borderColor: "var(--border)", boxShadow: "var(--shadow)" }}
       onClick={onClick}
     >
-      {/* Topic image — only for items with short/no content */}
-      {!hasContent && (
+      {/* Note image — show actual image from MyMind/Fabric */}
+      {hasImage && (
+        <div className="relative overflow-hidden">
+          <img
+            src={item.imageUrl!}
+            alt={item.title}
+            className="w-full object-contain group-hover:scale-[1.02] transition-transform duration-500"
+            style={{ maxHeight: "400px", background: "var(--bg-hover)" }}
+            loading="lazy"
+          />
+          <span className={`absolute bottom-2 left-2 px-2 py-0.5 rounded-md text-[10px] font-semibold ${TOPIC_COLORS[topic]}`}
+            style={{ backdropFilter: "blur(8px)" }}
+          >
+            {topic}
+          </span>
+          {item.url && (
+            <a
+              href={item.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="absolute top-2 right-2 p-1.5 rounded-full bg-white/20 backdrop-blur-sm text-white opacity-0 group-hover:opacity-100 transition-opacity"
+              onClick={(e) => e.stopPropagation()}
+            >
+              <ExternalLink className="w-3 h-3" />
+            </a>
+          )}
+        </div>
+      )}
+
+      {/* Topic image — only for items with short/no content and no note image */}
+      {!hasImage && !hasContent && (
         <div className="relative h-36 overflow-hidden">
           <img
-            src={`${BASE}${imgSrc}`}
+            src={`${BASE}${topicImgSrc}`}
             alt={topic}
             className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
             loading="lazy"
@@ -499,7 +529,7 @@ function DetailOverlay({ item, onClose }: { item: BrainItem; onClose: () => void
     <div className="fixed inset-0 z-[100] flex items-center justify-center p-4" onClick={onClose}>
       <div className="absolute inset-0 bg-black/50 backdrop-blur-sm" />
       <div
-        className="relative w-full max-w-lg max-h-[80vh] overflow-y-auto rounded-2xl border p-6"
+        className={`relative w-full ${item.imageUrl ? 'max-w-2xl' : 'max-w-lg'} max-h-[80vh] overflow-y-auto rounded-2xl border p-6`}
         style={{ background: "var(--bg-card)", borderColor: "var(--border)" }}
         onClick={(e) => e.stopPropagation()}
       >
@@ -524,6 +554,17 @@ function DetailOverlay({ item, onClose }: { item: BrainItem; onClose: () => void
         <h2 className="text-lg font-bold leading-tight mb-3" style={{ color: "var(--text-primary)" }}>
           {item.title}
         </h2>
+
+        {item.imageUrl && (
+          <div className="mb-4 rounded-lg overflow-hidden border" style={{ borderColor: "var(--border)" }}>
+            <img
+              src={item.imageUrl}
+              alt={item.title}
+              className="w-full object-contain"
+              style={{ maxHeight: "500px", background: "var(--bg-hover)" }}
+            />
+          </div>
+        )}
 
         {item.content && (
           <div className="text-sm leading-relaxed mb-4 whitespace-pre-wrap" style={{ color: "var(--text-secondary)" }}>
