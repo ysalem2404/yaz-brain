@@ -40,9 +40,11 @@ jobs:
         run: npm ci
 
       - name: Fetch latest data from Notion
+        if: ${{ secrets.NOTION_TOKEN != '' }}
         env:
           NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
         run: node scripts/fetch-notion.mjs
+        continue-on-error: true
 
       - name: Build
         run: npm run build
