@@ -10469,5 +10469,732 @@
     "phash": "sha256:4e37df5f2162c5f3",
     "ingested_at": "2026-08-02T20:15:05.665026Z",
     "duplicate_of": "how-to-turn-ai-idea-into-real-workflow"
+  },
+  {
+    "id": "note-ai-roles-skills-matrix-2026",
+    "title": "AI Roles Skills Matrix 2026: Skills Priority by Role Across Modeling, Data, Deployment, and Governance",
+    "slug": "ai-roles-skills-matrix-2026",
+    "date_captured": "2026-06-01",
+    "category": "adoption",
+    "tags": [
+      "ai-roles",
+      "skills-matrix",
+      "career-development",
+      "ai-governance",
+      "mlops"
+    ],
+    "entities": [
+      "GetAI.works"
+    ],
+    "summary": "A comprehensive skills matrix maps thirteen AI-related job roles \u2014 from Model Manager and ML Engineer to AI Risk & Governance Specialist, Head of AI, Agent Engineer, and AI Ethicist \u2014 against a detailed grid of technical and business skill areas. Skills are grouped into four categories: modeling & algorithms (Python, DL frameworks, GenAI/RAG/agent systems, AI evaluation), data & pipelines (SQL, vector databases, data wrangling), deployment & infrastructure (APIs, cloud platforms, CI/CD, observability), and business/security/governance (communication, AI security, AI ethics). Each cell is scored 0-3 for priority level per role, with the 2026 update noting increased emphasis on agents, evaluation, governance, and workflow integration.",
+    "source_type": "drive-image",
+    "drive_id": "1RpWU8cm9HIfQFWOFfFYcEIKFScIK05Zy",
+    "drive_name": "Screenshot 2026-06-01 at 3.45.45\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1RpWU8cm9HIfQFWOFfFYcEIKFScIK05Zy/view",
+    "note_path": "notes/2026-06/ai-roles-skills-matrix-2026.md",
+    "image_path": "public/img/notes/2026-06/ai-roles-skills-matrix-2026.png",
+    "phash": "sha256:9512bf9e8ea87a57",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-which-ai-model-to-use-decision-guide",
+    "title": "Which AI Model to Use: A 10-Category Decision Guide",
+    "slug": "which-ai-model-to-use-decision-guide",
+    "date_captured": "2026-06-01",
+    "category": "model-benchmark",
+    "tags": [
+      "ai-models",
+      "model-selection",
+      "chatgpt",
+      "claude",
+      "gemini",
+      "deepseek",
+      "decision-guide"
+    ],
+    "entities": [
+      "Alok Sharan",
+      "ChatGPT",
+      "Claude",
+      "Grok",
+      "Pi",
+      "Deepseek",
+      "Gemini",
+      "Yi-34B",
+      "Mistral",
+      "GitHub Copilot",
+      "StarCoder2",
+      "Perplexity",
+      "You.com",
+      "InternLM2",
+      "GPT4All",
+      "LM Studio"
+    ],
+    "summary": "Alok Sharan's decision guide maps ten common AI use-case categories to the best-fit models for each: general chat/productivity (ChatGPT, Claude, Grok, Pi), advanced reasoning (Claude, Deepseek, Gemini, Yi-34B, Mistral), coding (GitHub Copilot, ChatGPT, Claude, StarCoder2), creative writing, search/research (Perplexity, ChatGPT, Grok, You.com), long document analysis, multi-modal tasks, open-source/self-hosted options (Deepseek, Yi-34B, Mistral, StarCoder2, GPT4All), enterprise/secure use (ChatGPT, Claude, Gemini, Copilot, LM Studio), and education/tutoring.",
+    "source_type": "drive-image",
+    "drive_id": "1ER7L_ja3RUlmlbxlOFyoGn3pTba7Vq60",
+    "drive_name": "Screenshot 2026-06-01 at 2.13.58\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1ER7L_ja3RUlmlbxlOFyoGn3pTba7Vq60/view",
+    "note_path": "notes/2026-06/which-ai-model-to-use-decision-guide.md",
+    "image_path": "public/img/notes/2026-06/which-ai-model-to-use-decision-guide.png",
+    "phash": "sha256:7aee2dcad5bc97b2",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-top-5-rag-architectures-2026-batch8-capture",
+    "title": "Top 5 RAG Architectures You Must Know in 2026 (repeat capture)",
+    "slug": "top-5-rag-architectures-2026-batch8-capture",
+    "date_captured": "2026-06-01",
+    "category": "architecture",
+    "tags": [
+      "rag",
+      "graphrag",
+      "agentic-rag",
+      "corrective-rag",
+      "multimodal-rag",
+      "duplicate"
+    ],
+    "entities": [
+      "Brij Kishore Pandey"
+    ],
+    "summary": "This is a repeat capture of Brij Kishore Pandey's 'Top 5 RAG Architectures' infographic (Hybrid RAG, GraphRAG, Agentic RAG, Corrective RAG, Multimodal RAG), already ingested twice previously as 'top-5-rag-architectures-2026' and its duplicate variant. Content is identical to the existing notes.",
+    "source_type": "drive-image",
+    "drive_id": "1U6wv_B8f0XeX5JSF5Ga_yRPqd58AExKq",
+    "drive_name": "Screenshot 2026-06-01 at 1.40.53\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1U6wv_B8f0XeX5JSF5Ga_yRPqd58AExKq/view",
+    "note_path": "notes/2026-06/top-5-rag-architectures-2026-batch8-capture.md",
+    "image_path": "public/img/notes/2026-06/top-5-rag-architectures-2026-batch8-capture.png",
+    "phash": "sha256:41e100d2c17a0cef",
+    "ingested_at": "2026-08-02T20:15:05.665026Z",
+    "duplicate_of": "top-5-rag-architectures-2026"
+  },
+  {
+    "id": "note-iso-42001-aims-complete-framework-khalid-lakdawala",
+    "title": "ISO/IEC 42001:2023 AI Management System (AIMS): Complete Framework for Responsible AI Governance",
+    "slug": "iso-42001-aims-complete-framework-khalid-lakdawala",
+    "date_captured": "2026-06-01",
+    "category": "governance",
+    "tags": [
+      "iso-42001",
+      "ai-governance",
+      "ai-management-system",
+      "compliance",
+      "risk-management",
+      "certification"
+    ],
+    "entities": [
+      "Khalid Lakdawala",
+      "ISO/IEC 42001"
+    ],
+    "summary": "Khalid Lakdawala's detailed reference explains ISO/IEC 42001:2023, the world's first international standard for AI Management Systems, covering the Plan-Do-Check-Act (PDCA) framework, nine core components (context of the organization, leadership, planning, support, operation, performance evaluation, improvement, AI system lifecycle management, AI risk management), the seven-stage AI system lifecycle in scope, a six-step risk management process, typical use cases (chatbots, AI-enabled decision support, HR/finance/operations), certification benefits, and a seven-step certification journey from gap analysis to surveillance audits. It also lists eight AIMS principles: fairness, transparency, accountability, privacy/data protection, safety/security, human oversight, robustness/reliability, and societal/environmental well-being.",
+    "source_type": "drive-image",
+    "drive_id": "1svfBPdhrxUDaTASQQuR9uYoErY7RX12o",
+    "drive_name": "Screenshot 2026-05-31 at 10.09.21\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1svfBPdhrxUDaTASQQuR9uYoErY7RX12o/view",
+    "note_path": "notes/2026-06/iso-42001-aims-complete-framework-khalid-lakdawala.md",
+    "image_path": "public/img/notes/2026-06/iso-42001-aims-complete-framework-khalid-lakdawala.png",
+    "phash": "sha256:6cda3b6468d6efb5",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-cpu-gpu-tpu-npu-lpu-dpu-comparison-batch8",
+    "title": "CPU vs GPU vs TPU vs NPU vs LPU vs DPU: The 6 Processors Powering Modern AI",
+    "slug": "cpu-gpu-tpu-npu-lpu-dpu-comparison-batch8",
+    "date_captured": "2026-06-01",
+    "category": "concept-primer",
+    "tags": [
+      "hardware",
+      "gpu",
+      "tpu",
+      "npu",
+      "lpu",
+      "dpu",
+      "ai-infrastructure",
+      "duplicate"
+    ],
+    "entities": [
+      "Brij Kishore Pandey",
+      "Nvidia",
+      "Google",
+      "Intel",
+      "AMD"
+    ],
+    "summary": "This is a repeat capture of Brij Kishore Pandey's processor comparison infographic already ingested as 'cpu-gpu-tpu-npu-lpu-dpu-comparison,' covering the same six processor types (CPU, GPU, TPU, NPU, LPU, DPU) with identical pros/cons, workflow diagrams, and use-case guidance (CPU for orchestration, GPU for training, TPU for Google-scale tensor workloads, NPU for edge/mobile inference, LPU for real-time LLM serving, DPU for data center infrastructure).",
+    "source_type": "drive-image",
+    "drive_id": "18EF3Ic113SvwssJut-LqJQpEIU44iGax",
+    "drive_name": "Screenshot 2026-05-31 at 9.29.43\u202fAM.png",
+    "drive_link": "https://drive.google.com/file/d/18EF3Ic113SvwssJut-LqJQpEIU44iGax/view",
+    "note_path": "notes/2026-06/cpu-gpu-tpu-npu-lpu-dpu-comparison-batch8.md",
+    "image_path": "public/img/notes/2026-06/cpu-gpu-tpu-npu-lpu-dpu-comparison-batch8.png",
+    "phash": "sha256:ff17eb81a51255aa",
+    "ingested_at": "2026-08-02T20:15:05.665026Z",
+    "duplicate_of": "cpu-gpu-tpu-npu-lpu-dpu-comparison"
+  },
+  {
+    "id": "note-microsoft-copilot-vs-m365-copilot-detailed-comparison",
+    "title": "Microsoft Copilot vs Microsoft 365 Copilot: Purpose, Data Access, and Key Differences",
+    "slug": "microsoft-copilot-vs-m365-copilot-detailed-comparison",
+    "date_captured": "2026-06-01",
+    "category": "vendor-ecosystem",
+    "tags": [
+      "microsoft-copilot",
+      "microsoft-365",
+      "enterprise-ai",
+      "grounding",
+      "microsoft-graph"
+    ],
+    "entities": [
+      "Microsoft",
+      "Microsoft Copilot",
+      "Microsoft 365 Copilot",
+      "OpenAI"
+    ],
+    "summary": "A detailed side-by-side comparison distinguishes Microsoft Copilot (a general-purpose AI assistant using web data and user prompts, with no automatic access to company data) from Microsoft 365 Copilot (a permission-aware work assistant that connects to Microsoft Graph data including Outlook emails, Teams chats, SharePoint, OneDrive, and calendars to deliver context-aware assistance across Word, Excel, PowerPoint, Outlook, and Teams). It includes background-logic diagrams for both products, a feature comparison table (main purpose, data access, context awareness, app integration, security, licensing requirements), and practical example use cases for each in a logistics/systems-support setting.",
+    "source_type": "drive-image",
+    "drive_id": "1IyC-r2iXSF0o0kgXv9BfPph8iMhaDbdV",
+    "drive_name": "Screenshot 2026-05-30 at 9.52.23\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1IyC-r2iXSF0o0kgXv9BfPph8iMhaDbdV/view",
+    "note_path": "notes/2026-06/microsoft-copilot-vs-m365-copilot-detailed-comparison.md",
+    "image_path": "public/img/notes/2026-06/microsoft-copilot-vs-m365-copilot-detailed-comparison.png",
+    "phash": "sha256:a1ba51b21314aaf6",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-must-know-ai-terms-twelve-core-concepts",
+    "title": "Must-Know AI Terms: 12 Core Concepts (LLM, Hallucination, Token, RAG, Fine-tuning, and More)",
+    "slug": "must-know-ai-terms-twelve-core-concepts",
+    "date_captured": "2026-05-30",
+    "category": "concept-primer",
+    "tags": [
+      "ai-terminology",
+      "llm",
+      "rag",
+      "fine-tuning",
+      "hallucination",
+      "tokens",
+      "ai-literacy"
+    ],
+    "entities": [
+      "AI For Leaders"
+    ],
+    "summary": "AI For Leaders' glossary-style infographic defines twelve foundational AI terms in plain language: LLM (the AI brain behind ChatGPT/Claude/Gemini/Copilot), hallucination (confidently incorrect outputs, often from missing context), token (basic unit of AI communication, a word chunk), training vs inference, fine-tuning (specializing a general model), reinforcement learning (agent-environment-reward loop), distillation (teaching a smaller model to mimic a larger one), RAG (grounding answers in your own documents to reduce hallucination), chain of thought (breaking complex problems into steps), weights (learned parameters), validation loss (a training-quality score, lower is better), and coding agents (autonomous code writing/testing/debugging).",
+    "source_type": "drive-image",
+    "drive_id": "1cBiVLRiBVy4Nyd0mFjL_986cBCMfWgUR",
+    "drive_name": "1779747763129.jpeg",
+    "drive_link": "https://drive.google.com/file/d/1cBiVLRiBVy4Nyd0mFjL_986cBCMfWgUR/view",
+    "note_path": "notes/2026-05/must-know-ai-terms-twelve-core-concepts.md",
+    "image_path": "public/img/notes/2026-05/must-know-ai-terms-twelve-core-concepts.jpg",
+    "phash": "sha256:20572b7162d278db",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-how-to-explain-ai-types-vertical-layout-jason-moccia",
+    "title": "How to Explain AI Types: Predictive, Generative, Agentic, Physical (vertical layout variant)",
+    "slug": "how-to-explain-ai-types-vertical-layout-jason-moccia",
+    "date_captured": "2026-05-30",
+    "category": "concept-primer",
+    "tags": [
+      "ai-types",
+      "predictive-ai",
+      "generative-ai",
+      "agentic-ai",
+      "physical-ai",
+      "ai-literacy"
+    ],
+    "entities": [
+      "Jason Moccia"
+    ],
+    "summary": "A vertical four-column variant of the four-AI-types framework (Predictive, Generative, Agentic, Physical AI) by Jason Moccia, covering the same conceptual ground as the AI For Leaders circular version captured earlier in this backfill (same batch 7) but with different visual design, author, and slightly expanded sub-bullets: predictive AI examples extend to anomaly detection for fraud/security; generative AI includes workflow automation and RAG-based knowledge systems; agentic AI covers multi-agent orchestration and AI product integration; physical AI covers autonomous vehicles/drones and spatial intelligence (3D computer vision, LiDAR, sensor fusion).",
+    "source_type": "drive-image",
+    "drive_id": "1wBz8wUi4jWVYny4AQmOy9Dl84SbvZ1gX",
+    "drive_name": "1779749997768.jpeg",
+    "drive_link": "https://drive.google.com/file/d/1wBz8wUi4jWVYny4AQmOy9Dl84SbvZ1gX/view",
+    "note_path": "notes/2026-05/how-to-explain-ai-types-vertical-layout-jason-moccia.md",
+    "image_path": "public/img/notes/2026-05/how-to-explain-ai-types-vertical-layout-jason-moccia.jpg",
+    "phash": "sha256:132879a0f14ec8eb",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-how-to-build-ai-native-startup-anthropic-playbook",
+    "title": "How to Build an AI-Native Startup: Anthropic's Founder Playbook (Idea to Scale)",
+    "slug": "how-to-build-ai-native-startup-anthropic-playbook",
+    "date_captured": "2026-05-30",
+    "category": "strategy",
+    "tags": [
+      "ai-native-startups",
+      "anthropic",
+      "claude",
+      "founder-playbook",
+      "startup-strategy"
+    ],
+    "entities": [
+      "Anthropic",
+      "Claude",
+      "Claude Code",
+      "Claude Cowork",
+      "Alex Barady",
+      "Endgame"
+    ],
+    "summary": "A founder's playbook attributed to Anthropic's May 2026 guidance maps the AI-native startup journey through four funnel stages \u2014 Idea (validate before building, ~80% start here), MVP (build evidence not completeness, ~40% reach this stage), Launch (systems replace founder attention, ~15% cross this threshold), and Scale (moat through accumulated depth, ~6% reach here) \u2014 each paired with specific Claude tools (Claude Chat, Claude Code + CLAUDE.md, Claude Cowork + Claude Code) and an evolving founder role (from individual contributor/orchestrator to public-facing executive). Key stats include 42% of startups failing from building something nobody wanted, and a 40% 'very disappointed' threshold as the MVP success test.",
+    "source_type": "drive-image",
+    "drive_id": "1YgceiZLZT_4M3zl9tgxPYJkicsmWHzqn",
+    "drive_name": "1780053107436.jpeg",
+    "drive_link": "https://drive.google.com/file/d/1YgceiZLZT_4M3zl9tgxPYJkicsmWHzqn/view",
+    "note_path": "notes/2026-05/how-to-build-ai-native-startup-anthropic-playbook.md",
+    "image_path": "public/img/notes/2026-05/how-to-build-ai-native-startup-anthropic-playbook.jpg",
+    "phash": "sha256:976b3a012fed7cf2",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-ai-agent-choice-map-decision-flowchart",
+    "title": "AI Agent Choice Map: A Decision Flowchart for Selecting Agent Architecture",
+    "slug": "ai-agent-choice-map-decision-flowchart",
+    "date_captured": "2026-05-30",
+    "category": "concept-primer",
+    "tags": [
+      "ai-agents",
+      "decision-flowchart",
+      "rag",
+      "fine-tuning",
+      "multi-agent",
+      "cost-complexity"
+    ],
+    "entities": [
+      "Rahul Agarwal"
+    ],
+    "summary": "Rahul Agarwal's animated decision flowchart (captured as a GIF) guides architecture selection based on five yes/no questions: whether the task requires private data, whether it needs tools/task execution, whether expert agents are needed, whether data is fixed and under 200K tokens, and whether a fixed tone/structure is required. The flow routes to one of five endpoint architectures, each annotated with cost, response time, and complexity: Single LLM Call (low cost, 1-5 sec, low complexity), Single Agent & Tools (medium cost, 6-25 sec, mid complexity), Multi-Agent Flow (high cost, 35-120 sec, high complexity), RAG (medium cost, 1-5 sec, mid complexity), and Fine-Tuned Model (high cost, 1-7 sec, high complexity).",
+    "source_type": "drive-image",
+    "drive_id": "1GT9j9Ud-KeBIO2PVsMA1_xMPHAgQaKAD",
+    "drive_name": "1779735413997.gif",
+    "drive_link": "https://drive.google.com/file/d/1GT9j9Ud-KeBIO2PVsMA1_xMPHAgQaKAD/view",
+    "note_path": "notes/2026-05/ai-agent-choice-map-decision-flowchart.md",
+    "image_path": "public/img/notes/2026-05/ai-agent-choice-map-decision-flowchart.gif",
+    "phash": "sha256:29dcc72ebcc17447",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-microsoft-ai-stack-for-project-managers",
+    "title": "Microsoft AI Stack for Project Managers: 10 Tools Mapped to Delivery Stages",
+    "slug": "microsoft-ai-stack-for-project-managers",
+    "date_captured": "2026-05-29",
+    "category": "vendor-ecosystem",
+    "tags": [
+      "microsoft-copilot",
+      "project-management",
+      "copilot-studio",
+      "azure-ai-foundry",
+      "m365"
+    ],
+    "entities": [
+      "Microsoft",
+      "Microsoft Copilot",
+      "Microsoft Teams",
+      "Microsoft Outlook",
+      "Microsoft Word",
+      "Microsoft Excel",
+      "Microsoft PowerPoint",
+      "Microsoft Loop",
+      "Copilot Studio",
+      "Azure AI Foundry",
+      "Phi"
+    ],
+    "summary": "A project-management-focused reference maps ten Microsoft AI capabilities to specific stages of project delivery: Microsoft Copilot for everyday drafting/summaries/admin, Copilot in Teams for meeting notes and action capture, Copilot in Outlook for stakeholder email drafts, Copilot in Word for briefs and governance notes, Copilot in Excel for RAID log and budget analysis, Copilot in PowerPoint for steering packs and executive updates, Microsoft Loop for collaborative planning, Copilot Studio for building custom repeat-workflow assistants, Azure AI Foundry for enterprise AI solution design, and Phi models for lightweight, fast, focused tasks. The simple rule offered: Copilot for daily productivity, M365 apps for delivery outputs, and Copilot Studio/Azure AI Foundry for repeatable AI systems.",
+    "source_type": "drive-image",
+    "drive_id": "1eNNCAHFIIQ6RAhnP1ZmNvr-6rhajcuJr",
+    "drive_name": "Screenshot 2026-05-29 at 12.02.43\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1eNNCAHFIIQ6RAhnP1ZmNvr-6rhajcuJr/view",
+    "note_path": "notes/2026-05/microsoft-ai-stack-for-project-managers.md",
+    "image_path": "public/img/notes/2026-05/microsoft-ai-stack-for-project-managers.png",
+    "phash": "sha256:076e85c3a21bb2f6",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-building-robust-rag-system-seven-step-framework",
+    "title": "Building a Robust RAG System: 7-Step Framework (Query Construction to Evaluation)",
+    "slug": "building-robust-rag-system-seven-step-framework",
+    "date_captured": "2026-05-29",
+    "category": "architecture",
+    "tags": [
+      "rag",
+      "query-routing",
+      "reranking",
+      "indexing",
+      "evaluation",
+      "hand-drawn"
+    ],
+    "entities": [
+      "Brij Kishore Pandey"
+    ],
+    "summary": "A hand-drawn-style diagram by Brij Kishore Pandey breaks robust RAG system design into seven steps: query construction (relational SQL, graph Cypher, vector similarity), RAG types (multi-query/RAG fusion vs HyDE/decomposition), routing (logical vs semantic), indexing (semantic split, multi-representation, ColBERT, RAPTOR), retrieval (refinement and reranking), generation (active retrieval, Self-RAG), and evaluation (Ragas, Grouse, DeepEval). A central flow diagram shows the question routed through graph DB, relational DB, or vector store, funneled into documents, and passed to the LLM for the final answer.",
+    "source_type": "drive-image",
+    "drive_id": "1bqqjGgxgwQEYXL_PH4Fwqa5LmJuHATf0",
+    "drive_name": "Screenshot 2026-05-29 at 12.42.39\u202fAM.png",
+    "drive_link": "https://drive.google.com/file/d/1bqqjGgxgwQEYXL_PH4Fwqa5LmJuHATf0/view",
+    "note_path": "notes/2026-05/building-robust-rag-system-seven-step-framework.md",
+    "image_path": "public/img/notes/2026-05/building-robust-rag-system-seven-step-framework.png",
+    "phash": "sha256:3edaedfb2cb5ba4d",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-seven-step-blueprint-implement-agentic-ai",
+    "title": "The 7-Step Blueprint to Implement Agentic AI: From Chat to Action",
+    "slug": "seven-step-blueprint-implement-agentic-ai",
+    "date_captured": "2026-05-29",
+    "category": "agents",
+    "tags": [
+      "agentic-ai",
+      "implementation",
+      "guardrails",
+      "observability",
+      "human-in-the-loop"
+    ],
+    "entities": [
+      "Brij Kishore Pandey"
+    ],
+    "summary": "Brij Kishore Pandey's practical implementation framework outlines seven steps to turn agentic AI from a chat interface into a coordinated production system: identify the right use case (focus on high-value, repeatable processes with clear success criteria), break the workflow into tasks (map inputs/outputs/dependencies and where human approval is needed), equip the agent with tools (scoped, auditable, permissioned), add memory and context (short-term session memory plus long-term preferences/history), build guardrails and governance (role-based access, PII filtering, policy enforcement, audit logging), add evaluation and observability (track latency, cost, tool calls, failures), and deploy as an agentic workflow (state machines, fallbacks, retries, production monitoring). The core agentic AI stack spans LLM, tools, memory, workflow engine, guardrails, evaluation, observability, and human-in-the-loop.",
+    "source_type": "drive-image",
+    "drive_id": "1B8ScacOKOYQlwdcRCr7kikdu4bfx00mf",
+    "drive_name": "Screenshot 2026-05-28 at 7.47.36\u202fAM.png",
+    "drive_link": "https://drive.google.com/file/d/1B8ScacOKOYQlwdcRCr7kikdu4bfx00mf/view",
+    "note_path": "notes/2026-05/seven-step-blueprint-implement-agentic-ai.md",
+    "image_path": "public/img/notes/2026-05/seven-step-blueprint-implement-agentic-ai.png",
+    "phash": "sha256:74d13c9b7b9b09aa",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-four-layers-ai-guardrails-clare-kitching",
+    "title": "4 Layers of AI Guardrails: Governance, Operating Model, Process, and System",
+    "slug": "four-layers-ai-guardrails-clare-kitching",
+    "date_captured": "2026-05-29",
+    "category": "governance",
+    "tags": [
+      "ai-guardrails",
+      "ai-governance",
+      "risk-management",
+      "shadow-ai",
+      "compliance"
+    ],
+    "entities": [
+      "Clare Kitching",
+      "Gartner",
+      "Security Magazine"
+    ],
+    "summary": "Clare Kitching's four-layer guardrail model nests governance (setting risk appetite, accountability, and oversight via risk frameworks and ethics committees) around an operating model (translating strategy into everyday behavior through usage policies and staff training), around process (embedding safeguards into delivery via human review and approval/escalation paths), around a technical system layer (output validation, content filters, prompt guardrails, PII detection). Supporting statistics show 55% of organizations have an AI board or oversight body (Gartner), 32% of employees using AI at work keep it secret from their employer (Security Magazine), and in high-maturity organizations 57% of business units trust new AI solutions versus 14% in low-maturity organizations (Gartner).",
+    "source_type": "drive-image",
+    "drive_id": "1yxPwKko4A6iN8Xs8Uflv-hL8MI2xf6j-",
+    "drive_name": "Screenshot 2026-05-28 at 7.44.44\u202fAM.png",
+    "drive_link": "https://drive.google.com/file/d/1yxPwKko4A6iN8Xs8Uflv-hL8MI2xf6j-/view",
+    "note_path": "notes/2026-05/four-layers-ai-guardrails-clare-kitching.md",
+    "image_path": "public/img/notes/2026-05/four-layers-ai-guardrails-clare-kitching.png",
+    "phash": "sha256:4beca448e81c61d3",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-how-to-master-claude-in-five-days",
+    "title": "How to Master Claude in 5 Days: A Practical Onboarding Plan",
+    "slug": "how-to-master-claude-in-five-days",
+    "date_captured": "2026-05-29",
+    "category": "tooling",
+    "tags": [
+      "claude",
+      "onboarding",
+      "productivity",
+      "workflow-automation",
+      "prompt-engineering"
+    ],
+    "entities": [
+      "AI For Leaders",
+      "Claude",
+      "Claude Cowork",
+      "Claude Code",
+      "Gmail",
+      "Google Drive",
+      "Notion"
+    ],
+    "summary": "AI For Leaders' five-day onboarding plan turns Claude into a repeatable work system: Day 1 sets up basics (select mode, set preferences, enable memory, download desktop app, run a first task); Day 2 builds a first project (project instructions, knowledge base, test run); Day 3 establishes an operating rhythm (web search, skills, artifacts, chained tasks, saved prompt templates); Day 4 connects tools (Gmail/Drive/Notion connectors, custom skills, workflows, research mode); Day 5 delegates work (automated workflows, scheduled tasks, Chrome extension, mobile access, finding new use cases). The main takeaway is moving from one-off prompts to a repeatable Claude workflow.",
+    "source_type": "drive-image",
+    "drive_id": "1hy0GLpdjsf3PCIxpJo9BsaUIjJO2OQK0",
+    "drive_name": "Screenshot 2026-05-27 at 9.02.47\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1hy0GLpdjsf3PCIxpJo9BsaUIjJO2OQK0/view",
+    "note_path": "notes/2026-05/how-to-master-claude-in-five-days.md",
+    "image_path": "public/img/notes/2026-05/how-to-master-claude-in-five-days.png",
+    "phash": "sha256:2b5d6f14248b25d4",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-top-ai-use-cases-sixteen-industries",
+    "title": "Top AI Use Cases Every Industry Leader Must Know: 16 Industries Including Construction",
+    "slug": "top-ai-use-cases-sixteen-industries",
+    "date_captured": "2026-05-29",
+    "category": "case-study",
+    "tags": [
+      "ai-use-cases",
+      "industry-applications",
+      "construction",
+      "manufacturing",
+      "logistics",
+      "roi"
+    ],
+    "entities": [],
+    "summary": "A sixteen-industry reference maps a specific high-value AI use case to each sector along with the inefficiency it replaces and quantified cost impact: marketing (campaign automation), healthcare (clinical note transcription, replacing 50% of doctors' paperwork time), finance (fraud detection catching what legacy systems miss, $340B annual industry cost), logistics, real estate, manufacturing (predictive maintenance, $50B+ global downtime cost), education, energy, retail ($112B annual shrinkage losses), legal (contract review), automotive ($51B in warranty claims), cybersecurity, HR, insurance, construction (delay/cost-overrun/safety risk flagging from drone and sensor data, noting 75% of projects run over budget and a 500K worker shortage), and hospitality.",
+    "source_type": "drive-image",
+    "drive_id": "1BCWY2BxtIUJSAXaZUxvCzQKg_HLPtM9g",
+    "drive_name": "Screenshot 2026-05-27 at 9.00.42\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1BCWY2BxtIUJSAXaZUxvCzQKg_HLPtM9g/view",
+    "note_path": "notes/2026-05/top-ai-use-cases-sixteen-industries.md",
+    "image_path": "public/img/notes/2026-05/top-ai-use-cases-sixteen-industries.png",
+    "phash": "sha256:8a872bd1edad1392",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-data-cleaning-using-sql-ten-techniques",
+    "title": "Data Cleaning Using SQL: 10 Common Techniques with Query Examples",
+    "slug": "data-cleaning-using-sql-ten-techniques",
+    "date_captured": "2026-05-29",
+    "category": "data-engineering",
+    "tags": [
+      "sql",
+      "data-cleaning",
+      "data-quality",
+      "etl"
+    ],
+    "entities": [
+      "Ashish Joshi"
+    ],
+    "summary": "Ashish Joshi's reference card lists ten SQL data-cleaning techniques with ready-to-use query patterns: replacing NULLs with default values (IFNULL), deleting rows with NULLs, converting text to lowercase, finding duplicate rows (GROUP BY/HAVING), removing leading/trailing spaces (TRIM), splitting full names into first/last, standardizing date formats, eliminating special characters (REGEXP_REPLACE), identifying and removing outliers via threshold queries, and fixing typo/incorrect categorical values.",
+    "source_type": "drive-image",
+    "drive_id": "1rWeCXjpq9cnw7h-_anqXbVWsO_mndbRA",
+    "drive_name": "Screenshot 2026-05-27 at 9.00.10\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1rWeCXjpq9cnw7h-_anqXbVWsO_mndbRA/view",
+    "note_path": "notes/2026-05/data-cleaning-using-sql-ten-techniques.md",
+    "image_path": "public/img/notes/2026-05/data-cleaning-using-sql-ten-techniques.png",
+    "phash": "sha256:660f81989863e80a",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-rag-vs-agentic-rag-comparison-datasciencedojo",
+    "title": "RAG vs Agentic RAG: How Retrieval-Augmented Generation Evolves with Agents",
+    "slug": "rag-vs-agentic-rag-comparison-datasciencedojo",
+    "date_captured": "2026-05-29",
+    "category": "architecture",
+    "tags": [
+      "rag",
+      "agentic-rag",
+      "vector-database",
+      "query-rewriting",
+      "self-reflection"
+    ],
+    "entities": [
+      "Data Science Dojo"
+    ],
+    "summary": "Data Science Dojo's side-by-side comparison contrasts classic RAG's linear seven-step flow (encode query, index in vector DB, similarity search, retrieve context, prompt LLM, generate response) with Agentic RAG's eleven-step iterative flow, which adds query rewriting, a 'need more details?' decision point, source selection among vector DB/tools-APIs/internet, and a final relevance check that can loop back to rewrite the query if the answer isn't satisfactory before producing the final response.",
+    "source_type": "drive-image",
+    "drive_id": "1gvWR7XteCWh8L2plVx00gQoJ-UH-AyHA",
+    "drive_name": "Screenshot 2026-05-27 at 8.59.43\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1gvWR7XteCWh8L2plVx00gQoJ-UH-AyHA/view",
+    "note_path": "notes/2026-05/rag-vs-agentic-rag-comparison-datasciencedojo.md",
+    "image_path": "public/img/notes/2026-05/rag-vs-agentic-rag-comparison-datasciencedojo.png",
+    "phash": "sha256:cf48cb85ed7bfdda",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-top-nine-ai-certifications-mindmap",
+    "title": "Top 9 Best AI Certifications Mindmap: Google, IBM, AWS, and DeepLearning.AI",
+    "slug": "top-nine-ai-certifications-mindmap",
+    "date_captured": "2026-05-29",
+    "category": "adoption",
+    "tags": [
+      "ai-certifications",
+      "career-development",
+      "google-cloud",
+      "aws",
+      "ibm",
+      "deeplearning-ai"
+    ],
+    "entities": [
+      "Google",
+      "IBM",
+      "AWS",
+      "DeepLearning.AI",
+      "Greg Coquillo",
+      "Google AI Essentials",
+      "Google Cloud Professional ML Engineer",
+      "IBM AI Engineering Professional Certificate",
+      "IBM Generative AI Engineering Certificate",
+      "AWS Certified AI Practitioner",
+      "AWS Certified Machine Learning Specialty"
+    ],
+    "summary": "Greg Coquillo's mindmap ranks nine AI certifications spanning beginner to advanced levels: Google AI Essentials (beginner-friendly, no coding), Google Cloud Professional ML Engineer (production ML systems, Vertex AI), IBM AI Engineering Professional Certificate (ML foundations, deep learning with Python), IBM Generative AI Engineering Certificate (LLM apps, LangChain/RAG, agent workflows), AWS Certified AI Practitioner (AWS AI services, Bedrock/SageMaker basics), AWS Certified Machine Learning Specialty (advanced ML on AWS), and three DeepLearning.AI offerings (Machine Learning Specialization, Deep Learning Specialization, AI for Everyone).",
+    "source_type": "drive-image",
+    "drive_id": "1HG53x1ZspkXNjeN_0gfsozZGYklruDrq",
+    "drive_name": "Screenshot 2026-05-27 at 8.59.10\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1HG53x1ZspkXNjeN_0gfsozZGYklruDrq/view",
+    "note_path": "notes/2026-05/top-nine-ai-certifications-mindmap.md",
+    "image_path": "public/img/notes/2026-05/top-nine-ai-certifications-mindmap.png",
+    "phash": "sha256:ab155253cd6814bf",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-create-agent-copilot-studio-six-steps",
+    "title": "Create an Agent in Copilot Studio: 6-Step Walkthrough",
+    "slug": "create-agent-copilot-studio-six-steps",
+    "date_captured": "2026-05-29",
+    "category": "tooling",
+    "tags": [
+      "copilot-studio",
+      "microsoft",
+      "ai-agents",
+      "low-code",
+      "sharepoint"
+    ],
+    "entities": [
+      "Microsoft",
+      "Copilot Studio",
+      "OneDrive",
+      "SharePoint"
+    ],
+    "summary": "Microsoft's official six-step walkthrough for building an agent in Copilot Studio: go to Copilot Studio and sign in with a work/school account, start a new agent by describing what it should do, provide basic details (name, description, language, tone), add knowledge by connecting data sources (public website, OneDrive, SharePoint), test the agent in the test pane, and publish it to a defined audience. The example shown is an HR Assistant that answers questions about HR policies, benefits, and onboarding using SharePoint-connected knowledge.",
+    "source_type": "drive-image",
+    "drive_id": "1wZf8ypa50G87ZS6HqSEJvGl5JwkHi37s",
+    "drive_name": "Screenshot 2026-05-27 at 7.18.13\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1wZf8ypa50G87ZS6HqSEJvGl5JwkHi37s/view",
+    "note_path": "notes/2026-05/create-agent-copilot-studio-six-steps.md",
+    "image_path": "public/img/notes/2026-05/create-agent-copilot-studio-six-steps.png",
+    "phash": "sha256:bb09e6311a6aa854",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-how-to-use-copilot-four-apps-mindmap",
+    "title": "How to Use Copilot: Word, Excel, PowerPoint, and Chatbot Purpose/Features/Uses",
+    "slug": "how-to-use-copilot-four-apps-mindmap",
+    "date_captured": "2026-05-29",
+    "category": "tooling",
+    "tags": [
+      "microsoft-copilot",
+      "microsoft-word",
+      "microsoft-excel",
+      "microsoft-powerpoint",
+      "productivity"
+    ],
+    "entities": [
+      "Aiswarya Venkitesh",
+      "Microsoft Copilot",
+      "Microsoft Word",
+      "Microsoft Excel",
+      "Microsoft PowerPoint"
+    ],
+    "summary": "Aiswarya Venkitesh's mindmap details Copilot usage across four Microsoft surfaces: Copilot in Word (draft documents from a short prompt, rewrite/shorten text, summarize long files \u2014 pro tip: 'summarise this document into 5 bullet points'), Copilot in Excel (build charts/formulas/pivot tables from text, clean messy data, highlight trends \u2014 pro tip: ask 'what's driving this number?'), Copilot in PowerPoint (create full decks from text/Word docs, auto-generate speaker notes, turn dense text into visuals \u2014 pro tip: 'turn this report into a 7-slide summary with visuals'), and Copilot in Chatbot (search emails/files/chats instantly, draft replies/summaries, analyze PDFs/Excel/reports \u2014 pro tip: 'summarise everything I missed this week').",
+    "source_type": "drive-image",
+    "drive_id": "1XY2j9HIErP2_zcDVLfZwISVwIZhNPFNN",
+    "drive_name": "Screenshot 2026-05-27 at 11.18.42\u202fAM.png",
+    "drive_link": "https://drive.google.com/file/d/1XY2j9HIErP2_zcDVLfZwISVwIZhNPFNN/view",
+    "note_path": "notes/2026-05/how-to-use-copilot-four-apps-mindmap.md",
+    "image_path": "public/img/notes/2026-05/how-to-use-copilot-four-apps-mindmap.png",
+    "phash": "sha256:c613a26e0926f80a",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-twenty-must-know-agentic-ai-terms-andreas-horn",
+    "title": "20 Must-Know Agentic AI Terms: The Production Vocabulary of Agentic AI",
+    "slug": "twenty-must-know-agentic-ai-terms-andreas-horn",
+    "date_captured": "2026-05-29",
+    "category": "concept-primer",
+    "tags": [
+      "agentic-ai",
+      "ai-terminology",
+      "mcp",
+      "a2a-protocol",
+      "guardrails",
+      "observability"
+    ],
+    "entities": [
+      "Andreas Horn"
+    ],
+    "summary": "Andreas Horn's twenty-term glossary defines the production vocabulary of agentic AI: MCP (the standard connecting agents to tools/systems/data), A2A (agent-to-agent communication protocol), Agent Loop (perceive-plan-act-observe), Tool Use, Orchestrator, Multi-Agent System, Memory, RAG, Grounding, Context Engineering, Guardrails, Policy Layer, Sandboxing, Human-in-the-Loop, Handoffs, Agent Observability, Agentic Pipeline, Evaluation (Evals), Agent Identity, and Agent Protocols (interoperability standards at scale).",
+    "source_type": "drive-image",
+    "drive_id": "1Yi6ORgI0j2e4Td1AKFXADhb4ruzPQWim",
+    "drive_name": "Screenshot 2026-05-27 at 11.17.42\u202fAM.png",
+    "drive_link": "https://drive.google.com/file/d/1Yi6ORgI0j2e4Td1AKFXADhb4ruzPQWim/view",
+    "note_path": "notes/2026-05/twenty-must-know-agentic-ai-terms-andreas-horn.md",
+    "image_path": "public/img/notes/2026-05/twenty-must-know-agentic-ai-terms-andreas-horn.png",
+    "phash": "sha256:ff04804af49a53f5",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-fifteen-signs-organization-not-ready-ai-agents",
+    "title": "15 Signs Your Organization Isn't Ready for AI Agents",
+    "slug": "fifteen-signs-organization-not-ready-ai-agents",
+    "date_captured": "2026-05-27",
+    "category": "adoption",
+    "tags": [
+      "ai-readiness",
+      "ai-agents",
+      "organizational-change",
+      "data-quality",
+      "governance"
+    ],
+    "entities": [],
+    "summary": "A readiness checklist identifies fifteen warning signs that an organization isn't ready to deploy AI agents: scattered knowledge across tools/teams, documentation that doesn't match reality, no real-time data access, workflows hidden in people's heads rather than defined processes, multiple conflicting versions of truth, no approval/review layer, security built only for humans (not accounting for autonomous behavior), no metrics for AI performance, leadership not driving adoption, no post-launch iteration, no clear ownership of AI outcomes, poor data quality, no defined boundaries on agent actions, no human-in-the-loop for critical decisions, and no cost monitoring for scaling agent usage.",
+    "source_type": "drive-image",
+    "drive_id": "1Gq2oefTE8hom87sKiBzjaXo41rez_CQ8",
+    "drive_name": "Screenshot 2026-05-26 at 7.18.55\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1Gq2oefTE8hom87sKiBzjaXo41rez_CQ8/view",
+    "note_path": "notes/2026-05/fifteen-signs-organization-not-ready-ai-agents.md",
+    "image_path": "public/img/notes/2026-05/fifteen-signs-organization-not-ready-ai-agents.png",
+    "phash": "sha256:3183f5f17b76304f",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-llm-vs-rag-vs-ai-agent-vs-agentic-ai-venn",
+    "title": "LLM vs RAG vs AI Agent vs Agentic AI: The Layers of Intelligence in AI Systems",
+    "slug": "llm-vs-rag-vs-ai-agent-vs-agentic-ai-venn",
+    "date_captured": "2026-05-26",
+    "category": "concept-primer",
+    "tags": [
+      "llm",
+      "rag",
+      "ai-agents",
+      "agentic-ai",
+      "venn-diagram",
+      "terminology"
+    ],
+    "entities": [
+      "Clare Kitching"
+    ],
+    "summary": "Clare Kitching's nested Venn/petal diagram illustrates how capabilities accumulate across four layers of AI system intelligence: LLM (instruction following, conversational memory, prompt engineering, chain-of-thought reasoning, transformer architecture), RAG (adds vector search, embedding models, custom knowledge base integration, hybrid search, source attribution), AI Agent (adds tool use/API calling, task decomposition, planning and execution, feedback loops, autonomous planning), and Agentic AI (adds multi-agent coordination, agent orchestration, A2A/MCP/ACP protocols, agent role assignment, long-term memory management). The overlapping regions show shared capabilities like context, reasoning, and semantic understanding that persist across all four layers.",
+    "source_type": "drive-image",
+    "drive_id": "1xemWS7MDjmv9c1QR2I0c9qVs3_aolRcL",
+    "drive_name": "Screenshot 2026-05-26 at 7.20.14\u202fAM.png",
+    "drive_link": "https://drive.google.com/file/d/1xemWS7MDjmv9c1QR2I0c9qVs3_aolRcL/view",
+    "note_path": "notes/2026-05/llm-vs-rag-vs-ai-agent-vs-agentic-ai-venn.md",
+    "image_path": "public/img/notes/2026-05/llm-vs-rag-vs-ai-agent-vs-agentic-ai-venn.png",
+    "phash": "sha256:8e8f75079c2a8e91",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-ai-strategy-kpi-periodic-table-2026",
+    "title": "AI Strategy KPI Periodic Table 2026: 36 KPIs Across 6 Categories",
+    "slug": "ai-strategy-kpi-periodic-table-2026",
+    "date_captured": "2026-05-26",
+    "category": "strategy",
+    "tags": [
+      "ai-kpis",
+      "ai-strategy",
+      "roi",
+      "governance",
+      "adoption-metrics",
+      "enterprise-ai"
+    ],
+    "entities": [
+      "aidigital.co.uk"
+    ],
+    "summary": "A periodic-table-style reference organizes 36 KPIs for enterprise AI strategy into six color-coded categories: ROI & Financial Impact (cost savings realized, payback period, revenue impact, cost per AI task, AI program P&L, time to value), Operational Performance (throughput improvement, task completion rate, error reduction, straight-through processing rate, automation rate, cycle time reduction), Adoption & Change (AI adoption rate, active usage frequency, AI literacy score, automation rate, business unit engagement, change resistance index), Delivery & Scaling (use case coverage, deployment speed, reusability rate, pilot-to-production rate, stakeholder satisfaction score, integration readiness), Risk & Governance (human review rate, incident response time, scalability readiness, model drift rate, hallucination rate, compliance adherence, risk coverage), and Quality & Output Value (accuracy score, output quality score, consistency rate, relevance score, feedback improvement rate, trust score).",
+    "source_type": "drive-image",
+    "drive_id": "1aDUQ3CFO-dJ0KTCoTVwnl035dXev83-b",
+    "drive_name": "Screenshot 2026-05-25 at 9.15.47\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1aDUQ3CFO-dJ0KTCoTVwnl035dXev83-b/view",
+    "note_path": "notes/2026-05/ai-strategy-kpi-periodic-table-2026.md",
+    "image_path": "public/img/notes/2026-05/ai-strategy-kpi-periodic-table-2026.png",
+    "phash": "sha256:9c593a48e55b8f23",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
   }
 ]
