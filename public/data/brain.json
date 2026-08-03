@@ -11970,5 +11970,580 @@
     "phash": "sha256:c79159edee529f7b",
     "ingested_at": "2026-08-02T20:15:05.665026Z",
     "duplicate_of": "how-to-turn-ai-idea-into-real-workflow"
+  },
+  {
+    "id": "note-claude-code-learning-roadmap-ten-steps",
+    "title": "Claude Code Learning Roadmap: 10-Step Guide to CLAUDE.md, Skills, Hooks, Subagents, and MCP",
+    "slug": "claude-code-learning-roadmap-ten-steps",
+    "date_captured": "2026-05-21",
+    "category": "tooling",
+    "tags": [
+      "claude-code",
+      "agentic-coding",
+      "mcp",
+      "subagents",
+      "skills",
+      "hooks",
+      "learning-roadmap"
+    ],
+    "entities": [
+      "Brij Kishore Pandey",
+      "Claude Code",
+      "Anthropic",
+      "MCP"
+    ],
+    "summary": "A 10-step hand-drawn learning roadmap for Claude Code by Brij Kishore Pandey, covering what Claude Code is (an agentic terminal tool vs. Copilot's autocomplete), the core primitives (CLAUDE.md, Skills, Hooks, Subagents, Plugins, MCP), installation/setup, the four-layer Claude Code stack (interface, reasoning, context, execution), agentic patterns (plan-and-execute, explore-then-edit, test-driven, parallel subagents, self-critique, tool-orchestrated), the SKILL.md standard, multi-agent workflow patterns, session evaluation metrics, and a curated list of learning resources. It is more comprehensive and pedagogically structured than prior single-diagram captures of similar Claude Code concepts.",
+    "source_type": "drive-image",
+    "drive_id": "1IcKa7yn0vcpQxYVSwYHO601Cpa4MUygO",
+    "drive_name": "Screenshot 2026-05-17 at 8.26.05\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1IcKa7yn0vcpQxYVSwYHO601Cpa4MUygO/view",
+    "note_path": "notes/2026-05/claude-code-learning-roadmap-ten-steps.md",
+    "image_path": "public/img/notes/2026-05/claude-code-learning-roadmap-ten-steps.png",
+    "phash": "sha256:02080eeed77c5d7c",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-top-5-rag-architectures-2026-batch10-capture",
+    "title": "Top 5 RAG Architectures You Must Know in 2026 (Repeat Capture)",
+    "slug": "top-5-rag-architectures-2026-batch10-capture",
+    "date_captured": "2026-05-21",
+    "category": "architecture",
+    "tags": [
+      "rag",
+      "graphrag",
+      "agentic-rag",
+      "corrective-rag",
+      "multimodal-rag",
+      "duplicate"
+    ],
+    "entities": [
+      "Brij Kishore Pandey"
+    ],
+    "summary": "This is a repeat capture of Brij Kishore Pandey's 'Top 5 RAG Architectures You Must Know in 2026' infographic, already ingested as 'top-5-rag-architectures-2026' and re-captured multiple times across this backfill. Same five architectures: Hybrid RAG (dense + sparse fusion), GraphRAG (knowledge-graph subgraph retrieval), Agentic RAG (planner agent looping over vector/web/SQL tools), Corrective RAG/CRAG (retrieval grading with web-search fallback), and Multimodal RAG (shared embedding index across text, images, and tables).",
+    "source_type": "drive-image",
+    "drive_id": "1AfJqxhedSsQEdempQ4nHVpLo2L7nXKRe",
+    "drive_name": "Screenshot 2026-05-17 at 8.25.17\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1AfJqxhedSsQEdempQ4nHVpLo2L7nXKRe/view",
+    "note_path": "notes/2026-05/top-5-rag-architectures-2026-batch10-capture.md",
+    "image_path": "public/img/notes/2026-05/top-5-rag-architectures-2026-batch10-capture.png",
+    "phash": "sha256:532cfd216173c47b",
+    "ingested_at": "2026-08-02T20:15:05.665026Z",
+    "duplicate_of": "top-5-rag-architectures-2026"
+  },
+  {
+    "id": "note-claude-agentic-ai-stack-skills-mcp-subagents-hooks",
+    "title": "Claude Agentic AI Stack: Skills, MCP, Subagents, Hooks, and Tools in One Architecture",
+    "slug": "claude-agentic-ai-stack-skills-mcp-subagents-hooks",
+    "date_captured": "2026-05-21",
+    "category": "architecture",
+    "tags": [
+      "claude",
+      "agentic-ai",
+      "mcp",
+      "subagents",
+      "hooks",
+      "skills",
+      "plugins"
+    ],
+    "entities": [
+      "Brij Kishore Pandey",
+      "Claude",
+      "MCP",
+      "Linux Foundation"
+    ],
+    "summary": "A dense nine-panel architecture map by Brij Kishore Pandey unifying Claude's agentic building blocks: Skills as on-demand knowledge modules, a core Perceive-Reason-Act-Observe-Repeat agent loop wrapping an LLM-to-tools brain, MCP servers as the connection layer to external systems (GitHub, Notion, Slack, AWS, databases), the filesystem/CLAUDE.md always-on context layer, subagents as isolated delegated workers, hooks as deterministic pre/post-tool automation, a 'when to use what' decision table (Skills=training manual, MCP=USB-C port, Subagents=team members, Hooks=tripwires, Plugins=app package), and a worked real-world example of a competitor-analysis report triggering CLAUDE.md context, a skill, an MCP search, two subagents, and a hook-triggered formatter.",
+    "source_type": "drive-image",
+    "drive_id": "1GjmvvwqjwZjwxNL7jWGJr60s3GWu37os",
+    "drive_name": "Screenshot 2026-05-17 at 8.24.32\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1GjmvvwqjwZjwxNL7jWGJr60s3GWu37os/view",
+    "note_path": "notes/2026-05/claude-agentic-ai-stack-skills-mcp-subagents-hooks.md",
+    "image_path": "public/img/notes/2026-05/claude-agentic-ai-stack-skills-mcp-subagents-hooks.png",
+    "phash": "sha256:dc25c32458108358",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-agent-guardrails-practitioner-playbook",
+    "title": "Agent Guardrails Practitioner Playbook: Maturity Curve, Six Guardrail Categories, and Failure-Mode Fixes",
+    "slug": "agent-guardrails-practitioner-playbook",
+    "date_captured": "2026-05-17",
+    "category": "governance",
+    "tags": [
+      "ai-agents",
+      "guardrails",
+      "security",
+      "governance",
+      "human-in-the-loop",
+      "cost-controls"
+    ],
+    "entities": [
+      "Umair Ahmad"
+    ],
+    "summary": "A practitioner playbook by Umair Ahmad defining agent guardrails as enforced constraints balancing autonomy and control, organized around a five-level guardrail maturity curve (prompt constraints -> capability restriction -> policy-driven execution -> human oversight/telemetry -> dynamic risk controls) and six guardrail categories: cognitive/reasoning, data access, tool/action, security/isolation, cost/resource, and human-in-the-loop. A closing failure-mode table maps common failure patterns (infinite execution, imaginary actions, data loss, runaway costs, silent errors) to root causes and concrete guardrail fixes.",
+    "source_type": "drive-image",
+    "drive_id": "1UhyVtZQKMQZMVqQjWhtdKMvabWDZx20o",
+    "drive_name": "Screenshot 2026-05-17 at 5.15.52\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1UhyVtZQKMQZMVqQjWhtdKMvabWDZx20o/view",
+    "note_path": "notes/2026-05/agent-guardrails-practitioner-playbook.md",
+    "image_path": "public/img/notes/2026-05/agent-guardrails-practitioner-playbook.png",
+    "phash": "sha256:504128fb25217f93",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-the-agent-development-kit-batch10-capture",
+    "title": "The Agent Development Kit: CLAUDE.md + Skills + Hooks + Subagents + Plugins (Repeat Capture)",
+    "slug": "the-agent-development-kit-batch10-capture",
+    "date_captured": "2026-05-17",
+    "category": "tooling",
+    "tags": [
+      "claude-code",
+      "agent-development",
+      "mcp",
+      "subagents",
+      "hooks",
+      "skills",
+      "duplicate"
+    ],
+    "entities": [
+      "Claude Code",
+      "Anthropic",
+      "LuMay AI",
+      "MCP"
+    ],
+    "summary": "This is a repeat capture of the LuMay AI 'Agent Development Kit' infographic already ingested as 'claude-code-agent-development-kit-lumay', showing the same five-layer breakdown: CLAUDE.md as the memory layer, Skills as the knowledge layer, Hooks as the guardrail layer, Subagents as the delegation layer, and Plugins as the distribution layer, flanked by MCP Servers and Agent Teams sidebars.",
+    "source_type": "drive-image",
+    "drive_id": "1EwliGrXXxgsTNuI9wHIHUL6t9yA83C8q",
+    "drive_name": "Screenshot 2026-05-17 at 3.39.44\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1EwliGrXXxgsTNuI9wHIHUL6t9yA83C8q/view",
+    "note_path": "notes/2026-05/the-agent-development-kit-batch10-capture.md",
+    "image_path": "public/img/notes/2026-05/the-agent-development-kit-batch10-capture.png",
+    "phash": "sha256:e0fcbfc9d2b6d4dc",
+    "ingested_at": "2026-08-02T20:15:05.665026Z",
+    "duplicate_of": "claude-code-agent-development-kit-lumay"
+  },
+  {
+    "id": "note-tools-vs-mcp-vs-skills-three-layers",
+    "title": "Tools vs. MCP vs. Skills: The Three Layers That Power Production AI Agents",
+    "slug": "tools-vs-mcp-vs-skills-three-layers",
+    "date_captured": "2026-05-17",
+    "category": "concept-primer",
+    "tags": [
+      "ai-agents",
+      "mcp",
+      "tools",
+      "skills",
+      "production-ai"
+    ],
+    "entities": [
+      "Data Science Dojo"
+    ],
+    "summary": "A clean three-column infographic from Data Science Dojo distinguishing Tools (execute actions: API calls, search, calculator, code execution, database query), MCP (universal connectivity protocol: SaaS apps, databases, APIs, cloud systems, external services), and Skills (reusable workflows: research, report generation, email automation, multi-step tasks), with 'when to use' guidance for each and a synthesis showing how all three combine into production AI agents via multi-step reasoning, tool orchestration, external integrations, and workflow execution.",
+    "source_type": "drive-image",
+    "drive_id": "1PjdwJpa1CeYPm2zVGHJNSMm-xTdq3K6Q",
+    "drive_name": "Screenshot 2026-05-17 at 3.38.38\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1PjdwJpa1CeYPm2zVGHJNSMm-xTdq3K6Q/view",
+    "note_path": "notes/2026-05/tools-vs-mcp-vs-skills-three-layers.md",
+    "image_path": "public/img/notes/2026-05/tools-vs-mcp-vs-skills-three-layers.png",
+    "phash": "sha256:2a19d4b678d19407",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-ai-quantum-robotics-physical-world",
+    "title": "AI + Quantum + Robotics: When Intelligence Enters the Physical World",
+    "slug": "ai-quantum-robotics-physical-world",
+    "date_captured": "2026-05-17",
+    "category": "concept-primer",
+    "tags": [
+      "ai",
+      "quantum-computing",
+      "robotics",
+      "physical-ai",
+      "emerging-tech"
+    ],
+    "entities": [
+      "NMF.org"
+    ],
+    "summary": "An 'AI Simplified Series' infographic from NMF.org mapping how AI (perception, learning, decisions, language), Robotics (movement, sensors, manufacturing, automation, precision), and Quantum computing (optimization, simulations, complex calculations, still emerging/future-stage) combine when intelligence enters the physical world. It covers real-world impact areas (manufacturing, logistics, surgery, scientific labs, autonomous systems, infrastructure, agriculture, disaster response) and explicit caveats that this is not overnight human replacement, adoption will be gradual, humans remain essential, and safety/ethics matter.",
+    "source_type": "drive-image",
+    "drive_id": "1LKo1iqcMjCf_ZNDusEo2IO5TR0t4ILhB",
+    "drive_name": "Screenshot 2026-05-17 at 3.37.41\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1LKo1iqcMjCf_ZNDusEo2IO5TR0t4ILhB/view",
+    "note_path": "notes/2026-05/ai-quantum-robotics-physical-world.md",
+    "image_path": "public/img/notes/2026-05/ai-quantum-robotics-physical-world.png",
+    "phash": "sha256:55f17e43dad95934",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-what-is-quantum-computing-primer",
+    "title": "What Is Quantum Computing? Qubits, Superposition, and Research-Stage Applications",
+    "slug": "what-is-quantum-computing-primer",
+    "date_captured": "2026-05-17",
+    "category": "concept-primer",
+    "tags": [
+      "quantum-computing",
+      "qubits",
+      "cryptography",
+      "emerging-tech"
+    ],
+    "entities": [
+      "NMF.org"
+    ],
+    "summary": "A companion 'AI Simplified Series' primer (3/5) from NMF.org explaining quantum computing fundamentals: classical bits (0 or 1, one state at a time, sequential processing) versus qubits (probability states, superposition, interference), the four-step process of how quantum computers work (superposition, entanglement, quantum operations, measurement), and six research-stage applications (drug discovery, materials science, cryptography, quantum chemistry, climate modeling, cybersecurity).",
+    "source_type": "drive-image",
+    "drive_id": "1N7Fmp04VL4TZCzQC6scSNzwnbNqf2Jj8",
+    "drive_name": "Screenshot 2026-05-17 at 3.37.25\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1N7Fmp04VL4TZCzQC6scSNzwnbNqf2Jj8/view",
+    "note_path": "notes/2026-05/what-is-quantum-computing-primer.md",
+    "image_path": "public/img/notes/2026-05/what-is-quantum-computing-primer.png",
+    "phash": "sha256:a234aca7d573b75f",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-how-ai-works-six-step-process",
+    "title": "How AI Works: The 6-Step Process From Data Collection to Retraining",
+    "slug": "how-ai-works-six-step-process",
+    "date_captured": "2026-05-17",
+    "category": "concept-primer",
+    "tags": [
+      "ai-fundamentals",
+      "machine-learning",
+      "deep-learning",
+      "generative-ai"
+    ],
+    "entities": [
+      "NMF.org"
+    ],
+    "summary": "An 'AI Simplified Series' primer explaining the six-step AI process: data collection, data preparation, model training, predictions, feedback, and retraining, with a supporting map of the underlying technologies (machine learning, deep learning, NLP, generative AI) and six real-world application domains (healthcare, finance, education, transport, cybersecurity, retail).",
+    "source_type": "drive-image",
+    "drive_id": "1neCCH8nFbHsmXjGQAlZBC_T7c12cG9ZR",
+    "drive_name": "Screenshot 2026-05-17 at 3.37.10\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1neCCH8nFbHsmXjGQAlZBC_T7c12cG9ZR/view",
+    "note_path": "notes/2026-05/how-ai-works-six-step-process.md",
+    "image_path": "public/img/notes/2026-05/how-ai-works-six-step-process.png",
+    "phash": "sha256:74e170c02385002c",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-ai-stack-six-layers-energy-to-applications",
+    "title": "The AI Stack: Six Essential Layers From Energy to Applications",
+    "slug": "ai-stack-six-layers-energy-to-applications",
+    "date_captured": "2026-05-17",
+    "category": "architecture",
+    "tags": [
+      "ai-infrastructure",
+      "gpu",
+      "data-centers",
+      "ai-stack"
+    ],
+    "entities": [
+      "NMF.org",
+      "GPT",
+      "Claude",
+      "DeepSeek"
+    ],
+    "summary": "An 'AI Simplified Series' infographic depicting the AI technology stack as six essential layers, from bottom to top: Energy (power for AI computation), Chips (GPUs and specialized hardware), Infrastructure (cloud services and data centers/'AI factories'), Data (training data, curated datasets, pipelines), AI Models (GPT, Claude, DeepSeek as the 'brain' of AI systems), and Applications (business, retail, education, healthcare, public services, security use cases). Each layer depends on the one below it.",
+    "source_type": "drive-image",
+    "drive_id": "1LPv6vxtcfU32tkoqrSWJc91RxbD7m3oB",
+    "drive_name": "Screenshot 2026-05-17 at 3.36.48\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1LPv6vxtcfU32tkoqrSWJc91RxbD7m3oB/view",
+    "note_path": "notes/2026-05/ai-stack-six-layers-energy-to-applications.md",
+    "image_path": "public/img/notes/2026-05/ai-stack-six-layers-energy-to-applications.png",
+    "phash": "sha256:9110c2ec9ddbf67f",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-how-to-build-ai-agent-eight-step-framework-tool-comparison",
+    "title": "How to Build an AI Agent: 8-Step Framework Plus Consumer/Agentic/No-Code Tool Comparison",
+    "slug": "how-to-build-ai-agent-eight-step-framework-tool-comparison",
+    "date_captured": "2026-05-17",
+    "category": "agents",
+    "tags": [
+      "ai-agents",
+      "agent-development",
+      "tool-comparison",
+      "langgraph",
+      "crewai"
+    ],
+    "entities": [
+      "ChatGPT",
+      "Claude",
+      "Perplexity",
+      "Cursor",
+      "Windsurf",
+      "Lindy",
+      "Relay.app",
+      "n8n",
+      "LangGraph",
+      "CrewAI",
+      "LlamaIndex"
+    ],
+    "summary": "An 8-step framework for building an AI agent (define purpose & scope, system prompt design, choose LLM, tools & integrations, memory systems, orchestration, user interface, testing & evals) paired with a detailed comparison table across four tool categories: Consumer AI Agents (ChatGPT, Claude, Perplexity), Agentic Coding Tools (Cursor, Windsurf, Claude Code), No-Code Builders (Lindy, Relay.app, n8n), and Development Frameworks (LangGraph, CrewAI, LlamaIndex), each with LLM, deployment model, key features, and best-for use case.",
+    "source_type": "drive-image",
+    "drive_id": "1ox3EcI6pI7k43T1m2_NSh3k-3iYAI6aC",
+    "drive_name": "Screenshot 2026-05-17 at 12.08.34\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1ox3EcI6pI7k43T1m2_NSh3k-3iYAI6aC/view",
+    "note_path": "notes/2026-05/how-to-build-ai-agent-eight-step-framework-tool-comparison.md",
+    "image_path": "public/img/notes/2026-05/how-to-build-ai-agent-eight-step-framework-tool-comparison.png",
+    "phash": "sha256:ad3dd0fd467a6832",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-types-of-ai-security-layers-four-categories",
+    "title": "Types of AI Security Layers: Data, Model, Infrastructure, and Access Control Workflows",
+    "slug": "types-of-ai-security-layers-four-categories",
+    "date_captured": "2026-05-17",
+    "category": "security",
+    "tags": [
+      "ai-security",
+      "data-security",
+      "model-security",
+      "access-control",
+      "rbac"
+    ],
+    "entities": [
+      "Sumeet Agrawal"
+    ],
+    "summary": "A four-quadrant infographic by Sumeet Agrawal breaking AI security into Data Security (protecting training/inference data across its lifecycle), Model Security (protecting models from attacks and manipulation during training and deployment), Infrastructure Security (securing the cloud/servers/APIs hosting AI), and Access Control & Identity (RBAC/ABAC, MFA, least-privilege access), each with a concrete workflow of sequential controls.",
+    "source_type": "drive-image",
+    "drive_id": "1XvwOxBuCsw8Vp44BSMTq_QQGUrFV4CvB",
+    "drive_name": "Screenshot 2026-05-17 at 12.51.14\u202fAM.png",
+    "drive_link": "https://drive.google.com/file/d/1XvwOxBuCsw8Vp44BSMTq_QQGUrFV4CvB/view",
+    "note_path": "notes/2026-05/types-of-ai-security-layers-four-categories.md",
+    "image_path": "public/img/notes/2026-05/types-of-ai-security-layers-four-categories.png",
+    "phash": "sha256:53664624a593b1c2",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-advanced-ai-concepts-data-engineer-2026",
+    "title": "Advanced AI Concepts Every Data Engineer Must Master in 2026: 12-Category Reference Map",
+    "slug": "advanced-ai-concepts-data-engineer-2026",
+    "date_captured": "2026-05-17",
+    "category": "data-engineering",
+    "tags": [
+      "data-engineering",
+      "vector-databases",
+      "rag",
+      "llmops",
+      "data-governance",
+      "feature-engineering"
+    ],
+    "entities": [
+      "Abhisek Sahu"
+    ],
+    "summary": "A comprehensive 12-category reference map by Abhisek Sahu of advanced AI-adjacent data engineering concepts for 2026: AI Data Pipelines, Vector Databases, RAG Systems, Agentic Data Workflows, AI Infrastructure, LLMOps, Multimodal Data Engineering, Data Governance for AI, Synthetic Data, AI Data Quality, Real-Time AI Systems, and Feature Engineering, each with 6-9 specific sub-topics.",
+    "source_type": "drive-image",
+    "drive_id": "1dqtBmmP7IiegayDC0AFwZlNaQny1YuCx",
+    "drive_name": "Screenshot 2026-05-17 at 12.47.33\u202fAM.png",
+    "drive_link": "https://drive.google.com/file/d/1dqtBmmP7IiegayDC0AFwZlNaQny1YuCx/view",
+    "note_path": "notes/2026-05/advanced-ai-concepts-data-engineer-2026.md",
+    "image_path": "public/img/notes/2026-05/advanced-ai-concepts-data-engineer-2026.png",
+    "phash": "sha256:d6c5fd55de6dca05",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-eighteen-day-blueprint-autonomous-cyber-defense",
+    "title": "18-Day Blueprint for Autonomous Cyber Defense: Zero Trust, AI-Powered SOC, and Threat Hunting",
+    "slug": "eighteen-day-blueprint-autonomous-cyber-defense",
+    "date_captured": "2026-05-17",
+    "category": "security",
+    "tags": [
+      "cybersecurity",
+      "zero-trust",
+      "soc",
+      "threat-hunting",
+      "cyber-resilience",
+      "ai-security-operations"
+    ],
+    "entities": [
+      "Marcel Velica",
+      "Splunk",
+      "Sentinel",
+      "QRadar",
+      "Okta",
+      "Entra ID",
+      "CrowdStrike",
+      "SentinelOne",
+      "Defender XDR"
+    ],
+    "summary": "An 18-step blueprint by Marcel Velica for building autonomous cyber defense capability, sequenced from defining security goals and mapping the attack surface through building an AI-powered SOC, implementing zero trust, securing cloud/SaaS/software supply chain, operationalizing threat intelligence and threat hunting, running adversary simulations, and continuously improving using AI tools (ChatGPT, Claude, Gemini, Copilot) for threat analysis and incident reporting.",
+    "source_type": "drive-image",
+    "drive_id": "1dq2BgFEolfm3BTgkQpsOBBK-EpnB0JSI",
+    "drive_name": "Screenshot 2026-05-17 at 12.44.18\u202fAM.png",
+    "drive_link": "https://drive.google.com/file/d/1dq2BgFEolfm3BTgkQpsOBBK-EpnB0JSI/view",
+    "note_path": "notes/2026-05/eighteen-day-blueprint-autonomous-cyber-defense.md",
+    "image_path": "public/img/notes/2026-05/eighteen-day-blueprint-autonomous-cyber-defense.png",
+    "phash": "sha256:a6dd230b55958537",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-complete-claude-code-breakdown-workflows-memory",
+    "title": "The Complete Claude Code Breakdown: Claude Code vs Claude AI vs Cowork, Workflows, and Memory Layer",
+    "slug": "complete-claude-code-breakdown-workflows-memory",
+    "date_captured": "2026-05-17",
+    "category": "tooling",
+    "tags": [
+      "claude-code",
+      "agentic-workflows",
+      "hooks",
+      "skills",
+      "memory-systems"
+    ],
+    "entities": [
+      "Claude Code",
+      "Claude AI",
+      "Claude Cowork",
+      "Anthropic"
+    ],
+    "summary": "A detailed reference distinguishing Claude Code (autonomous coding agent), Claude AI (chat interface for research/ideation with MCP tool access), and Claude Cowork (Claude Code's power plus a chat UI for productivity workflows), alongside the project file structure (.claude/ directory with settings, skills, commands, agents), three agentic workflow patterns (sequential, parallel with a meta-agent aggregator, and self-reflection with a verifier feedback loop), a sample SKILL.md hook configuration, and Claude Code's three-tier memory system (in-context memory, auto memory, CLAUDE.md).",
+    "source_type": "drive-image",
+    "drive_id": "1PJjT4mdLsPy_yuujaIHolmM36htjRBaU",
+    "drive_name": "Screenshot 2026-05-17 at 12.43.37\u202fAM.png",
+    "drive_link": "https://drive.google.com/file/d/1PJjT4mdLsPy_yuujaIHolmM36htjRBaU/view",
+    "note_path": "notes/2026-05/complete-claude-code-breakdown-workflows-memory.md",
+    "image_path": "public/img/notes/2026-05/complete-claude-code-breakdown-workflows-memory.png",
+    "phash": "sha256:d7d8226dd52b0a7d",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-agentic-ai-knowledge-graph-field-guide-vol-02",
+    "title": "The Agentic AI Knowledge Graph: Foundations, Retrieval Patterns, and the Frontier of Memory and Learning Loops",
+    "slug": "agentic-ai-knowledge-graph-field-guide-vol-02",
+    "date_captured": "2026-05-17",
+    "category": "concept-primer",
+    "tags": [
+      "agentic-ai",
+      "knowledge-graph",
+      "rag",
+      "learning-loops",
+      "agent-patterns"
+    ],
+    "entities": [
+      "Brij Kishore Pandey",
+      "Kognitos"
+    ],
+    "summary": "A dependency-mapped 'Field Guide Vol. 02' by Brij Kishore Pandey organizing every major agentic AI concept into five tiers \u2014 Foundations (LLM reasoning, prompt patterns, tool use, embeddings, context windows), Retrieval & Memory (Classical/Graph/Agentic RAG, short/long-term/episodic memory), Agent Patterns (ReAct loop, planner-executor, multi-agent orchestration, context graph traversal, tool selection, reflection/self-critique), Production & Governance (confidence scoring, policy gates, audit trail design, decision reasoning logs, eval/observability, cost/token economics), and the Frontier (memory & learning loops, self-improving agents, multi-modal reasoning, agentic workflows at scale) \u2014 with a highlighted subset covered live in a May 20 webinar by Kognitos.",
+    "source_type": "drive-image",
+    "drive_id": "1LY_dLG79BZ-na0cYzjYqq74cfkQSz-pX",
+    "drive_name": "Screenshot 2026-05-17 at 12.42.44\u202fAM.png",
+    "drive_link": "https://drive.google.com/file/d/1LY_dLG79BZ-na0cYzjYqq74cfkQSz-pX/view",
+    "note_path": "notes/2026-05/agentic-ai-knowledge-graph-field-guide-vol-02.md",
+    "image_path": "public/img/notes/2026-05/agentic-ai-knowledge-graph-field-guide-vol-02.png",
+    "phash": "sha256:478010c17d890491",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-layers-of-ai-classical-to-agentic-six-tiers",
+    "title": "Layers of AI: From Classical AI and Machine Learning Through Deep Learning to Agentic AI",
+    "slug": "layers-of-ai-classical-to-agentic-six-tiers",
+    "date_captured": "2026-05-17",
+    "category": "concept-primer",
+    "tags": [
+      "ai-fundamentals",
+      "machine-learning",
+      "deep-learning",
+      "generative-ai",
+      "agentic-ai"
+    ],
+    "entities": [
+      "Michael (From Pilots to Platforms)"
+    ],
+    "summary": "A six-tier cylindrical stack diagram showing the historical/technical progression of AI capability layers: Classical AI (symbolic AI, expert systems, knowledge representation, logic & reasoning) at the base, up through Machine Learning (supervised/unsupervised, classification, reinforcement learning, regression), Neural Networks (perceptrons, cost functions, backpropagation, activation functions), Deep Learning (transformers, LSTMs, RNNs, CNNs, autoencoders), Generative AI (LLMs, diffusion models, multimodal models, VAEs), and Agentic AI (memory, planning, tool use, autonomous execution) at the top.",
+    "source_type": "drive-image",
+    "drive_id": "1BSKRlnXvbxj3YdzNWd1evsE7l4Gabrs2",
+    "drive_name": "Screenshot 2026-05-17 at 12.41.54\u202fAM.png",
+    "drive_link": "https://drive.google.com/file/d/1BSKRlnXvbxj3YdzNWd1evsE7l4Gabrs2/view",
+    "note_path": "notes/2026-05/layers-of-ai-classical-to-agentic-six-tiers.md",
+    "image_path": "public/img/notes/2026-05/layers-of-ai-classical-to-agentic-six-tiers.png",
+    "phash": "sha256:e23dfd9e60367197",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-pmi-leading-ai-driven-business-transformation-brightline",
+    "title": "PMI Report: Leading AI-Driven Business Transformation \u2014 The Brightline Transformation Compass",
+    "slug": "pmi-leading-ai-driven-business-transformation-brightline",
+    "date_captured": "2026-05-16",
+    "category": "strategy",
+    "tags": [
+      "ai-transformation",
+      "change-management",
+      "pmi",
+      "brightline",
+      "project-management",
+      "case-studies"
+    ],
+    "entities": [
+      "Project Management Institute",
+      "PMI",
+      "Brightline Initiative",
+      "John Deere",
+      "Bosch"
+    ],
+    "summary": "A 31-page PMI/Brightline Initiative report arguing that AI-driven business transformation requires more discipline than the pandemic-forced digitization wave, introducing the five-building-block 'Brightline Transformation Compass' framework (North Star vision, customer/market insights, transformation operating system, AI transformation champions, inside-out employee transformation) with case studies (John Deere's automated tractors, Bosch's AI product vision) and closing with five key actions for leaders.",
+    "source_type": "drive-pdf",
+    "drive_id": "1JMCwbumzlYaZI-qRBbPLnOzf3lth0Ga6",
+    "drive_name": "leading-ai-driven-business-transformation.pdf",
+    "drive_link": "https://drive.google.com/file/d/1JMCwbumzlYaZI-qRBbPLnOzf3lth0Ga6/view",
+    "note_path": "notes/2026-05/pmi-leading-ai-driven-business-transformation-brightline.md",
+    "image_path": "public/img/notes/2026-05/pmi-leading-ai-driven-business-transformation-brightline.pdf",
+    "phash": "sha256:bb9be513301a7445",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-genai-construction-project-management-course-package",
+    "title": "Generative AI in Construction Project Management: Course Package on Safety, Efficiency, Speed, and Quality",
+    "slug": "genai-construction-project-management-course-package",
+    "date_captured": "2026-05-16",
+    "category": "case-study",
+    "tags": [
+      "construction",
+      "generative-ai",
+      "project-management",
+      "epc",
+      "training-course"
+    ],
+    "entities": [
+      "Project Management Institute",
+      "PMI"
+    ],
+    "summary": "A downloaded e-learning course package (Welcome, Course Objectives, Course Navigation, Table of Contents HTML pages plus supporting imagery) titled 'Generative AI in Construction Project Management: AI in Infrastructure and Construction Projects.' The course teaches project managers how industry leaders are using generative AI to address the four pillars of construction (safety, efficiency, speed, quality) through real-world case studies and expert interviews, along with broader social, environmental, and economic benefits, and guidance on technology selection, stakeholder adoption, and ethical considerations for AI implementation in construction.",
+    "source_type": "drive-archive",
+    "drive_id": "1ZLnIWR_cyyZvAoTDgg2sMWFEvOvo6rRY",
+    "drive_name": "Generative AI in Construction Project Management - 5162026 - 1132 AM.zip",
+    "drive_link": "https://drive.google.com/file/d/1ZLnIWR_cyyZvAoTDgg2sMWFEvOvo6rRY/view",
+    "note_path": "notes/2026-05/genai-construction-project-management-course-package.md",
+    "image_path": "public/img/notes/2026-05/genai-construction-project-management-course-package.zip",
+    "phash": "sha256:69d1e8dbd46f4615",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-pmi-guide-leading-managing-ai-projects-cpmai",
+    "title": "PMI Guide to Leading and Managing AI Projects: PMI-CPMAI Framework, Seven Patterns of AI, and Six Project Phases",
+    "slug": "pmi-guide-leading-managing-ai-projects-cpmai",
+    "date_captured": "2026-05-16",
+    "category": "case-study",
+    "tags": [
+      "pmi",
+      "cpmai",
+      "ai-project-management",
+      "trustworthy-ai",
+      "certification"
+    ],
+    "entities": [
+      "Project Management Institute",
+      "PMI",
+      "PMI-CPMAI",
+      "Cognilytica",
+      "Pierre Le Manh",
+      "Kathleen Walch",
+      "Yasser Salem"
+    ],
+    "summary": "A 90-page PMI digital guide personally licensed to Yasser Salem (PMI Member ID 2929391) supporting the PMI Certified Professional in Managing AI (PMI-CPMAI) certification \u2014 originally the CPMAI methodology cofounded by Kathleen Walch's Cognilytica in 2017, acquired by PMI in 2024. The guide covers why traditional project management frameworks fall short for AI projects, the 'Seven Patterns of AI' (conversational/human interaction, recognition, predictive analytics, goal-driven systems, hyper-personalization, autonomous systems, patterns/anomalies), AI-enabled automation vs. AI agents vs. agentic AI, a Trustworthy AI Framework with five layers, and the Six Phases of the PMI-CPMAI methodology starting with Phase I (Business Understanding) and Phase II (Data Understanding, including the 'Big Data Vs': Volume, Variety, Velocity, Veracity).",
+    "source_type": "drive-pdf",
+    "drive_id": "1TrmUefPag4lZP6l9LHV2tfWO_ulAMxNg",
+    "drive_name": "leading_and_managing_ai_projects.pdf",
+    "drive_link": "https://drive.google.com/file/d/1TrmUefPag4lZP6l9LHV2tfWO_ulAMxNg/view",
+    "note_path": "notes/2026-05/pmi-guide-leading-managing-ai-projects-cpmai.md",
+    "image_path": "public/img/notes/2026-05/pmi-guide-leading-managing-ai-projects-cpmai.pdf",
+    "phash": "sha256:0b637afd58587bf2",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
   }
 ]
