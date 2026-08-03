@@ -6656,5 +6656,720 @@
     "image_path": "public/img/notes/2026-07/data-model-vs-ontology-difference.png",
     "phash": "sha256:f3c5a9da62294f3a",
     "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-top-17-ai-system-concepts-2026",
+    "title": "Top 17 AI System Concepts to Know in 2026",
+    "slug": "top-17-ai-system-concepts-2026",
+    "date_captured": "2026-07-17",
+    "category": "concept-primer",
+    "tags": [
+      "embedding-models",
+      "vector-databases",
+      "rag",
+      "context-engineering",
+      "mcp",
+      "agent-harness",
+      "observability"
+    ],
+    "entities": [
+      "Brij Kishore Pandey"
+    ],
+    "summary": "A Brij Kishore Pandey infographic covering 17 AI system concepts for 2026: embedding models, vector databases, RAG, context engineering, semantic caching, model routing, AI gateways, function calling, tool use, MCP, external integrations, agent harness, execution loop, memory systems, guardrails, observability, and evaluations. Each concept is shown as a simple visual flow diagram rather than a text definition.",
+    "source_type": "drive-image",
+    "drive_id": "1Z8oKnpnsAWBEnNAfu2nzAprVSVUAyvnF",
+    "drive_name": "Screenshot 2026-07-11 at 10.29.27\u202fAM.png",
+    "drive_link": "https://drive.google.com/file/d/1Z8oKnpnsAWBEnNAfu2nzAprVSVUAyvnF/view",
+    "note_path": "notes/2026-07/top-17-ai-system-concepts-2026.md",
+    "image_path": "public/img/notes/2026-07/top-17-ai-system-concepts-2026.png",
+    "phash": "sha256:e4ed14a19ea722cc",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-ai-agent-factory-10-component-analogy",
+    "title": "The AI Agent Factory \u2014 10-Component Production Analogy",
+    "slug": "ai-agent-factory-10-component-analogy",
+    "date_captured": "2026-07-17",
+    "category": "concept-primer",
+    "tags": [
+      "agent-architecture",
+      "sandbox",
+      "guardrails",
+      "observability",
+      "mcp",
+      "production-ai"
+    ],
+    "entities": [],
+    "summary": "An infographic mapping ten AI agent architecture components to a factory-production analogy: User Goal = Work Order, LLM = Reasoning Engine, Agent Harness = Assembly Line, Context/RAG = Materials Supply, Memory = Shift Log, Tools = Machines, MCP = Connector Standard, Sandbox = Secure Work Cell, Guardrails = Safety System, and Observability + Evals = Control Room + QA. The closing line argues the model is only one machine and production AI needs the whole factory.",
+    "source_type": "drive-image",
+    "drive_id": "1cIpEMgfDWo3kRCQCthnjycCxWeGVpHrC",
+    "drive_name": "Screenshot 2026-07-10 at 6.11.44\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1cIpEMgfDWo3kRCQCthnjycCxWeGVpHrC/view",
+    "note_path": "notes/2026-07/ai-agent-factory-10-component-analogy.md",
+    "image_path": "public/img/notes/2026-07/ai-agent-factory-10-component-analogy.png",
+    "phash": "sha256:71e42edf432fbed6",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-cisco-state-of-ai-security-2026-report",
+    "title": "Cisco State of AI Security 2026 Report",
+    "slug": "cisco-state-of-ai-security-2026-report",
+    "date_captured": "2026-07-17",
+    "category": "security",
+    "tags": [
+      "ai-security",
+      "prompt-injection",
+      "mcp-security",
+      "agentic-threats",
+      "ai-policy",
+      "cisco"
+    ],
+    "entities": [
+      "Cisco",
+      "MITRE ATLAS",
+      "OWASP"
+    ],
+    "summary": "A 28-page Cisco report declaring 2026 the beginning of the 'AI-driven era' following 2025's 'AI-assisted era,' arguing that agentic AI, AI supply chain fragility, and Model Context Protocol (MCP) attack surfaces have overtaken jailbreaks and prompt injection as the dominant AI threat categories. Key findings include that 83% of surveyed organizations planned to deploy agentic AI but only 29% felt ready to do so securely, that 'excessive agency' (agents given unsupervised control over critical functions) is rising as a primary vulnerability class, and that a May 2025 GitHub MCP server exploit allowed attackers to hijack agents via a hidden prompt injection payload in a GitHub Issue. The report covers AI threat landscape, a unified AI risk taxonomy, US/EU/China AI policy developments, and Cisco's own AI security research including MCP/A2A scanners and SecureBERT 2.0.",
+    "source_type": "drive-pdf",
+    "drive_id": "1VesQgtlkcXK828iTSB1z-sL6kK1yIdnh",
+    "drive_name": "file_5AF15EBD-8F56-4AF2-B955-2BE7A4AC364F.pdf",
+    "drive_link": "https://drive.google.com/file/d/1VesQgtlkcXK828iTSB1z-sL6kK1yIdnh/view",
+    "note_path": "notes/2026-07/cisco-state-of-ai-security-2026-report.md",
+    "image_path": "public/img/notes/2026-07/cisco-state-of-ai-security-2026-report.pdf",
+    "phash": "sha256:5d132c5b3f76cf86",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-secure-ai-development-lifecycle-4-stage",
+    "title": "Secure AI Development Lifecycle \u2014 4-Stage Governance Pipeline",
+    "slug": "secure-ai-development-lifecycle-4-stage",
+    "date_captured": "2026-07-17",
+    "category": "governance",
+    "tags": [
+      "ai-governance",
+      "secure-development",
+      "model-validation",
+      "ci-cd",
+      "compliance",
+      "audit"
+    ],
+    "entities": [
+      "Aakash Yadav"
+    ],
+    "summary": "An Aakash Yadav infographic detailing a four-stage secure AI development lifecycle: Step 1 Define Inputs and Governance (training datasets, adversarial examples, ethical AI guidelines, threat intelligence, compliance regulations); Step 2 Develop, Test, and Secure the Model (data validation, model version control, automated and adversarial/red-team testing, bias/fairness auditing, secure container registry management); Step 3 Approve and Deploy the Model (approval gates, CI/CD automation, policy enforcement, digital sign-off, continuous monitoring, automated alerts); and Step 4 Govern and Maintain the Output (production-ready artifacts, secure deployment configuration, comprehensive audit trails, compliance certification, security patches, documentation).",
+    "source_type": "drive-image",
+    "drive_id": "1T2Sf2Zrm-PDL5CMIUpIZ9QtZpr5sUfCN",
+    "drive_name": "Screenshot 2026-07-09 at 9.31.46\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1T2Sf2Zrm-PDL5CMIUpIZ9QtZpr5sUfCN/view",
+    "note_path": "notes/2026-07/secure-ai-development-lifecycle-4-stage.md",
+    "image_path": "public/img/notes/2026-07/secure-ai-development-lifecycle-4-stage.png",
+    "phash": "sha256:772b10416cf2e985",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-microsoft-copilot-ecosystem-full-product-wheel",
+    "title": "Microsoft Copilot Ecosystem \u2014 Full Product Wheel",
+    "slug": "microsoft-copilot-ecosystem-full-product-wheel",
+    "date_captured": "2026-07-17",
+    "category": "vendor-ecosystem",
+    "tags": [
+      "microsoft",
+      "copilot",
+      "azure",
+      "power-platform",
+      "dynamics-365",
+      "security",
+      "developer-tools"
+    ],
+    "entities": [
+      "Microsoft",
+      "Ananya Ghosh Chowdhury"
+    ],
+    "summary": "An Ananya Ghosh Chowdhury wheel diagram mapping the full Microsoft Copilot ecosystem across nine domains around a central Copilot icon: Power Platform, Modern Work (M365 apps), Business Applications (Dynamics 365), Security (Defender/Sentinel/Entra/Purview), Developer (GitHub Copilot/Visual Studio/Azure DevOps), Collaboration (Teams/Exchange/SharePoint), Azure Platform, Operating Systems (Windows Copilot), Browser & Search, AI & Agents, Data & AI (Azure OpenAI/Foundry/Databricks), and Business Intelligence. Each domain lists 4-10 specific named products.",
+    "source_type": "drive-image",
+    "drive_id": "1lISBqFnsY0WCoCWy0bEoERx9lYqgoy5_",
+    "drive_name": "Screenshot 2026-07-09 at 5.28.35\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1lISBqFnsY0WCoCWy0bEoERx9lYqgoy5_/view",
+    "note_path": "notes/2026-07/microsoft-copilot-ecosystem-full-product-wheel.md",
+    "image_path": "public/img/notes/2026-07/microsoft-copilot-ecosystem-full-product-wheel.png",
+    "phash": "sha256:4730c137692cfd66",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-agentic-ai-knowledge-graph-field-guide-vol2",
+    "title": "The Agentic AI Knowledge Graph \u2014 Field Guide Vol. 02",
+    "slug": "agentic-ai-knowledge-graph-field-guide-vol2",
+    "date_captured": "2026-07-17",
+    "category": "concept-primer",
+    "tags": [
+      "agentic-ai",
+      "learning-roadmap",
+      "rag",
+      "multi-agent",
+      "reflection",
+      "observability"
+    ],
+    "entities": [
+      "Brij Kishore Pandey"
+    ],
+    "summary": "A Brij Kishore Pandey 'field guide' organizing agentic AI concepts into five dependency layers from Foundations up to Frontier: Layer 1 Foundations (LLM reasoning, prompt patterns, tool use/function calling, embeddings/vectors, context windows); Layer 2 Retrieval & Memory (classical/graph/agentic RAG, short/long-term/episodic memory); Layer 3 Agent Patterns (ReAct loop, planner-executor, multi-agent orchestration, context graph traversal, tool selection/routing, reflection/self-critique); Layer 4 Production & Governance (confidence scoring, policy gates, audit trail design, decision reasoning logs, eval/observability, cost/token economics); and Layer 5 Frontier (memory/learning loops, self-improving agents, multi-modal reasoning, agentic workflows at scale). The guide argues agentic AI must be learned by tracing dependencies bottom-up, not top-down.",
+    "source_type": "drive-image",
+    "drive_id": "1fiCkw95u6IYlsSW0VrfR8Tl2bhzVs6N3",
+    "drive_name": "Screenshot 2026-07-09 at 12.04.17\u202fAM.png",
+    "drive_link": "https://drive.google.com/file/d/1fiCkw95u6IYlsSW0VrfR8Tl2bhzVs6N3/view",
+    "note_path": "notes/2026-07/agentic-ai-knowledge-graph-field-guide-vol2.md",
+    "image_path": "public/img/notes/2026-07/agentic-ai-knowledge-graph-field-guide-vol2.png",
+    "phash": "sha256:9a168896ed43efeb",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-one-percent-rule-ai-rollouts",
+    "title": "The 1% Rule for AI Rollouts \u2014 Concentrate Value, Don't Spread It",
+    "slug": "one-percent-rule-ai-rollouts",
+    "date_captured": "2026-07-17",
+    "category": "strategy",
+    "tags": [
+      "ai-strategy",
+      "ai-adoption",
+      "roi",
+      "workflow-redesign",
+      "pilot-management"
+    ],
+    "entities": [
+      "Carolyn Healey",
+      "Gartner",
+      "BCG",
+      "McKinsey"
+    ],
+    "summary": "A Carolyn Healey infographic arguing that successful AI rollouts concentrate investment in the narrow slice of work where AI compounds value, rather than spreading budget across many scattered pilots. It cites Gartner's prediction that 30%+ of GenAI projects were abandoned after POC by end of 2025 and 40%+ of agentic AI projects will be canceled by end of 2027, BCG's finding that only 5% of companies are 'future-built' and generating 5x revenue/3x cost-reduction value from AI at scale, and McKinsey's finding that workflow redesign (not bolt-on AI) is one of the strongest contributors to AI business impact. Eight numbered principles guide where to concentrate effort, including 'spend 70% of effort on people and process' (per BCG's 10-20-70 rule) and looking at employees' existing shadow-AI workflows as a map to where value already lives.",
+    "source_type": "drive-image",
+    "drive_id": "1oQvGyqcd2cSxvSHd9KKOZIApXzvDdDtB",
+    "drive_name": "Screenshot 2026-07-08 at 7.43.28\u202fAM.png",
+    "drive_link": "https://drive.google.com/file/d/1oQvGyqcd2cSxvSHd9KKOZIApXzvDdDtB/view",
+    "note_path": "notes/2026-07/one-percent-rule-ai-rollouts.md",
+    "image_path": "public/img/notes/2026-07/one-percent-rule-ai-rollouts.png",
+    "phash": "sha256:6aeaf8db01460889",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-ai-security-stack-six-layer-model",
+    "title": "AI Security Stack \u2014 Six-Layer Enterprise Defense Model",
+    "slug": "ai-security-stack-six-layer-model",
+    "date_captured": "2026-07-17",
+    "category": "security",
+    "tags": [
+      "ai-security",
+      "identity-access",
+      "data-protection",
+      "prompt-security",
+      "compliance",
+      "observability"
+    ],
+    "entities": [
+      "Okta",
+      "OneTrust"
+    ],
+    "summary": "An AI Security Stack infographic organizing enterprise AI defenses into six layers: Identity & Access (RBAC/ABAC, zero-trust, API authentication via tools like Okta), Data Protection (data masking, tokenization, encryption for PII/financial data), Prompt & Input Security (input checks, prompt filtering against injection/jailbreak/data-extraction attacks), Governance & Compliance (audit records, risk categorization, GDPR/EU AI Act/ISO 42001 coverage via tools like OneTrust), Output Validation (fact verification, policy validation, output moderation against hallucination and unsafe responses), and Monitoring & Observability (behavior tracking, audit logging, performance monitoring for model drift).",
+    "source_type": "drive-image",
+    "drive_id": "1CnUc0QNnxrqurbxrm4qkMxf7Mqb0000S",
+    "drive_name": "Screenshot 2026-07-07 at 9.29.32\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1CnUc0QNnxrqurbxrm4qkMxf7Mqb0000S/view",
+    "note_path": "notes/2026-07/ai-security-stack-six-layer-model.md",
+    "image_path": "public/img/notes/2026-07/ai-security-stack-six-layer-model.png",
+    "phash": "sha256:4c3e4a0a00f60269",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-ai-in-cyber-autonomous-defense-trinity",
+    "title": "AI in Cyber \u2014 The Autonomous Cyber Defense Trinity (GRC, Pentest, SOC)",
+    "slug": "ai-in-cyber-autonomous-defense-trinity",
+    "date_captured": "2026-07-17",
+    "category": "security",
+    "tags": [
+      "ai-security",
+      "cybersecurity",
+      "penetration-testing",
+      "soc",
+      "grc",
+      "automation"
+    ],
+    "entities": [],
+    "summary": "An infographic depicting how AI transforms three cybersecurity functions into an interconnected 'autonomous cyber defense trinity': AI GRC (Governance, Risk, Compliance) providing automated policy mapping and predictive risk scoring; AI Pentest running automated exploit simulation, vulnerability prioritization, and red-teaming at scale; and AI SOC (Security Operations Center) delivering noise reduction, autonomous response, and contextual investigation. A feedback loop connects all three: AI Pentest finds a hole, AI GRC logs and prioritizes the risk, and AI SOC deploys a guardrail or patch. A comparison table contrasts legacy manual security (reactive, days, static, annual, human triage) with AI-integrated security (proactive, milliseconds, live, 24/7, AI orchestration).",
+    "source_type": "drive-image",
+    "drive_id": "1uLReKDG_WVySy0bEDo2ulsGJ62zJ0jMu",
+    "drive_name": "Screenshot 2026-07-07 at 9.45.16\u202fAM.png",
+    "drive_link": "https://drive.google.com/file/d/1uLReKDG_WVySy0bEDo2ulsGJ62zJ0jMu/view",
+    "note_path": "notes/2026-07/ai-in-cyber-autonomous-defense-trinity.md",
+    "image_path": "public/img/notes/2026-07/ai-in-cyber-autonomous-defense-trinity.png",
+    "phash": "sha256:4db1daa7fbd151e2",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-servicenow-ai-control-tower-architecture",
+    "title": "ServiceNow's AI Control Tower \u2014 Architecture Behind Agentic Business",
+    "slug": "servicenow-ai-control-tower-architecture",
+    "date_captured": "2026-07-17",
+    "category": "vendor-ecosystem",
+    "tags": [
+      "servicenow",
+      "ai-control-tower",
+      "agentic-business",
+      "mcp",
+      "a2a",
+      "data-architecture"
+    ],
+    "entities": [
+      "ServiceNow",
+      "ServiceNow Otto",
+      "AWS",
+      "Mistral AI"
+    ],
+    "summary": "An aidigital.co.uk infographic detailing ServiceNow's AI Control Tower architecture for agentic business across IT, CRM, Security & Risk, Employee Experience, and Application Development verticals. The AI architecture layer spans Interface (ServiceNow Otto chat/voice/web/apps), Execution (AI Agent Orchestrator, dynamic task allocation via MCP & A2A), Development (AI Studio, Creator Studio, Developer Studio), and Models (any model including ChatGPT, Claude, Gemini, AWS, Mistral). The data architecture layer spans Intelligence (data discovery, context engine, semantic layer, CMDB), Enterprise (unstructured data, federated search, RAG, web search), Integration (external content connectors, zero-copy connectors, MCP client), and Data Foundation (Raptor DB, object store). Right-side callouts frame the platform around Secure, Act, Decide, and Sense capabilities.",
+    "source_type": "drive-image",
+    "drive_id": "1utZZggFjWZA6yknrHVdLmgXNooSklNUy",
+    "drive_name": "Screenshot 2026-07-07 at 7.27.57\u202fAM.png",
+    "drive_link": "https://drive.google.com/file/d/1utZZggFjWZA6yknrHVdLmgXNooSklNUy/view",
+    "note_path": "notes/2026-07/servicenow-ai-control-tower-architecture.md",
+    "image_path": "public/img/notes/2026-07/servicenow-ai-control-tower-architecture.png",
+    "phash": "sha256:47b85507c43910b2",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-claude-mythos-5-vs-fable-5-deployment-paths",
+    "title": "Claude Mythos 5 vs Claude Fable 5 \u2014 Restricted vs General-Availability Deployment Paths",
+    "slug": "claude-mythos-5-vs-fable-5-deployment-paths",
+    "date_captured": "2026-07-17",
+    "category": "model-benchmark",
+    "tags": [
+      "claude",
+      "anthropic",
+      "model-comparison",
+      "access-control",
+      "deployment"
+    ],
+    "entities": [
+      "Anthropic",
+      "Claude Mythos 5",
+      "Claude Fable 5",
+      "Denis Panjuta"
+    ],
+    "summary": "A Denis Panjuta infographic comparing two deployment variants of the same underlying Claude 5 base model: Claude Mythos 5, a restricted-access version built for tightly governed high-risk domains (advanced cyber/bio research, internal high-risk agent systems, dual-use scientific investigation), and Claude Fable 5, the public-facing general-availability version built for mainstream coding, agents, copilots, and enterprise use. A comparison table contrasts access (approved orgs only vs most customers), safety controls (looser in high-risk areas with governance oversight vs layered filters and routing), and best-fit users (research labs/national security teams vs enterprise product teams/developers). The bottom line: Mythos 5 is the less-restricted version for approved high-risk use, while Fable 5 is the widely available production-safe version most teams will actually deploy.",
+    "source_type": "drive-image",
+    "drive_id": "1hd6iJdh6hiyur3lNufhCXL2ZxF-swzpm",
+    "drive_name": "Screenshot 2026-07-06 at 8.20.54\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1hd6iJdh6hiyur3lNufhCXL2ZxF-swzpm/view",
+    "note_path": "notes/2026-07/claude-mythos-5-vs-fable-5-deployment-paths.md",
+    "image_path": "public/img/notes/2026-07/claude-mythos-5-vs-fable-5-deployment-paths.png",
+    "phash": "sha256:0e0026b41f016a23",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-cybersecurity-frameworks-guide-five-major",
+    "title": "Cybersecurity Frameworks Guide \u2014 NIST CSF, ISO 27001, CIS Controls, CISA ZTMM, MITRE ATT&CK",
+    "slug": "cybersecurity-frameworks-guide-five-major",
+    "date_captured": "2026-07-17",
+    "category": "security",
+    "tags": [
+      "nist-csf",
+      "iso-27001",
+      "cis-controls",
+      "zero-trust",
+      "mitre-attack",
+      "compliance"
+    ],
+    "entities": [
+      "NIST",
+      "ISO/IEC",
+      "CIS",
+      "CISA",
+      "MITRE",
+      "Excellog.Biz"
+    ],
+    "summary": "An Excellog.Biz infographic summarizing five major cybersecurity frameworks with their key focus and best-fit use case: NIST CSF 2.0 (govern/identify/protect/detect/respond cyber risk; best for cyber strategy and board reporting), ISO/IEC 27001:2022 (ISMS scope, risk treatment, controls, audits; best for certification readiness and supplier trust), CIS Controls v8.1 (prioritized safeguards for common attacks; best for cyber hygiene and cloud hardening), CISA Zero Trust Maturity Model v2.0 (identity/device/network/data verification; best for zero-trust planning and hybrid work), and MITRE ATT&CK v19 (adversary behavior mapping; best for SOC teams and threat hunting). It closes with a compliance note that overlapping regulations (PCI DSS, SOC 2, DORA, NIS2, CMMC, HIPAA, GDPR) should be mapped into one unified control set.",
+    "source_type": "drive-image",
+    "drive_id": "1SLjzzGx6JXqZkp5bNVXSRGQqlyJD6UB6",
+    "drive_name": "Screenshot 2026-07-06 at 8.20.29\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1SLjzzGx6JXqZkp5bNVXSRGQqlyJD6UB6/view",
+    "note_path": "notes/2026-07/cybersecurity-frameworks-guide-five-major.md",
+    "image_path": "public/img/notes/2026-07/cybersecurity-frameworks-guide-five-major.png",
+    "phash": "sha256:c3ac47198428ff90",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-microsoft-copilot-vs-m365-copilot-context",
+    "title": "Microsoft Copilot vs Microsoft 365 Copilot \u2014 Context Is the Difference",
+    "slug": "microsoft-copilot-vs-m365-copilot-context",
+    "date_captured": "2026-07-17",
+    "category": "vendor-ecosystem",
+    "tags": [
+      "microsoft-365",
+      "copilot",
+      "context-boundary",
+      "data-governance"
+    ],
+    "entities": [
+      "Microsoft",
+      "Microsoft Copilot",
+      "Microsoft 365 Copilot",
+      "AIForLeaders.com",
+      "Adam Danyal"
+    ],
+    "summary": "An AIForLeaders.com infographic (shared via LinkedIn by Adam Danyal) clarifying that Microsoft Copilot and Microsoft 365 Copilot use the same underlying GPT model but differ entirely in data boundary and business value. Microsoft Copilot is a general AI assistant using web context and user prompts, good for research/writing/coding/brainstorming, with the user controlling context and no automatic company data access. Microsoft 365 Copilot is an enterprise AI layer connected via Microsoft Graph to emails, Teams meetings, SharePoint files, Excel data, calendars, and org/permission rules, grounded in work context before answering and built for workflow orchestration and productivity automation.",
+    "source_type": "drive-image",
+    "drive_id": "10IpqqUVPFCupzg5ubtGDFtcY5F1xB244",
+    "drive_name": "Screenshot 2026-07-06 at 8.20.10\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/10IpqqUVPFCupzg5ubtGDFtcY5F1xB244/view",
+    "note_path": "notes/2026-07/microsoft-copilot-vs-m365-copilot-context.md",
+    "image_path": "public/img/notes/2026-07/microsoft-copilot-vs-m365-copilot-context.png",
+    "phash": "sha256:71e40e1081edc4c5",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-how-ai-agent-system-works-9-step",
+    "title": "How an AI Agent System Works \u2014 9-Step Connected Ecosystem",
+    "slug": "how-ai-agent-system-works-9-step",
+    "date_captured": "2026-07-17",
+    "category": "concept-primer",
+    "tags": [
+      "agent-architecture",
+      "rag",
+      "mcp",
+      "a2a",
+      "multi-agent",
+      "memory"
+    ],
+    "entities": [
+      "Greg Coquillo"
+    ],
+    "summary": "A Greg Coquillo infographic walking through nine steps of a connected AI agent ecosystem: (1) User Query arrives, (2) RAG retrieves relevant context like a library, (3) the LLM brain reasons through the problem, (4) Memory recalls stored context like a notebook, (5) Tools act as hands to search/email/code/run workflows, (6) MCP acts as a universal adapter connecting the agent to external apps/data, (7) A2A (agent-to-agent) protocol lets agents share info and delegate tasks, (8) a Multi-Agent system of specialized agents (Research, Planning, Execution, Review) works toward a shared goal, and (9) the Final Response/Action is delivered back to the user.",
+    "source_type": "drive-image",
+    "drive_id": "1xT5lgU_EIkq7fEVSxn-dOkR7fRkhcgpF",
+    "drive_name": "Screenshot 2026-07-06 at 8.19.45\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1xT5lgU_EIkq7fEVSxn-dOkR7fRkhcgpF/view",
+    "note_path": "notes/2026-07/how-ai-agent-system-works-9-step.md",
+    "image_path": "public/img/notes/2026-07/how-ai-agent-system-works-9-step.png",
+    "phash": "sha256:d84586e52c6a70d3",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-ai-governance-vs-data-governance-why-both",
+    "title": "AI Governance vs Data Governance \u2014 Why You Need Both",
+    "slug": "ai-governance-vs-data-governance-why-both",
+    "date_captured": "2026-07-17",
+    "category": "governance",
+    "tags": [
+      "ai-governance",
+      "data-governance",
+      "eu-ai-act",
+      "explainability",
+      "gartner"
+    ],
+    "entities": [
+      "Carolyn Healey",
+      "Gartner"
+    ],
+    "summary": "A Carolyn Healey infographic contrasting Data Governance and AI Governance across eight dimensions \u2014 what they govern, risks they answer, controls they use, ownership, operating cadence, regulatory pressure, inputs vs outputs, and dependency \u2014 framed around the question 'why did your AI flag that customer?' It cites Gartner's prediction that through 2026, organizations will abandon 60% of AI projects unsupported by AI-ready data, and notes organizations with successful AI initiatives invest up to 4x more in foundations like data quality, governance, AI-ready people, and change management. The conclusion: if one team blames the data and another blames the model, the organization doesn't have a governance problem in one discipline \u2014 it has an integration problem across both.",
+    "source_type": "drive-image",
+    "drive_id": "1k02MnDbA2v4s8v2aeNsc19pxS4GFdPvb",
+    "drive_name": "Screenshot 2026-07-06 at 6.25.57\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1k02MnDbA2v4s8v2aeNsc19pxS4GFdPvb/view",
+    "note_path": "notes/2026-07/ai-governance-vs-data-governance-why-both.md",
+    "image_path": "public/img/notes/2026-07/ai-governance-vs-data-governance-why-both.png",
+    "phash": "sha256:dd6a35c238406598",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-anatomy-of-an-agent-harness",
+    "title": "Anatomy of an Agent Harness \u2014 The Vendor Ships the Loop, You Shape the Environment",
+    "slug": "anatomy-of-an-agent-harness",
+    "date_captured": "2026-07-17",
+    "category": "architecture",
+    "tags": [
+      "agent-harness",
+      "claude-code",
+      "mcp",
+      "skills",
+      "hooks",
+      "sandbox"
+    ],
+    "entities": [
+      "Brij Kishore Pandey",
+      "Claude Code",
+      "Codex CLI",
+      "Gemini CLI",
+      "Cursor",
+      "Windsurf",
+      "Devin"
+    ],
+    "summary": "A Brij Kishore Pandey infographic explaining agent harness architecture: a harness is a finished agent runtime you configure rather than rebuild. The core agent loop cycles through Context Manager, Planner/Model Call, Tool Executor, and Permission Gate, running on top of sub-agents (parallel workers), compaction (context pruning), sandbox (isolated execution), and session state (resumable runs). The engineering surface for extending a harness has five levers: Skills (reusable expertise loaded on demand), MCP Servers (standard tool/data connections), Hooks (intercept and automate loop events), Plugins (packaged extensions), and System Prompts (persistent instructions/memory files). It traces the evolution from chatbot to copilot to framework agent to harness to full agent environment, and catalogs the harness landscape by category: Terminal (Claude Code, Codex CLI, Gemini CLI), IDE (Cursor Agent, Windsurf, Cline), Autonomous (Devin, Jules, OpenHands), and Data layer (Oracle AI Database Select AI Agent).",
+    "source_type": "drive-image",
+    "drive_id": "190pIKbh8EbJj6vf0_Z5Sfp9ql_tpugDS",
+    "drive_name": "Screenshot 2026-07-05 at 12.02.27\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/190pIKbh8EbJj6vf0_Z5Sfp9ql_tpugDS/view",
+    "note_path": "notes/2026-07/anatomy-of-an-agent-harness.md",
+    "image_path": "public/img/notes/2026-07/anatomy-of-an-agent-harness.png",
+    "phash": "sha256:73aacc71a3490cdb",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-building-ai-fluency-16-ways",
+    "title": "Building AI Fluency \u2014 16 Ways to Move from AI Access to AI Capability",
+    "slug": "building-ai-fluency-16-ways",
+    "date_captured": "2026-07-17",
+    "category": "adoption",
+    "tags": [
+      "ai-fluency",
+      "upskilling",
+      "change-management",
+      "training",
+      "microsoft-research"
+    ],
+    "entities": [
+      "Clare Kitching",
+      "Microsoft"
+    ],
+    "summary": "A Clare Kitching infographic citing Microsoft research that 67% of the value people get from AI comes down to managers and culture, not tools. It organizes 16 fluency-building tactics into a 2x2 matrix of adoption vs capability and lower vs higher effort: Start Here (low effort, adoption-focused: access for all, acceptable-use policy, tips newsletter, hands-on training, prompt library), Add Next (low effort, capability-focused: leaders modeling AI use, champions, communities of practice, micro-practice), Invest as You Grow (higher effort, capability-focused: coaching, AI in workflows, role-based programs, skill sprints, hackathons), and Use Selectively (higher effort, adoption-focused: exec immersion, mandatory certification).",
+    "source_type": "drive-image",
+    "drive_id": "1aLMGRrJinSZlLOPyFlqJMuE9jXbirRIM",
+    "drive_name": "Screenshot 2026-07-05 at 11.57.54\u202fAM.png",
+    "drive_link": "https://drive.google.com/file/d/1aLMGRrJinSZlLOPyFlqJMuE9jXbirRIM/view",
+    "note_path": "notes/2026-07/building-ai-fluency-16-ways.md",
+    "image_path": "public/img/notes/2026-07/building-ai-fluency-16-ways.png",
+    "phash": "sha256:8d2582a270b8b7de",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-claude-md-agent-development-kit-third-capture",
+    "title": "CLAUDE.md + Skills + Hooks + Subagents + Plugins \u2014 Agent Development Kit (third capture)",
+    "slug": "claude-md-agent-development-kit-third-capture",
+    "date_captured": "2026-07-17",
+    "category": "tooling",
+    "tags": [
+      "claude-code",
+      "agent-development",
+      "duplicate"
+    ],
+    "entities": [
+      "Claude Code",
+      "Anthropic",
+      "LuMay AI"
+    ],
+    "summary": "A third capture of the same LuMay AI 'Agent Development Kit' infographic (CLAUDE.md, Skills, Hooks, Subagents, Plugins) already captured twice earlier in this ingestion run. Identical content to the prior two captures.",
+    "source_type": "drive-image",
+    "drive_id": "1nR9TggoEjoTkdNrC_K70XwlaD6KFSWP_",
+    "drive_name": "Screenshot 2026-07-05 at 11.57.00\u202fAM.png",
+    "drive_link": "https://drive.google.com/file/d/1nR9TggoEjoTkdNrC_K70XwlaD6KFSWP_/view",
+    "note_path": "notes/2026-07/claude-md-agent-development-kit-third-capture.md",
+    "image_path": "public/img/notes/2026-07/claude-md-agent-development-kit-third-capture.png",
+    "phash": "sha256:2825713f82e17fa5",
+    "ingested_at": "2026-08-02T20:15:05.665026Z",
+    "duplicate_of": "claude-code-agent-development-kit-lumay"
+  },
+  {
+    "id": "note-construction-tech-vendor-updates-procore-autodesk-trimble",
+    "title": "Construction Tech Vendor Updates \u2014 Procore, Autodesk, Trimble M&A and Interoperability",
+    "slug": "construction-tech-vendor-updates-procore-autodesk-trimble",
+    "date_captured": "2026-07-17",
+    "category": "vendor-ecosystem",
+    "tags": [
+      "construction-tech",
+      "procore",
+      "autodesk",
+      "trimble",
+      "ai-agents",
+      "m&a",
+      "interoperability"
+    ],
+    "entities": [
+      "Procore",
+      "Datagrid",
+      "Autodesk",
+      "Rhumbix",
+      "Trimble",
+      "Document Crunch",
+      "Nemetschek"
+    ],
+    "summary": "A construction technology vendor update covering four recent moves: Procore's acquisition of AI startup Datagrid to automate document-heavy workflows and integrate data across systems; Autodesk's acquisition of Rhumbix to strengthen Autodesk Construction Cloud with real-time field data capture and labor productivity insights; Trimble's acquisition of Document Crunch, bringing AI-powered contract and risk analysis to Trimble's platform; and an Autodesk-Nemetschek interoperability announcement aimed at breaking down data-exchange silos across leading construction platforms. The piece frames the overall trend as platform consolidation, AI-powered workflows, and more connected ecosystems.",
+    "source_type": "drive-image",
+    "drive_id": "1fdi1VOPNbPO3rivr3rHCboVPrKOTg5qL",
+    "drive_name": "Screenshot 2026-07-05 at 11.55.59\u202fAM.png",
+    "drive_link": "https://drive.google.com/file/d/1fdi1VOPNbPO3rivr3rHCboVPrKOTg5qL/view",
+    "note_path": "notes/2026-07/construction-tech-vendor-updates-procore-autodesk-trimble.md",
+    "image_path": "public/img/notes/2026-07/construction-tech-vendor-updates-procore-autodesk-trimble.png",
+    "phash": "sha256:ced88ef8e9d57aff",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-power-distribution-data-center-grid-to-racks",
+    "title": "Power Distribution in a Data Center \u2014 From Grid to Racks (100 MW Flow)",
+    "slug": "power-distribution-data-center-grid-to-racks",
+    "date_captured": "2026-07-17",
+    "category": "data-engineering",
+    "tags": [
+      "data-centers",
+      "power-distribution",
+      "ai-infrastructure",
+      "utility-grid",
+      "gpu-racks"
+    ],
+    "entities": [],
+    "summary": "A data-center power infrastructure diagram tracing how 100 MW flows from the utility grid (115-230 kV) through campus substations, backup diesel generators, medium-voltage switchgear (13.8/13.2/4.16 kV), critical power systems (UPS/battery banks), low-voltage distribution (480V/277V or 415V/240V), and finally to AI/GPU racks drawing 50-120 kW per rack. It is framed within a broader 'Power Is the New Bottleneck' leadership perspective on AI data center development.",
+    "source_type": "drive-image",
+    "drive_id": "1VIPA30a82Jwcmi8okoKBuKunc1dqfQxl",
+    "drive_name": "Screenshot 2026-07-05 at 11.55.16\u202fAM.png",
+    "drive_link": "https://drive.google.com/file/d/1VIPA30a82Jwcmi8okoKBuKunc1dqfQxl/view",
+    "note_path": "notes/2026-07/power-distribution-data-center-grid-to-racks.md",
+    "image_path": "public/img/notes/2026-07/power-distribution-data-center-grid-to-racks.png",
+    "phash": "sha256:809d3746b7a2ef12",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-digital-twin-eyes-ears-live-data-center-part6",
+    "title": "The Digital Twin \u2014 Eyes and Ears of a Live Data Center (Missing Conversation Part 6)",
+    "slug": "digital-twin-eyes-ears-live-data-center-part6",
+    "date_captured": "2026-07-17",
+    "category": "data-engineering",
+    "tags": [
+      "digital-twin",
+      "data-centers",
+      "dcim",
+      "bms",
+      "scada",
+      "predictive-maintenance"
+    ],
+    "entities": [],
+    "summary": "Part 6 of a data-center infrastructure series explaining the digital twin as a real-time digital representation of mission-critical infrastructure, integrating Building Management Systems (BMS), Electrical Power Monitoring Systems (EPMS), Data Center Infrastructure Management (DCIM), SCADA, fire alarm, leak detection, and environmental/network monitoring into one live operational picture. It stresses that a digital twin depends entirely on correct commissioning data \u2014 every point, sensor, alarm, and control loop must be verified, calibrated, tested, and commissioned, because 'if the field devices are wrong, the digital twin is wrong: garbage in, garbage out.' It previews Part 7 on predictive maintenance.",
+    "source_type": "drive-image",
+    "drive_id": "1bBDaZEQoS2uOCHl7HyUiXdCvaJ3fNMep",
+    "drive_name": "Screenshot 2026-07-04 at 9.06.24\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1bBDaZEQoS2uOCHl7HyUiXdCvaJ3fNMep/view",
+    "note_path": "notes/2026-07/digital-twin-eyes-ears-live-data-center-part6.md",
+    "image_path": "public/img/notes/2026-07/digital-twin-eyes-ears-live-data-center-part6.png",
+    "phash": "sha256:31236f32b1f6f513",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-aws-agentic-ai-stack-build-orchestrate-scale",
+    "title": "AWS Agentic AI Stack \u2014 Build, Orchestrate, Scale Intelligent Agents",
+    "slug": "aws-agentic-ai-stack-build-orchestrate-scale",
+    "date_captured": "2026-07-17",
+    "category": "vendor-ecosystem",
+    "tags": [
+      "aws",
+      "bedrock",
+      "agentcore",
+      "agent-orchestration",
+      "vendor-ecosystem"
+    ],
+    "entities": [
+      "AWS",
+      "Amazon Bedrock",
+      "AWS Step Functions",
+      "AWS Lambda",
+      "Brij Kishore Pandey"
+    ],
+    "summary": "A Brij Kishore Pandey infographic mapping the full AWS agentic AI stack across seven layers: User Interfaces, Agent Orchestration (Amazon Bedrock Agents, Step Functions, AgentCore, Lambda, EventBridge, plus five agent patterns including single/multi-agent/hierarchical/human-in-the-loop/evaluator), Foundation Models (Bedrock with Claude/Llama/Mistral/Titan plus fine-tuning and prompt optimization), Tools & Actions (AWS services, data/search, APIs/integrations like Slack/Jira/ServiceNow/Salesforce, and custom tools), Data Layer (ingestion through Glue/Kinesis to storage/catalog/quality via S3/DataZone), Operations (EKS, Fargate, Auto Scaling, CloudFormation, CodePipeline), plus side rails for Governance & Trust (IAM, Cognito, PrivateLink, KMS, guardrails, CloudTrail, compliance) and Memory & State / Observability & Monitoring.",
+    "source_type": "drive-image",
+    "drive_id": "1xBAnSrteNGOd6QDle-z6YIv-DSDqjuUQ",
+    "drive_name": "Screenshot 2026-07-03 at 11.51.40\u202fAM.png",
+    "drive_link": "https://drive.google.com/file/d/1xBAnSrteNGOd6QDle-z6YIv-DSDqjuUQ/view",
+    "note_path": "notes/2026-07/aws-agentic-ai-stack-build-orchestrate-scale.md",
+    "image_path": "public/img/notes/2026-07/aws-agentic-ai-stack-build-orchestrate-scale.png",
+    "phash": "sha256:3b283df7d5e47934",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-cpu-gpu-tpu-npu-lpu-dpu-comparison",
+    "title": "CPU vs GPU vs TPU vs NPU vs LPU vs DPU \u2014 The Six Processors Powering Modern AI Infrastructure",
+    "slug": "cpu-gpu-tpu-npu-lpu-dpu-comparison",
+    "date_captured": "2026-07-17",
+    "category": "concept-primer",
+    "tags": [
+      "hardware",
+      "gpu",
+      "tpu",
+      "npu",
+      "lpu",
+      "dpu",
+      "ai-infrastructure"
+    ],
+    "entities": [
+      "Brij Kishore Pandey"
+    ],
+    "summary": "A Brij Kishore Pandey infographic comparing six processor types powering modern AI infrastructure: CPU (general-purpose backbone, best for orchestration/preprocessing), GPU (massive parallelism, best for training/inference via CUDA), TPU (Google-scale systolic-array tensor processing, tied to Google ecosystem), NPU (on-device neural processing for mobile/edge AI with very low power), LPU (inference-focused chip for low-latency LLM serving via on-chip SRAM and deterministic token generation), and DPU (SmartNIC/infrastructure offload processor handling networking, encryption, and storage I/O routing). Each entry lists strengths, limitations, and a 5-step processing flow, closing with a quick decision guide by workload type.",
+    "source_type": "drive-image",
+    "drive_id": "1vkMNvtFldu9BrrDvzRhKCtbhf5swsmBd",
+    "drive_name": "Screenshot 2026-07-03 at 8.54.17\u202fAM.png",
+    "drive_link": "https://drive.google.com/file/d/1vkMNvtFldu9BrrDvzRhKCtbhf5swsmBd/view",
+    "note_path": "notes/2026-07/cpu-gpu-tpu-npu-lpu-dpu-comparison.md",
+    "image_path": "public/img/notes/2026-07/cpu-gpu-tpu-npu-lpu-dpu-comparison.png",
+    "phash": "sha256:eba99ee12149204a",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-what-is-agentic-ai-vs-chatbots-rpa-rag",
+    "title": "What Is an Agentic AI? \u2014 Distinguishing Agentic AI from Chatbots, RPA, and RAG",
+    "slug": "what-is-agentic-ai-vs-chatbots-rpa-rag",
+    "date_captured": "2026-07-17",
+    "category": "concept-primer",
+    "tags": [
+      "agentic-ai",
+      "rag",
+      "rpa",
+      "chatbots",
+      "multi-agent",
+      "orchestration"
+    ],
+    "entities": [
+      "GenAI.Works"
+    ],
+    "summary": "A GenAI.Works infographic clarifying what agentic AI is NOT \u2014 plain LLM chatbots (query \u2192 system prompt \u2192 LLM \u2192 output), RPA (script trigger \u2192 conditional tool execution \u2192 output), and RAG (query \u2192 embedding \u2192 retrieval from knowledge base/vector DB/web \u2192 augmentation \u2192 LLM \u2192 output) \u2014 versus what agentic AI actually is: a system where an orchestrator LLM manages memory, tools, planning, and feedback for 'Agent 1,' which then communicates via a multi-agent protocol (discover agent capabilities, share tasks, update task information) with specialized agents (coding agent, retrieval agent, citation agent) before producing a final output.",
+    "source_type": "drive-image",
+    "drive_id": "1qzi8gOdK11ykZ6XjzbROuqoS-720Yy2i",
+    "drive_name": "Screenshot 2026-07-03 at 8.53.35\u202fAM.png",
+    "drive_link": "https://drive.google.com/file/d/1qzi8gOdK11ykZ6XjzbROuqoS-720Yy2i/view",
+    "note_path": "notes/2026-07/what-is-agentic-ai-vs-chatbots-rpa-rag.md",
+    "image_path": "public/img/notes/2026-07/what-is-agentic-ai-vs-chatbots-rpa-rag.png",
+    "phash": "sha256:874608714a58ddc9",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-modern-ai-ecosystem-tools-map",
+    "title": "The Modern AI Ecosystem \u2014 Tools Map Across LLM, RAG, MCP, Security, Memory, and Vector Databases",
+    "slug": "modern-ai-ecosystem-tools-map",
+    "date_captured": "2026-07-17",
+    "category": "vendor-ecosystem",
+    "tags": [
+      "ai-tools",
+      "rag",
+      "mcp",
+      "ai-security",
+      "vector-database",
+      "agent-frameworks",
+      "embeddings"
+    ],
+    "entities": [
+      "OpenAI",
+      "Anthropic",
+      "Google Gemini",
+      "Meta Llama",
+      "Mistral AI",
+      "Cohere",
+      "Hugging Face",
+      "Ollama",
+      "LangChain",
+      "LangGraph",
+      "Pinecone",
+      "Rathnakumar Udayakumar"
+    ],
+    "summary": "A comprehensive Rathnakumar Udayakumar tool-map spanning the entire modern AI ecosystem: LLM providers (OpenAI, Anthropic, Gemini, Llama, Mistral, Cohere, Hugging Face, Ollama, vLLM), Agentic AI frameworks (LangGraph, CrewAI, Microsoft AutoGen/Agent Framework, LlamaIndex Workflows, AWS Strands, CAMEL, Agno), RAG frameworks (LangChain, LlamaIndex, Haystack, DSPy, RAGFlow, GraphRAG, Unstructured, EmbedChain), Embedding providers (OpenAI, Cohere, Voyage AI, Sentence Transformers, BGE, Google Vertex AI, Azure OpenAI), MCP servers (MCP SDK, FastMCP, GitHub MCP Server, Slack MCP Server, PostgreSQL MCP Server, Google Drive MCP Server), AI Security tools (NVIDIA NeMo Guardrails, Guardrails AI, Microsoft Presidio, Lakera Guard, Prompt Security, Protect AI, Azure AI Content Safety, AWS Bedrock Guardrails), Observability tools (LangSmith, Langfuse, Arize Phoenix, Weights & Biases Weave, TruLens, Ragas, Promptfoo, Helicone), Memory systems (Mem0, Zep, Letta, LangGraph Memory, Redis, PostgreSQL, Neo4j, Chroma), AI Agent SDKs (OpenAI Agents SDK, LangChain Agents, PydanticAI, Semantic Kernel, Google ADK, AWS Bedrock Agents, Azure AI Foundry Agent Service), Automation tools (n8n, Zapier, Make, Power Automate, Temporal, Apache Airflow, Prefect, Kestra, Pipedream), and Vector Databases (Pinecone, Weaviate, Qdrant, Milvus, Chroma, pgvector, Elasticsearch, Redis, MongoDB Atlas Vector Search).",
+    "source_type": "drive-image",
+    "drive_id": "1wx4dE0CRqxb1R8i9Dxw5LfxrZmzMPOYE",
+    "drive_name": "Screenshot 2026-07-03 at 8.52.31\u202fAM.png",
+    "drive_link": "https://drive.google.com/file/d/1wx4dE0CRqxb1R8i9Dxw5LfxrZmzMPOYE/view",
+    "note_path": "notes/2026-07/modern-ai-ecosystem-tools-map.md",
+    "image_path": "public/img/notes/2026-07/modern-ai-ecosystem-tools-map.png",
+    "phash": "sha256:9528488af8ea8ed0",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
   }
 ]
