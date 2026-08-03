@@ -5943,5 +5943,718 @@
     "image_path": "public/img/notes/2026-07/aiq-adnoc-agentic-ai-geoscience-case-study.html",
     "phash": "sha256:a410ae181ccc3c76",
     "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-how-to-build-llm-apps-guardrails-monitoring-10-step",
+    "title": "How to Build LLM Apps with Guardrails and Monitoring: A 10-Step Guide",
+    "slug": "how-to-build-llm-apps-guardrails-monitoring-10-step",
+    "date_captured": "2026-07-17",
+    "category": "agents",
+    "tags": [
+      "llm-apps",
+      "guardrails",
+      "monitoring",
+      "rag",
+      "prompt-engineering",
+      "deployment",
+      "evaluation"
+    ],
+    "entities": [
+      "LangSmith",
+      "Guardrails AI",
+      "Docker",
+      "Kubernetes"
+    ],
+    "summary": "A 10-step infographic walkthrough for building production LLM applications end to end: defining the use case, choosing a model, adding RAG for grounding, designing the prompt layer, applying input guardrails, controlling tool/API access, applying output guardrails, adding monitoring, securing deployment, and continuously evaluating and improving. Each step names representative tooling, such as Guardrails AI for input/output validation, LangSmith for observability, and Docker/Kubernetes for secure deployment. The flow emphasizes that guardrails and monitoring are not afterthoughts but built into every stage of the pipeline.",
+    "source_type": "drive-image",
+    "drive_id": "1UIoGiTljAbWMUxd6mGhutlJIr-JxfwZ1",
+    "drive_name": "Screenshot 2026-07-17 at 5.22.18\u202fAM.png",
+    "drive_link": "https://drive.google.com/file/d/1UIoGiTljAbWMUxd6mGhutlJIr-JxfwZ1/view",
+    "note_path": "notes/2026-07/how-to-build-llm-apps-guardrails-monitoring-10-step.md",
+    "image_path": "public/img/notes/2026-07/how-to-build-llm-apps-guardrails-monitoring-10-step.png",
+    "phash": "sha256:0ddbbd0a04d196d3",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-microsoft-azure-ecosystem-ai-agents-2026",
+    "title": "Microsoft Azure Ecosystem for AI Agents \u2014 2026 Product Map",
+    "slug": "microsoft-azure-ecosystem-ai-agents-2026",
+    "date_captured": "2026-07-17",
+    "category": "vendor-ecosystem",
+    "tags": [
+      "azure",
+      "microsoft",
+      "copilot-studio",
+      "agent-365",
+      "semantic-kernel",
+      "entra",
+      "ai-foundry"
+    ],
+    "entities": [
+      "Microsoft",
+      "Azure AI Foundry",
+      "Copilot Studio",
+      "Microsoft Agent 365",
+      "Semantic Kernel",
+      "Azure AI Search",
+      "Microsoft Entra Agent ID",
+      "Greg Coquillo"
+    ],
+    "summary": "A comprehensive 2026 map of Microsoft's Azure and Microsoft 365 product surface for building and running AI agents, compiled by Greg Coquillo. It organizes the ecosystem into build tools (Azure AI Foundry, Semantic Kernel, Copilot Studio), identity and governance (Microsoft Entra Agent ID), knowledge/retrieval (Azure AI Search), and operational/management layers (Microsoft Agent 365). The chart is intended as a single-glance reference for where each Microsoft product fits in an enterprise agent build.",
+    "source_type": "drive-image",
+    "drive_id": "11Fy1Eyoq4Z2x3GONTuV5dqfmR95mRwmr",
+    "drive_name": "Screenshot 2026-07-17 at 5.22.02\u202fAM.png",
+    "drive_link": "https://drive.google.com/file/d/11Fy1Eyoq4Z2x3GONTuV5dqfmR95mRwmr/view",
+    "note_path": "notes/2026-07/microsoft-azure-ecosystem-ai-agents-2026.md",
+    "image_path": "public/img/notes/2026-07/microsoft-azure-ecosystem-ai-agents-2026.png",
+    "phash": "sha256:ad277911ddcfd09b",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-governance-stack-behind-reliable-ai-agents",
+    "title": "The Governance Stack Behind Reliable AI Agents",
+    "slug": "governance-stack-behind-reliable-ai-agents",
+    "date_captured": "2026-07-17",
+    "category": "governance",
+    "tags": [
+      "ai-governance",
+      "data-governance",
+      "guardrails",
+      "monitoring",
+      "human-in-the-loop",
+      "access-controls"
+    ],
+    "entities": [
+      "@rakeshgohel01"
+    ],
+    "summary": "An infographic by @rakeshgohel01 contrasting Data Governance with AI Governance side by side, then laying out a five-layer governance stack architecture that sits beneath reliable production AI agents. It identifies five concrete governance controls: trusted data pipelines, access controls, model guardrails, human escalation paths, and continuous monitoring. The piece frames AI governance as an evolution of, rather than a replacement for, existing data governance discipline.",
+    "source_type": "drive-image",
+    "drive_id": "19LIgTyl586L00Q4CclVthSVQHzj09iFO",
+    "drive_name": "Screenshot 2026-07-17 at 5.20.30\u202fAM.png",
+    "drive_link": "https://drive.google.com/file/d/19LIgTyl586L00Q4CclVthSVQHzj09iFO/view",
+    "note_path": "notes/2026-07/governance-stack-behind-reliable-ai-agents.md",
+    "image_path": "public/img/notes/2026-07/governance-stack-behind-reliable-ai-agents.png",
+    "phash": "sha256:a87dd7120b23278c",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-claude-code-agent-development-kit-lumay",
+    "title": "Claude Code: The Agent Development Kit (CLAUDE.md + Skills + Hooks + Subagents + Plugins)",
+    "slug": "claude-code-agent-development-kit-lumay",
+    "date_captured": "2026-07-17",
+    "category": "tooling",
+    "tags": [
+      "claude-code",
+      "agent-development",
+      "mcp",
+      "subagents",
+      "hooks",
+      "skills"
+    ],
+    "entities": [
+      "Claude Code",
+      "Anthropic",
+      "LuMay AI",
+      "MCP"
+    ],
+    "summary": "A LuMay AI infographic breaking Claude Code's agent development architecture into five layers: CLAUDE.md as the memory layer (source of truth for architecture guidelines, naming conventions, and repo maps), Skills as the on-demand knowledge layer, Hooks as the deterministic guardrail layer (PreToolUse/PostToolUse/SessionStart/Stop events), Subagents as the delegation layer with isolated context and no infinite-loop spawning, and Plugins as the npm-package-based distribution layer. Sidebars note MCP servers as external tool connectors and agent teams as parallel-execution collaborators.",
+    "source_type": "drive-image",
+    "drive_id": "1zHXHHOms9ZOS8MQVdFu6Yt4HfBuh7tgj",
+    "drive_name": "Screenshot 2026-07-17 at 3.43.37\u202fAM.png",
+    "drive_link": "https://drive.google.com/file/d/1zHXHHOms9ZOS8MQVdFu6Yt4HfBuh7tgj/view",
+    "note_path": "notes/2026-07/claude-code-agent-development-kit-lumay.md",
+    "image_path": "public/img/notes/2026-07/claude-code-agent-development-kit-lumay.png",
+    "phash": "sha256:a8671414b2739ae8",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-ai-agent-architecture-cheat-sheet-9-box",
+    "title": "AI Agent Architecture Cheat Sheet \u2014 9-Box Reference Grid",
+    "slug": "ai-agent-architecture-cheat-sheet-9-box",
+    "date_captured": "2026-07-17",
+    "category": "concept-primer",
+    "tags": [
+      "agent-architecture",
+      "rag",
+      "memory",
+      "planning",
+      "reflection",
+      "multi-agent",
+      "guardrails"
+    ],
+    "entities": [
+      "@sambit.ai.tech"
+    ],
+    "summary": "A nine-box reference grid by @sambit.ai.tech summarizing the core components of AI agent architecture: LLM/Brain (the reasoning core), Memory (short and long-term state), RAG (external knowledge retrieval), Tools (action execution), Planning (task decomposition), Reflection (self-critique), Multi-Agent (coordination across agents), Monitoring & Guardrails (safety), and Human-in-the-Loop (oversight). Designed as a fast-reference cheat sheet rather than a deep explainer.",
+    "source_type": "drive-image",
+    "drive_id": "1Z-A7UVdzB2StMxr0vwx3othq32tA_yoz",
+    "drive_name": "Screenshot 2026-07-16 at 10.40.38\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1Z-A7UVdzB2StMxr0vwx3othq32tA_yoz/view",
+    "note_path": "notes/2026-07/ai-agent-architecture-cheat-sheet-9-box.md",
+    "image_path": "public/img/notes/2026-07/ai-agent-architecture-cheat-sheet-9-box.png",
+    "phash": "sha256:0fd7c6151a546d87",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-mckinsey-ai-transformation-manifesto-12-themes",
+    "title": "McKinsey AI Transformation Manifesto \u2014 12 Themes",
+    "slug": "mckinsey-ai-transformation-manifesto-12-themes",
+    "date_captured": "2026-07-17",
+    "category": "strategy",
+    "tags": [
+      "ai-transformation",
+      "mckinsey",
+      "ai-strategy",
+      "leadership",
+      "change-management",
+      "data-strategy"
+    ],
+    "entities": [
+      "McKinsey & Company",
+      "Antrixsh Gupta"
+    ],
+    "summary": "A circular manifesto diagram attributed to Antrixsh Gupta summarizing twelve themes McKinsey associates with successful enterprise AI transformation: AI-enabled leadership, autonomous AI engineering, sustainable competitive edge, high-impact use cases, fast execution velocity, enterprise-scale value, workforce evolution, platforms as competitive advantage, data as a strategic asset, adoption and operational scale, trusted and responsible AI, and continuous skill reinvention. The circular layout implies these thematic areas reinforce one another rather than operating as a linear sequence.",
+    "source_type": "drive-image",
+    "drive_id": "1mOQ8Qi9nJeNooBLjmWhX6gEelv_44G5C",
+    "drive_name": "Screenshot 2026-07-16 at 6.04.21\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1mOQ8Qi9nJeNooBLjmWhX6gEelv_44G5C/view",
+    "note_path": "notes/2026-07/mckinsey-ai-transformation-manifesto-12-themes.md",
+    "image_path": "public/img/notes/2026-07/mckinsey-ai-transformation-manifesto-12-themes.png",
+    "phash": "sha256:219c30ba096f1f54",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-phases-of-ai-adoption-12-steps",
+    "title": "Phases of AI Adoption: 12 Steps from Foundation to Scale",
+    "slug": "phases-of-ai-adoption-12-steps",
+    "date_captured": "2026-07-17",
+    "category": "adoption",
+    "tags": [
+      "ai-adoption",
+      "change-management",
+      "governance",
+      "roi",
+      "upskilling",
+      "pilots"
+    ],
+    "entities": [],
+    "summary": "A 12-phase infographic tracing enterprise AI adoption across four stages \u2014 Foundation, Enablement, Execution, and Scale. Phases include executive sponsorship, business-aligned strategy, readiness assessment, building a data foundation, establishing governance before scaling, running high-impact pilots, redesigning workflows, managing organizational change, training and upskilling staff, developing AI champions, tracking KPIs and ROI, and finally scaling what works. The sequencing argues that governance must precede scale, not follow it.",
+    "source_type": "drive-image",
+    "drive_id": "1MT8rsqYl3fe_i6zuIO-zrMPYChbcKu2n",
+    "drive_name": "Screenshot 2026-07-16 at 6.40.57\u202fAM.png",
+    "drive_link": "https://drive.google.com/file/d/1MT8rsqYl3fe_i6zuIO-zrMPYChbcKu2n/view",
+    "note_path": "notes/2026-07/phases-of-ai-adoption-12-steps.md",
+    "image_path": "public/img/notes/2026-07/phases-of-ai-adoption-12-steps.png",
+    "phash": "sha256:4c628c4d87f90aae",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-20-ways-to-measure-ai-impact",
+    "title": "20 Ways to Measure AI Impact",
+    "slug": "20-ways-to-measure-ai-impact",
+    "date_captured": "2026-07-17",
+    "category": "adoption",
+    "tags": [
+      "ai-roi",
+      "kpis",
+      "measurement",
+      "adoption-metrics",
+      "workforce-metrics"
+    ],
+    "entities": [
+      "Clare Kitching"
+    ],
+    "summary": "A Clare Kitching infographic cataloging twenty concrete KPIs for measuring AI impact across five categories: financial (revenue uplift, cost savings, payback period, benefit-cost ratio, cost per transaction), operational (cycle time reduction, straight-through-processing value), customer (sales/retention/CSAT/first-contact-resolution uplift, collection efficiency), scaling (time to value, pilot-to-production rate, AI use case coverage), and workforce/adoption (employee experience uplift, adoption rate, business unit engagement, AI literacy score, labour capacity released). The list is designed to move AI evaluation beyond vague productivity claims into named, trackable metrics.",
+    "source_type": "drive-image",
+    "drive_id": "11YWb1mLN6d67rusqwP-stwUv0UOMg_pa",
+    "drive_name": "Screenshot 2026-07-15 at 7.36.57\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/11YWb1mLN6d67rusqwP-stwUv0UOMg_pa/view",
+    "note_path": "notes/2026-07/20-ways-to-measure-ai-impact.md",
+    "image_path": "public/img/notes/2026-07/20-ways-to-measure-ai-impact.png",
+    "phash": "sha256:5e6fd33a0864d292",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-quantum-computing-supply-chain-map",
+    "title": "Quantum Computing Supply Chain Map",
+    "slug": "quantum-computing-supply-chain-map",
+    "date_captured": "2026-07-17",
+    "category": "vendor-ecosystem",
+    "tags": [
+      "quantum-computing",
+      "supply-chain",
+      "semiconductors",
+      "etfs",
+      "hardware"
+    ],
+    "entities": [
+      "DuPont",
+      "Bluefors",
+      "IBM",
+      "Google",
+      "IonQ",
+      "PsiQuantum",
+      "Intel",
+      "TSMC",
+      "Rigetti",
+      "Keysight",
+      "AWS",
+      "Azure"
+    ],
+    "summary": "A supply-chain diagram from letstalkstocks.ca mapping the quantum computing industry across seven layers: materials, cryogenics, qubit hardware, chip fabrication, control electronics, software stack, and cloud access. Named companies span materials (DuPont), cryogenic cooling (Bluefors), qubit hardware and full-stack players (IBM, Google, IonQ, PsiQuantum, Rigetti), fabrication (Intel, TSMC), control electronics (Keysight), and cloud access (AWS, Azure). It also lists relevant thematic ETFs including QTUM, AIQ, BOTZ, SMH, and CIBR for tracking the sector financially.",
+    "source_type": "drive-image",
+    "drive_id": "11YEMfOYmev5M8OiDbcMJ2AcGgAR7Hld9",
+    "drive_name": "Screenshot 2026-07-15 at 7.24.39\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/11YEMfOYmev5M8OiDbcMJ2AcGgAR7Hld9/view",
+    "note_path": "notes/2026-07/quantum-computing-supply-chain-map.md",
+    "image_path": "public/img/notes/2026-07/quantum-computing-supply-chain-map.png",
+    "phash": "sha256:77980c30522c2a4e",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-enterprise-ai-governance-model-8-domains-pawar",
+    "title": "Enterprise AI Governance Model \u2014 8 Domains (Dr. Vishal Pawar)",
+    "slug": "enterprise-ai-governance-model-8-domains-pawar",
+    "date_captured": "2026-07-17",
+    "category": "governance",
+    "tags": [
+      "ai-governance",
+      "incident-response",
+      "model-monitoring",
+      "audit-logging",
+      "vendor-risk",
+      "bias-detection"
+    ],
+    "entities": [
+      "Dr. Vishal Pawar"
+    ],
+    "summary": "An infographic by Dr. Vishal Pawar (CAIO/CDO/CAIA) organizing enterprise AI governance into eight domains arranged around a central robot icon: incident response and escalation, model performance monitoring, audit logging and accountability, vendor and third-party risk, security and access controls, human oversight and approval gates, regulatory and compliance alignment, data foundations, model validation and testing, and bias detection and fairness controls. The domains collectively span technical, operational, and compliance dimensions of governance.",
+    "source_type": "drive-image",
+    "drive_id": "1WyLZ3H8dwgU465c4ecXjPjRZypDl0tZe",
+    "drive_name": "Screenshot 2026-07-14 at 7.03.57\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1WyLZ3H8dwgU465c4ecXjPjRZypDl0tZe/view",
+    "note_path": "notes/2026-07/enterprise-ai-governance-model-8-domains-pawar.md",
+    "image_path": "public/img/notes/2026-07/enterprise-ai-governance-model-8-domains-pawar.png",
+    "phash": "sha256:3e59c8b1b80dba8b",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-ai-policy-vs-ai-governance-comparison-table",
+    "title": "AI Policy vs AI Governance in Enterprises \u2014 Comparison Table",
+    "slug": "ai-policy-vs-ai-governance-comparison-table",
+    "date_captured": "2026-07-17",
+    "category": "governance",
+    "tags": [
+      "ai-policy",
+      "ai-governance",
+      "compliance",
+      "enforcement",
+      "ownership"
+    ],
+    "entities": [],
+    "summary": "A 10-row comparison table distinguishing AI Policy from AI Governance across definition, purpose, scope, primary focus, ownership, key components, enforcement, lifecycle role, measurement, and outcome. Policy is framed as the documented rules an organization sets for AI use, while governance is the operational system that enforces, monitors, and adapts those rules across the AI lifecycle. The table is intended to clarify a frequently conflated distinction for enterprise leaders.",
+    "source_type": "drive-image",
+    "drive_id": "17RWsSLWdRq6adWRDsZCTk5hUMbXmq6As",
+    "drive_name": "Screenshot 2026-07-14 at 5.55.00\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/17RWsSLWdRq6adWRDsZCTk5hUMbXmq6As/view",
+    "note_path": "notes/2026-07/ai-policy-vs-ai-governance-comparison-table.md",
+    "image_path": "public/img/notes/2026-07/ai-policy-vs-ai-governance-comparison-table.png",
+    "phash": "sha256:f8210a04c0c8fe43",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-data-center-technology-update-july-6-10-2026",
+    "title": "Data Center Technology Update \u2014 Week of July 6-10, 2026",
+    "slug": "data-center-technology-update-july-6-10-2026",
+    "date_captured": "2026-07-17",
+    "category": "data-engineering",
+    "tags": [
+      "data-centers",
+      "liquid-cooling",
+      "networking",
+      "smr",
+      "battery-storage",
+      "edge-ai"
+    ],
+    "entities": [
+      "NVIDIA",
+      "Motivair",
+      "Daikin",
+      "NTT Data",
+      "Cisco",
+      "3M",
+      "Corning",
+      "ESS Tech",
+      "IBM",
+      "Crusoe",
+      "Supermicro"
+    ],
+    "summary": "A weekly data-center technology digest covering NVIDIA/Motivair liquid cooling developments, a Daikin/NTT Data proof-of-concept, Cisco Live 2026's network supercycle announcements, a 3M/Corning AI optical layer partnership, a US/Japan/Korea trilateral memo on small modular reactors (SMRs), ESS Tech's sodium-ion battery progress, IBM Z mainframes appearing in AI racks, Crusoe's serverless fine-tuning offering, and Supermicro's Kubernetes Edge AI hardware. It closes with five innovations to watch: an NSF quantum computing push, an all-optical switch, two-phase liquid cooling, grid-forming battery technology, and serverless fine-tuning architecture.",
+    "source_type": "drive-image",
+    "drive_id": "1zta10sErmP1xa_eliWgzzTp0zNp1FBsD",
+    "drive_name": "Screenshot 2026-07-14 at 1.44.08\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1zta10sErmP1xa_eliWgzzTp0zNp1FBsD/view",
+    "note_path": "notes/2026-07/data-center-technology-update-july-6-10-2026.md",
+    "image_path": "public/img/notes/2026-07/data-center-technology-update-july-6-10-2026.png",
+    "phash": "sha256:323fbd45167f294f",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-20-ways-to-measure-ai-impact-duplicate-capture",
+    "title": "20 Ways to Measure AI Impact (duplicate capture)",
+    "slug": "20-ways-to-measure-ai-impact-duplicate-capture",
+    "date_captured": "2026-07-17",
+    "category": "adoption",
+    "tags": [
+      "ai-roi",
+      "kpis",
+      "measurement",
+      "duplicate"
+    ],
+    "entities": [
+      "Clare Kitching"
+    ],
+    "summary": "A second, near-identical screenshot of the same Clare Kitching '20 Ways to Measure AI Impact' infographic captured separately in this batch. Content is identical to the primary capture: twenty KPIs across financial, operational, customer, scaling, and workforce/adoption categories for measuring enterprise AI impact.",
+    "source_type": "drive-image",
+    "drive_id": "1Enp3DjSjxImmtW85zhH2U-2sSZWqym4V",
+    "drive_name": "Screenshot 2026-07-14 at 11.13.25\u202fAM.png",
+    "drive_link": "https://drive.google.com/file/d/1Enp3DjSjxImmtW85zhH2U-2sSZWqym4V/view",
+    "note_path": "notes/2026-07/20-ways-to-measure-ai-impact-duplicate-capture.md",
+    "image_path": "public/img/notes/2026-07/20-ways-to-measure-ai-impact-duplicate-capture.png",
+    "phash": "sha256:c0c882ee3f925360",
+    "ingested_at": "2026-08-02T20:15:05.665026Z",
+    "duplicate_of": "20-ways-to-measure-ai-impact"
+  },
+  {
+    "id": "note-vectorless-rag-explained-structural-navigation",
+    "title": "Vectorless RAG Explained \u2014 Structural Navigation vs Vector Retrieval",
+    "slug": "vectorless-rag-explained-structural-navigation",
+    "date_captured": "2026-07-17",
+    "category": "architecture",
+    "tags": [
+      "rag",
+      "vectorless-rag",
+      "retrieval",
+      "architecture",
+      "embeddings"
+    ],
+    "entities": [
+      "Brij Kishore Pandey"
+    ],
+    "summary": "An infographic by Brij Kishore Pandey contrasting traditional vector-based RAG with an emerging 'vectorless RAG' approach that relies on structural navigation of source documents (e.g., headings, sections, tables) instead of embedding-based similarity search. It positions vectorless RAG as potentially more precise for structured enterprise documents where semantic similarity search can miss exact structural relationships that a navigation-based approach would preserve.",
+    "source_type": "drive-image",
+    "drive_id": "1c1LbUg31xrCtKsa9jm9CyNckdOpIF-C7",
+    "drive_name": "Screenshot 2026-07-14 at 12.26.58\u202fAM.png",
+    "drive_link": "https://drive.google.com/file/d/1c1LbUg31xrCtKsa9jm9CyNckdOpIF-C7/view",
+    "note_path": "notes/2026-07/vectorless-rag-explained-structural-navigation.md",
+    "image_path": "public/img/notes/2026-07/vectorless-rag-explained-structural-navigation.png",
+    "phash": "sha256:2912d0a72f945626",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-enterprise-ai-governance-model-10-domains-aiforleaders",
+    "title": "Enterprise AI Governance Model \u2014 10 Domains (AIForLeaders.com)",
+    "slug": "enterprise-ai-governance-model-10-domains-aiforleaders",
+    "date_captured": "2026-07-17",
+    "category": "governance",
+    "tags": [
+      "ai-governance",
+      "data-governance",
+      "model-validation",
+      "bias-fairness",
+      "security-controls",
+      "vendor-risk"
+    ],
+    "entities": [
+      "AIForLeaders.com"
+    ],
+    "summary": "A second Enterprise AI Governance Model infographic, this one from AIForLeaders.com, organizing governance into ten domains: data governance, model validation, bias and fairness, human oversight, regulatory compliance, security controls, vendor risk, audit logging, model monitoring, and incident response. Each domain is paired with a named risk area, business impact, and governance control, making it more granular than the 8-domain Dr. Vishal Pawar model captured elsewhere in this batch.",
+    "source_type": "drive-image",
+    "drive_id": "1SKd70Ec9FEbKDcUOoqFwDIvrDFwA3amw",
+    "drive_name": "Screenshot 2026-07-14 at 12.25.34\u202fAM.png",
+    "drive_link": "https://drive.google.com/file/d/1SKd70Ec9FEbKDcUOoqFwDIvrDFwA3amw/view",
+    "note_path": "notes/2026-07/enterprise-ai-governance-model-10-domains-aiforleaders.md",
+    "image_path": "public/img/notes/2026-07/enterprise-ai-governance-model-10-domains-aiforleaders.png",
+    "phash": "sha256:b20e7fa9a98e7604",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-top-9-mcp-architecture-components",
+    "title": "Top 9 MCP Architecture Components",
+    "slug": "top-9-mcp-architecture-components",
+    "date_captured": "2026-07-17",
+    "category": "architecture",
+    "tags": [
+      "mcp",
+      "model-context-protocol",
+      "architecture",
+      "tools",
+      "security"
+    ],
+    "entities": [
+      "Model Context Protocol",
+      "Greg Coquillo"
+    ],
+    "summary": "An infographic by Greg Coquillo breaking the Model Context Protocol (MCP) architecture into nine components: Client, MCP Host, MCP Protocol, Security & Auth, MCP Server, Prompts, Capabilities, Tools, and Resources. It provides a compact reference for how MCP structures the connection between an AI application and external tools/data sources, with security and authentication called out as a distinct architectural component rather than an implementation detail.",
+    "source_type": "drive-image",
+    "drive_id": "1X87qepaeiQxNw0JWfYYJTUJ5tubfpV2n",
+    "drive_name": "Screenshot 2026-07-14 at 12.25.15\u202fAM.png",
+    "drive_link": "https://drive.google.com/file/d/1X87qepaeiQxNw0JWfYYJTUJ5tubfpV2n/view",
+    "note_path": "notes/2026-07/top-9-mcp-architecture-components.md",
+    "image_path": "public/img/notes/2026-07/top-9-mcp-architecture-components.png",
+    "phash": "sha256:43c1cce6ac878416",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-ai-strategy-needs-better-questions-first",
+    "title": "Your AI Strategy Doesn't Need a Better Roadmap \u2014 It Needs Better Questions First",
+    "slug": "ai-strategy-needs-better-questions-first",
+    "date_captured": "2026-07-17",
+    "category": "strategy",
+    "tags": [
+      "ai-strategy",
+      "leadership-questions",
+      "roi",
+      "agentic-ai",
+      "pilot-management"
+    ],
+    "entities": [
+      "Carolyn Healey",
+      "BCG",
+      "McKinsey",
+      "Gartner"
+    ],
+    "summary": "A Carolyn Healey infographic proposing seven questions AI leaders should ask leadership teams before any vendor call or roadmap discussion: which P&L line the initiative moves and who owns that number; what decisions the organization will let AI make without a human; which end-to-end workflow would be redesigned if AI didn't exist as an excuse to avoid it; who has personally spent 8 hours with the tools; what happens to hours saved; which current pilots would be killed today; and whose job changes first. It cites BCG, McKinsey, and Gartner statistics throughout, including that only ~6% of organizations attribute real EBIT impact to AI and that 40%+ of agentic AI projects are projected to be canceled by 2027.",
+    "source_type": "drive-image",
+    "drive_id": "13hawNTnDIiMGKC0p_pWXnTZoceYPJR1i",
+    "drive_name": "Screenshot 2026-07-14 at 12.24.59\u202fAM.png",
+    "drive_link": "https://drive.google.com/file/d/13hawNTnDIiMGKC0p_pWXnTZoceYPJR1i/view",
+    "note_path": "notes/2026-07/ai-strategy-needs-better-questions-first.md",
+    "image_path": "public/img/notes/2026-07/ai-strategy-needs-better-questions-first.png",
+    "phash": "sha256:6674f108c832074d",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-enterprise-ai-vocabulary-25-advanced-concepts",
+    "title": "Enterprise AI Vocabulary \u2014 25 Advanced Concepts Every AI Leader Should Know",
+    "slug": "enterprise-ai-vocabulary-25-advanced-concepts",
+    "date_captured": "2026-07-17",
+    "category": "concept-primer",
+    "tags": [
+      "ai-vocabulary",
+      "agentic-workflow",
+      "mcp",
+      "rag",
+      "knowledge-graph",
+      "ai-gateway",
+      "prompt-injection",
+      "model-drift"
+    ],
+    "entities": [
+      "aidigital.co.uk"
+    ],
+    "summary": "A 25-term glossary from aidigital.co.uk defining advanced enterprise AI vocabulary: agentic workflow, agent orchestration, AI agent fabric, model context protocol, agent-to-agent protocol, context engineering, model routing, tool calling, retrieval-augmented generation, graph RAG, hybrid search, reranking, grounded generation, zero-copy data access, knowledge graph, semantic layer, AI gateway, AI control tower, AI observability, evaluation harness, human-in-the-loop, policy guardrails, tool overreach, prompt injection, and model drift. Each term includes a one-to-two-sentence definition aimed at AI leaders and architects.",
+    "source_type": "drive-image",
+    "drive_id": "16XeEGw2C7R1B0CFWtL55irI8ZpblWzQ-",
+    "drive_name": "Screenshot 2026-07-14 at 12.24.09\u202fAM.png",
+    "drive_link": "https://drive.google.com/file/d/16XeEGw2C7R1B0CFWtL55irI8ZpblWzQ-/view",
+    "note_path": "notes/2026-07/enterprise-ai-vocabulary-25-advanced-concepts.md",
+    "image_path": "public/img/notes/2026-07/enterprise-ai-vocabulary-25-advanced-concepts.png",
+    "phash": "sha256:580aa79c8b442855",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-microsoft-365-copilot-features-gpt55-claude48",
+    "title": "Microsoft 365 Copilot Features \u2014 GPT-5.5 and Claude 4.8 Opus Model Choice",
+    "slug": "microsoft-365-copilot-features-gpt55-claude48",
+    "date_captured": "2026-07-17",
+    "category": "vendor-ecosystem",
+    "tags": [
+      "microsoft-365",
+      "copilot",
+      "gpt-5.5",
+      "claude-opus",
+      "excel",
+      "word",
+      "powerpoint",
+      "teams"
+    ],
+    "entities": [
+      "Microsoft",
+      "Microsoft Copilot",
+      "OpenAI",
+      "Anthropic",
+      "GPT-5.5",
+      "Claude 4.8 Opus",
+      "AIForLeaders.com"
+    ],
+    "summary": "An AIForLeaders.com infographic detailing new Microsoft 365 Copilot capabilities across Word, Excel, PowerPoint, and Teams. It highlights a new model selector offering GPT-5.5 (Instant and Think Deeper modes) and Claude 4.8 Opus, now available in Excel and set as the default model in Microsoft Copilot. Feature highlights include Word's 'Catch Up on Recent Changes' summarization, planned Excel changes requiring approval before edits apply, PowerPoint's 'Grill Your Deck' audience-question prediction, and Teams' ability to delete meeting recaps for off-topic meetings.",
+    "source_type": "drive-image",
+    "drive_id": "1B3TS6ZqtSek05PuPHnvLOOEq0ClONCjt",
+    "drive_name": "Screenshot 2026-07-14 at 12.23.51\u202fAM.png",
+    "drive_link": "https://drive.google.com/file/d/1B3TS6ZqtSek05PuPHnvLOOEq0ClONCjt/view",
+    "note_path": "notes/2026-07/microsoft-365-copilot-features-gpt55-claude48.md",
+    "image_path": "public/img/notes/2026-07/microsoft-365-copilot-features-gpt55-claude48.png",
+    "phash": "sha256:ac740075fc9153f5",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-claude-md-skills-hooks-subagents-plugins-lumay",
+    "title": "CLAUDE.md + Skills + Hooks + Subagents + Plugins \u2014 The Agent Development Kit (LuMay AI)",
+    "slug": "claude-md-skills-hooks-subagents-plugins-lumay",
+    "date_captured": "2026-07-17",
+    "category": "tooling",
+    "tags": [
+      "claude-code",
+      "agent-development",
+      "mcp",
+      "subagents",
+      "hooks",
+      "skills",
+      "duplicate"
+    ],
+    "entities": [
+      "Claude Code",
+      "Anthropic",
+      "LuMay AI"
+    ],
+    "summary": "A second capture of the same LuMay AI 'Agent Development Kit' infographic covered elsewhere in this batch, again laying out the five-layer architecture: CLAUDE.md (memory), Skills (knowledge), Hooks (guardrails), Subagents (delegation), and Plugins (distribution). Content is identical to the earlier capture in this batch; flagged as a duplicate.",
+    "source_type": "drive-image",
+    "drive_id": "1yqJTjINWs7KcdDQhl-pFGGs-yZXm9Bhp",
+    "drive_name": "Screenshot 2026-07-14 at 12.23.28\u202fAM.png",
+    "drive_link": "https://drive.google.com/file/d/1yqJTjINWs7KcdDQhl-pFGGs-yZXm9Bhp/view",
+    "note_path": "notes/2026-07/claude-md-skills-hooks-subagents-plugins-lumay.md",
+    "image_path": "public/img/notes/2026-07/claude-md-skills-hooks-subagents-plugins-lumay.png",
+    "phash": "sha256:9629e9286c65c6b5",
+    "ingested_at": "2026-08-02T20:15:05.665026Z",
+    "duplicate_of": "claude-code-agent-development-kit-lumay"
+  },
+  {
+    "id": "note-ai-value-funnel-interest-to-impact",
+    "title": "The AI Value Funnel \u2014 From Interest to Measurable Impact",
+    "slug": "ai-value-funnel-interest-to-impact",
+    "date_captured": "2026-07-17",
+    "category": "strategy",
+    "tags": [
+      "ai-value",
+      "ai-adoption",
+      "roi",
+      "operating-model",
+      "scale"
+    ],
+    "entities": [
+      "Clare Kitching"
+    ],
+    "summary": "A Clare Kitching infographic modeling how AI value moves through five funnel stages \u2014 Opportunity, Readiness, Experimentation, Adoption, and Scale \u2014 with each stage paired against where value typically gets lost and what leaders should do instead. Value is lost when teams chase visible-but-low-value use cases, skip data readiness, test tools instead of outcomes, fail to redesign workflows around adoption, or fail to reuse wins across teams at the scale stage.",
+    "source_type": "drive-image",
+    "drive_id": "1t6mIvGX8h27jSyz9wJjXMk-y-7USF6Ta",
+    "drive_name": "Screenshot 2026-07-14 at 12.22.48\u202fAM.png",
+    "drive_link": "https://drive.google.com/file/d/1t6mIvGX8h27jSyz9wJjXMk-y-7USF6Ta/view",
+    "note_path": "notes/2026-07/ai-value-funnel-interest-to-impact.md",
+    "image_path": "public/img/notes/2026-07/ai-value-funnel-interest-to-impact.png",
+    "phash": "sha256:bd920efdf022e236",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-ai-guardrail-categories-seven-layers",
+    "title": "AI Guardrail Categories \u2014 Input, Prompt, Retrieval, Tool, Output, Runtime, and Memory Guardrails",
+    "slug": "ai-guardrail-categories-seven-layers",
+    "date_captured": "2026-07-17",
+    "category": "security",
+    "tags": [
+      "ai-guardrails",
+      "security",
+      "prompt-injection",
+      "tool-security",
+      "memory-security",
+      "runtime-monitoring"
+    ],
+    "entities": [
+      "Alok Sharan"
+    ],
+    "summary": "A detailed Alok Sharan infographic cataloging AI guardrails across seven categories: Input Guardrails (validation, malware screening, rate limits), Prompt Guardrails (system prompt isolation, jailbreak detection, prompt injection checks), Retrieval Guardrails (source filtering, trust scoring, grounding rules), Tool Guardrails (tool allowlists, permission checks, human confirmation), Output Guardrails (toxicity checks, PII masking, hallucination checks), Runtime Guardrails (anomaly detection, cost controls, loop detection), and Memory Guardrails (memory expiry, sensitive data blocking, audit history). Each category lists 8-12 specific controls.",
+    "source_type": "drive-image",
+    "drive_id": "1WOtWAor4LBAWMy5SPXf9QyITwNO7TiLO",
+    "drive_name": "Screenshot 2026-07-13 at 11.38.21\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1WOtWAor4LBAWMy5SPXf9QyITwNO7TiLO/view",
+    "note_path": "notes/2026-07/ai-guardrail-categories-seven-layers.md",
+    "image_path": "public/img/notes/2026-07/ai-guardrail-categories-seven-layers.png",
+    "phash": "sha256:376edf990f8c6cf7",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-ai-strategy-wheel-seven-domains",
+    "title": "The AI Strategy Wheel \u2014 Seven Domains of Enterprise AI Strategy",
+    "slug": "ai-strategy-wheel-seven-domains",
+    "date_captured": "2026-07-17",
+    "category": "strategy",
+    "tags": [
+      "ai-strategy",
+      "governance",
+      "operating-model",
+      "data-readiness",
+      "culture"
+    ],
+    "entities": [
+      "Clare Kitching"
+    ],
+    "summary": "A Clare Kitching wheel diagram dividing enterprise AI strategy into seven domains: Ambition & Vision (own it at CEO level), Value & Use Cases (link initiatives to named owners and outcomes), Data (ready data for priority use cases, not everything), Technology (start with the current stack before exploring new investment), Operating Model (set clear approval and ownership for live initiatives), People, Skills & Culture (leaders role-model use to normalize it), and Risk & Governance (match controls to actual risk, not fear). Each domain pairs a short definition with a concrete action recommendation.",
+    "source_type": "drive-image",
+    "drive_id": "1x2-WDis9uV4ESjbUEOZgM6ObId-ulAyP",
+    "drive_name": "Screenshot 2026-07-13 at 12.16.14\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1x2-WDis9uV4ESjbUEOZgM6ObId-ulAyP/view",
+    "note_path": "notes/2026-07/ai-strategy-wheel-seven-domains.md",
+    "image_path": "public/img/notes/2026-07/ai-strategy-wheel-seven-domains.png",
+    "phash": "sha256:85d7418a7c145434",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-how-data-governance-evolves-into-ai-governance",
+    "title": "How Data Governance Evolves into AI Governance \u2014 10-Row Mapping",
+    "slug": "how-data-governance-evolves-into-ai-governance",
+    "date_captured": "2026-07-17",
+    "category": "governance",
+    "tags": [
+      "data-governance",
+      "ai-governance",
+      "model-drift",
+      "explainability",
+      "compliance",
+      "bias-detection"
+    ],
+    "entities": [],
+    "summary": "A 10-row infographic mapping each data governance discipline to its AI governance evolution: data quality management extends to model reliability prediction; data lineage tracking evolves into bias detection and audit trails; access controls become ethical use boundaries; data cataloging becomes model registry and discovery; compliance frameworks extend to regulatory readiness for laws like the EU AI Act; data stewardship roles become model ownership and accountability; schema standards become training data specifications; versioning and change control become model drift monitoring; security and encryption extend to adversarial defense; and data quality metrics evolve into explainability requirements.",
+    "source_type": "drive-image",
+    "drive_id": "14SSbtzxCg08gTWuPQokXVntBsZId0dbo",
+    "drive_name": "Screenshot 2026-07-12 at 10.44.13\u202fAM.png",
+    "drive_link": "https://drive.google.com/file/d/14SSbtzxCg08gTWuPQokXVntBsZId0dbo/view",
+    "note_path": "notes/2026-07/how-data-governance-evolves-into-ai-governance.md",
+    "image_path": "public/img/notes/2026-07/how-data-governance-evolves-into-ai-governance.png",
+    "phash": "sha256:1cf4240dc84729b7",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-data-model-vs-ontology-difference",
+    "title": "Data Model vs Ontology \u2014 What's the Difference?",
+    "slug": "data-model-vs-ontology-difference",
+    "date_captured": "2026-07-17",
+    "category": "data-engineering",
+    "tags": [
+      "data-modeling",
+      "ontology",
+      "knowledge-graph",
+      "semantic-reasoning",
+      "ai-architecture"
+    ],
+    "entities": [],
+    "summary": "A six-panel infographic by an AI/GenAI architect (ex-McKinsey, ex-QuantumBlack) explaining the difference between data models and ontologies using a library analogy: a data model is like a card catalog telling you where every book is, while an ontology is like collective intelligence understanding concepts, relationships, and context. It contrasts closed-world assumption (data models treat unknown facts as false) with open-world assumption (ontologies leave unknown facts as unknown), walks through a six-step ontology reasoning flow, and concludes that data models manage data while ontologies create understanding \u2014 arguing enterprises need both together to turn data warehouses into active knowledge engines.",
+    "source_type": "drive-image",
+    "drive_id": "1jkDXWLEqbQdwxeFcVuK7AY7e8MLkqouS",
+    "drive_name": "Screenshot 2026-07-11 at 1.19.24\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1jkDXWLEqbQdwxeFcVuK7AY7e8MLkqouS/view",
+    "note_path": "notes/2026-07/data-model-vs-ontology-difference.md",
+    "image_path": "public/img/notes/2026-07/data-model-vs-ontology-difference.png",
+    "phash": "sha256:f3c5a9da62294f3a",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
   }
 ]
