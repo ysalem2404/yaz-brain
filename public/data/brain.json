@@ -8871,5 +8871,711 @@
     "phash": "sha256:0684776ea2f415e7",
     "ingested_at": "2026-08-02T20:15:05.665026Z",
     "duplicate_of": "claude-code-agent-development-kit-lumay"
+  },
+  {
+    "id": "note-who-people-think-ai-leader-vs-actually-is",
+    "title": "Who People Think an AI Leader Is vs. Who an AI Leader Actually Is",
+    "slug": "who-people-think-ai-leader-vs-actually-is",
+    "date_captured": "2026-06-13",
+    "category": "strategy",
+    "tags": [
+      "ai-leadership",
+      "leadership",
+      "change-management",
+      "adoption"
+    ],
+    "entities": [
+      "Stephanie Hills"
+    ],
+    "summary": "Stephanie Hills's dual mind-map contrasts perceived versus actual AI leadership traits. Perceived traits: knows the most about AI, first to try every new tool, always talking about AI, automates everything possible, pretends to have all the answers. Actual traits: sets clear direction for AI, focuses on outcomes not tools, asks which problems need AI, protects team from AI overwhelm, trains teams before disruption, prioritizes human judgment, leads calmly through uncertainty, makes AI accessible to everyone.",
+    "source_type": "drive-image",
+    "drive_id": "1qNLsqCxq6KktUMLX6mGj0GR6hRkqOwtJ",
+    "drive_name": "Screenshot 2026-06-12 at 3.00.04\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1qNLsqCxq6KktUMLX6mGj0GR6hRkqOwtJ/view",
+    "note_path": "notes/2026-06/who-people-think-ai-leader-vs-actually-is.md",
+    "image_path": "public/img/notes/2026-06/who-people-think-ai-leader-vs-actually-is.png",
+    "phash": "sha256:fcb19ac3931010f2",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-top-10-emerging-data-governance-terms-ai-age",
+    "title": "Top 10 Emerging Data Governance Terms in the AI Age",
+    "slug": "top-10-emerging-data-governance-terms-ai-age",
+    "date_captured": "2026-06-13",
+    "category": "governance",
+    "tags": [
+      "data-governance",
+      "ai-governance",
+      "terminology",
+      "rag-governance",
+      "knowledge-graphs"
+    ],
+    "entities": [],
+    "summary": "A reference glossary of 10 emerging data governance terms specific to the AI era: Context Governance (managing business context fed to AI \u2014 definitions, rules, approved sources, prompts, usage boundaries), Semantic Metadata Management (enriching data with business meaning AI can understand), AI-Ready Data (trusted, governed, high-quality data safe for AI use), Retrieval Governance (controlling which sources AI can retrieve from and how results are ranked), Data Provenance (tracking where data came from and how AI used it), AI Data Lineage (showing how data flows through AI pipelines/models/prompts/outputs), Policy-as-Code (turning governance rules into automated enforceable controls), Machine-Readable Policies (structured policy formats AI systems can interpret), Memory Governance (managing what AI can remember/retain/forget to protect sensitive data), and Knowledge Graph Governance (managing quality/ownership/access of knowledge graphs AI uses).",
+    "source_type": "drive-image",
+    "drive_id": "1D3LxQ3X7KjBBe33e8Gfzq4WVbvMG2abR",
+    "drive_name": "Screenshot 2026-06-12 at 2.59.04\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1D3LxQ3X7KjBBe33e8Gfzq4WVbvMG2abR/view",
+    "note_path": "notes/2026-06/top-10-emerging-data-governance-terms-ai-age.md",
+    "image_path": "public/img/notes/2026-06/top-10-emerging-data-governance-terms-ai-age.png",
+    "phash": "sha256:d9b1a061a22d9107",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-microsoft-ai-ecosystem-five-layers",
+    "title": "The Microsoft AI Ecosystem: Five Layers From MAI Models to Enterprise AI",
+    "slug": "microsoft-ai-ecosystem-five-layers",
+    "date_captured": "2026-06-13",
+    "category": "vendor-ecosystem",
+    "tags": [
+      "microsoft",
+      "azure",
+      "copilot",
+      "microsoft-foundry",
+      "mai-models"
+    ],
+    "entities": [
+      "Denis Panjuta",
+      "Microsoft",
+      "MAI-Thinking-1",
+      "MAI-Code-1-Flash",
+      "MAI-Image-2.5",
+      "MAI-Transcribe-1.5",
+      "MAI-Voice-2",
+      "Microsoft 365 Copilot",
+      "GitHub Copilot",
+      "Copilot Studio",
+      "Windows Copilot",
+      "Security Copilot",
+      "Power Platform Copilot",
+      "Microsoft Foundry",
+      "Azure AI",
+      "Microsoft Fabric",
+      "Power BI Copilot",
+      "Power Apps",
+      "Power Automate",
+      "Dynamics 365 Copilot",
+      "Microsoft Purview"
+    ],
+    "summary": "Denis Panjuta's five-layer map of Microsoft's AI ecosystem: (1) MAI Models \u2014 Microsoft's in-house model family including MAI-Thinking-1 (complex reasoning), MAI-Code-1-Flash (fast coding), MAI-Image-2.5, MAI-Transcribe-1.5, MAI-Voice-2, and Frontier Tuning for business customization; (2) Copilot Layer \u2014 AI built into Microsoft products (M365 Copilot, GitHub Copilot, Copilot Studio, Windows Copilot, Security Copilot, Power Platform Copilot); (3) Microsoft Foundry \u2014 platform for building AI apps/agents (Foundry Models, Agent Service, Control Plane, Foundry IQ, Foundry Tools, Foundry Local); (4) Developer Ecosystem \u2014 tools for AI builders (VS Code, GitHub Copilot, Foundry SDKs, Agent Framework, Foundry Toolkit, Azure AI Services); (5) Enterprise AI Layer \u2014 AI for business/data/automation (Azure AI, Microsoft Fabric, Power BI Copilot, Power Apps, Power Automate, Dynamics 365 Copilot, Microsoft Purview).",
+    "source_type": "drive-image",
+    "drive_id": "1j373SCdvteRwdFyrlklv0IAgwQU15n6N",
+    "drive_name": "Screenshot 2026-06-12 at 2.58.43\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1j373SCdvteRwdFyrlklv0IAgwQU15n6N/view",
+    "note_path": "notes/2026-06/microsoft-ai-ecosystem-five-layers.md",
+    "image_path": "public/img/notes/2026-06/microsoft-ai-ecosystem-five-layers.png",
+    "phash": "sha256:ef57a593e41a5a68",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-six-layers-ai-governance-inventory-to-audit-clean-variant",
+    "title": "6 Layers for AI Governance: From AI Inventory to Compliance and Audit (Duplicate Capture, Clean Variant)",
+    "slug": "six-layers-ai-governance-inventory-to-audit-clean-variant",
+    "date_captured": "2026-06-13",
+    "category": "governance",
+    "tags": [
+      "ai-governance",
+      "ai-inventory",
+      "model-assurance",
+      "duplicate"
+    ],
+    "entities": [],
+    "summary": "This is an identical re-capture (clean, non-watermarked variant) of the same '6 layers for AI Governance' infographic already ingested in batch 5 under slug six-layers-ai-governance-inventory-to-audit. Same six layers: AI Inventory, Data Foundation, Data Security & Access, Model Assurance, Human Oversight, Compliance & Audit.",
+    "source_type": "drive-image",
+    "drive_id": "1rUI5_yaoW8zRKSTCs4RiDWLNkGrBubCQ",
+    "drive_name": "Screenshot 2026-06-12 at 2.57.54\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1rUI5_yaoW8zRKSTCs4RiDWLNkGrBubCQ/view",
+    "note_path": "notes/2026-06/six-layers-ai-governance-inventory-to-audit-clean-variant.md",
+    "image_path": "public/img/notes/2026-06/six-layers-ai-governance-inventory-to-audit-clean-variant.png",
+    "phash": "sha256:f8cbbb3602211d4b",
+    "ingested_at": "2026-08-02T20:15:05.665026Z",
+    "duplicate_of": "six-layers-ai-governance-inventory-to-audit"
+  },
+  {
+    "id": "note-three-roles-of-ai-every-leader-should-understand",
+    "title": "3 Roles of AI Every Leader Should Understand: Traditional, Generative, Agentic",
+    "slug": "three-roles-of-ai-every-leader-should-understand",
+    "date_captured": "2026-06-11",
+    "category": "concept-primer",
+    "tags": [
+      "traditional-ai",
+      "generative-ai",
+      "agentic-ai",
+      "ai-taxonomy",
+      "risk-maturity"
+    ],
+    "entities": [
+      "Clare Kitching"
+    ],
+    "summary": "Clare Kitching's three-column comparison profiles Traditional AI ('The Analyst' \u2014 studies data, predicts outcomes; high maturity; risks: outdated data, biased inputs, data leakage), Generative AI ('The Creator' \u2014 produces new content/ideas/code; medium maturity; risks: can invent facts, leak sensitive info, be manipulated by prompts), and Agentic AI ('The Worker' \u2014 takes action across systems to complete tasks; early maturity; risks: errors can cascade, needs strict guardrails/approvals/rollback controls). Each column covers what it does, where it shines, what it needs, maturity level, risks, best-for scenarios, and how to onboard.",
+    "source_type": "drive-image",
+    "drive_id": "1nHuy8n-7OZR08mKcjNBU9A3a9-TK7iKx",
+    "drive_name": "Screenshot 2026-06-11 at 10.53.39\u202fAM.png",
+    "drive_link": "https://drive.google.com/file/d/1nHuy8n-7OZR08mKcjNBU9A3a9-TK7iKx/view",
+    "note_path": "notes/2026-06/three-roles-of-ai-every-leader-should-understand.md",
+    "image_path": "public/img/notes/2026-06/three-roles-of-ai-every-leader-should-understand.png",
+    "phash": "sha256:cc8f3ab680f336a1",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-six-layers-ai-governance-hand-drawn-variant",
+    "title": "6 Layers for AI Governance (Hand-Drawn Variant, Duplicate Capture)",
+    "slug": "six-layers-ai-governance-hand-drawn-variant",
+    "date_captured": "2026-06-11",
+    "category": "governance",
+    "tags": [
+      "ai-governance",
+      "ai-inventory",
+      "model-assurance",
+      "duplicate"
+    ],
+    "entities": [],
+    "summary": "A third capture of the '6 layers for AI Governance' infographic, this time in a hand-drawn/sketch art style with a social-media caption overlay ('Most companies think AI governance is paperwork. That's the last 10%...'). Content is identical to the two prior captures already ingested (batch 5 original and the clean variant earlier in this batch): AI Inventory, Data Foundation, Data Security & Access, Model Assurance, Human Oversight, Compliance & Audit.",
+    "source_type": "drive-image",
+    "drive_id": "11HaA43D24ib4zzNCzbirAsDCHEl0oCkQ",
+    "drive_name": "Screenshot 2026-06-11 at 10.36.06\u202fAM.png",
+    "drive_link": "https://drive.google.com/file/d/11HaA43D24ib4zzNCzbirAsDCHEl0oCkQ/view",
+    "note_path": "notes/2026-06/six-layers-ai-governance-hand-drawn-variant.md",
+    "image_path": "public/img/notes/2026-06/six-layers-ai-governance-hand-drawn-variant.png",
+    "phash": "sha256:167ee0a254a54c0c",
+    "ingested_at": "2026-08-02T20:15:05.665026Z",
+    "duplicate_of": "six-layers-ai-governance-inventory-to-audit"
+  },
+  {
+    "id": "note-how-ai-consulting-agents-work-doczen",
+    "title": "How AI Consulting Agents Work: From Disconnected Reports to a Plug-In Chief AI Transformation Officer",
+    "slug": "how-ai-consulting-agents-work-doczen",
+    "date_captured": "2026-06-11",
+    "category": "case-study",
+    "tags": [
+      "ai-consulting",
+      "ai-agents",
+      "change-management",
+      "org-diagnostics"
+    ],
+    "entities": [
+      "Doczen"
+    ],
+    "summary": "Doczen's illustrated case study frames the problem of disconnected reports, misaligned meeting rooms, siloed process knowledge, and consultants presenting massive invoices \u2014 then proposes Doczen as a plug-in 'Chief AI Transformation Officer' agent. The workflow has three stages: Discovery (AI listens to the entire organization through natural conversations and real-talk surveys so employees are finally heard), Planning (chaos becomes a prioritized AI roadmap as insights flow into a structured plan), and Resolution (roadmap becomes real execution \u2014 building, selecting vendors, shipping).",
+    "source_type": "drive-image",
+    "drive_id": "14x4VByLX86GRcHTDuu_zlbIHEbEQpECb",
+    "drive_name": "Screenshot 2026-06-10 at 9.21.33\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/14x4VByLX86GRcHTDuu_zlbIHEbEQpECb/view",
+    "note_path": "notes/2026-06/how-ai-consulting-agents-work-doczen.md",
+    "image_path": "public/img/notes/2026-06/how-ai-consulting-agents-work-doczen.png",
+    "phash": "sha256:fc0eebd2dc857b3c",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-modern-grc-control-framework",
+    "title": "Modern GRC Control Framework: Governance, Risk, Compliance and Assurance",
+    "slug": "modern-grc-control-framework",
+    "date_captured": "2026-06-11",
+    "category": "governance",
+    "tags": [
+      "grc",
+      "governance",
+      "risk-management",
+      "compliance",
+      "coso",
+      "nist-csf",
+      "cobit"
+    ],
+    "entities": [
+      "Excellog.Biz",
+      "COSO IC",
+      "ISO 31000",
+      "NIST CSF 2.0",
+      "COBIT"
+    ],
+    "summary": "Excellog.Biz's comprehensive GRC framework defines modern GRC across governance (decision rights, policy, accountable ownership), integrated assurance (controls/obligations/risk signals/evidence working together), and accountability layers (board oversight, management ownership, control accountability). It maps the obligation-control-evidence flow, plots control confidence versus exposure (evidence maturity reduces exposure), lists current GRC pressure points (AI governance, third-party risk, cyber resilience, data privacy, regulatory change, sustainability reporting, audit evidence), assessment methods, response actions (strengthen, automate, escalate), core frameworks (COSO IC, ISO 31000, NIST CSF 2.0, COBIT), and popular focus areas (AI governance, privacy compliance, digital resilience, third-party oversight).",
+    "source_type": "drive-image",
+    "drive_id": "1j-hK08QXl5t-PjMR4RPVDD-fj6lez6C8",
+    "drive_name": "Screenshot 2026-06-10 at 9.14.12\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1j-hK08QXl5t-PjMR4RPVDD-fj6lez6C8/view",
+    "note_path": "notes/2026-06/modern-grc-control-framework.md",
+    "image_path": "public/img/notes/2026-06/modern-grc-control-framework.png",
+    "phash": "sha256:6d016cd941660839",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-data-governance-what-it-actually-is-vs-isnt",
+    "title": "Data Governance: What It Actually Is vs What It Isn't (Whiteboard)",
+    "slug": "data-governance-what-it-actually-is-vs-isnt",
+    "date_captured": "2026-06-11",
+    "category": "governance",
+    "tags": [
+      "data-governance",
+      "operating-model",
+      "decision-rights",
+      "accountability"
+    ],
+    "entities": [
+      "John Wernfeldt"
+    ],
+    "summary": "John Wernfeldt's whiteboard directly contrasts eight misconceptions ('what people think it is': policies, committees, documentation, compliance checkbox, data dictionary, approval workflows, IT-owned control, stewardship meetings) against eight functional realities ('what it actually is': decision rights, named ownership, metric definitions in code, risk management, shared understanding, escalation clarity, business-owned accountability, operating rhythm). A summary table contrasts 'old version' (focus on process, measures activities, creates overhead, owned by IT, people avoid it) against 'real version' (focus on decisions, measures outcomes, removes friction, owned by business, people ask for it), closing with 'Governance is not a burden you add to the business. It is how the business makes decisions it can trust.'",
+    "source_type": "drive-image",
+    "drive_id": "1oe2RAaFAqZ2R9znJwnTgkheGa87SRbPf",
+    "drive_name": "Screenshot 2026-06-10 at 9.13.34\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1oe2RAaFAqZ2R9znJwnTgkheGa87SRbPf/view",
+    "note_path": "notes/2026-06/data-governance-what-it-actually-is-vs-isnt.md",
+    "image_path": "public/img/notes/2026-06/data-governance-what-it-actually-is-vs-isnt.png",
+    "phash": "sha256:b6a6b027d8538d61",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-microsoft-ai-stack-simplified-four-layers",
+    "title": "The Microsoft AI Stack (Simplified): Four Layers From Experience to Models",
+    "slug": "microsoft-ai-stack-simplified-four-layers",
+    "date_captured": "2026-06-10",
+    "category": "vendor-ecosystem",
+    "tags": [
+      "microsoft",
+      "copilot-studio",
+      "microsoft-foundry",
+      "azure-openai",
+      "microsoft-365-copilot"
+    ],
+    "entities": [
+      "Microsoft 365 Copilot",
+      "Copilot Studio",
+      "Microsoft Foundry",
+      "Azure OpenAI Service"
+    ],
+    "summary": "A simplified four-layer view of Microsoft's AI stack matches layer to product: Experience layer (Microsoft 365 Copilot \u2014 AI across Word/Excel/PowerPoint/Outlook/Teams, includes lightweight Agent Builder), Orchestration layer (Copilot Studio \u2014 the enterprise agent builder, low-code platform to build/connect/orchestrate business-ready AI agents), Platform layer (Microsoft Foundry \u2014 unified platform to build/test/fine-tune/deploy/govern AI solutions at scale), and Models layer (Azure OpenAI Service \u2014 secure enterprise access to GPT-4o, DALL-E, embedding models via APIs). A 'how it works together' flow shows a Teams meeting summary flowing from Copilot through Copilot Studio through Foundry to Azure OpenAI. Four pillars for AI success: Governance, Data & Grounding, Security, Automation. Pro tip: start small, solve real problems, measure impact, scale what delivers value.",
+    "source_type": "drive-image",
+    "drive_id": "1J8R93ywDJ7xVyl8W_nzYcN1IOu74px7z",
+    "drive_name": "Screenshot 2026-06-10 at 2.21.10\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1J8R93ywDJ7xVyl8W_nzYcN1IOu74px7z/view",
+    "note_path": "notes/2026-06/microsoft-ai-stack-simplified-four-layers.md",
+    "image_path": "public/img/notes/2026-06/microsoft-ai-stack-simplified-four-layers.png",
+    "phash": "sha256:cf6b959dbb956b4e",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-two-ai-pilots-same-model-one-scales-one-dies",
+    "title": "Two AI Pilots, Same Model, One Scales One Dies: Seven Contrasts That Decide the Outcome",
+    "slug": "two-ai-pilots-same-model-one-scales-one-dies",
+    "date_captured": "2026-06-10",
+    "category": "case-study",
+    "tags": [
+      "ai-pilots",
+      "scaling",
+      "workflow-redesign",
+      "mckinsey",
+      "bcg",
+      "gartner"
+    ],
+    "entities": [
+      "Carolyn Healey",
+      "McKinsey",
+      "BCG",
+      "Gartner"
+    ],
+    "summary": "Carolyn Healey's seven-contrast framework explains why identical AI models produce wildly different pilot outcomes. Citing McKinsey 2025 (nearly 9 in 10 organizations use AI in at least one function, but only about 6% capture significant enterprise-level value), it contrasts stalling versus scaling behaviors: workflow redesign beats bolt-on (BCG: ~90% of AI value in future-built firms comes from reshaping processes); outcome metrics beat activity metrics; executive ownership beats IT orphans (BCG: near-universal C-suite use is a defining trait of leading firms); tight scope beats boil-the-ocean (Gartner: unclear business value drives 30%+ of GenAI projects abandoned after proof of concept); AI-ready data beats demo data (Gartner: poor data quality is a leading cause of GenAI abandonment); workforce enablement beats tool drops (BCG); and governance as enabler beats governance as afterthought (McKinsey: disciplined risk controls separate value-capturers from the rest).",
+    "source_type": "drive-image",
+    "drive_id": "1E28z1rM6l89Nboe1yEZPAXMkhTnczZtM",
+    "drive_name": "Screenshot 2026-06-10 at 10.50.44\u202fAM.png",
+    "drive_link": "https://drive.google.com/file/d/1E28z1rM6l89Nboe1yEZPAXMkhTnczZtM/view",
+    "note_path": "notes/2026-06/two-ai-pilots-same-model-one-scales-one-dies.md",
+    "image_path": "public/img/notes/2026-06/two-ai-pilots-same-model-one-scales-one-dies.png",
+    "phash": "sha256:27f97c370819689f",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-data-governance-for-leaders-scaling-ai",
+    "title": "Data Governance for Leaders Scaling AI",
+    "slug": "data-governance-for-leaders-scaling-ai",
+    "date_captured": "2026-06-09",
+    "category": "governance",
+    "tags": [
+      "data-governance",
+      "ai-scaling",
+      "leadership",
+      "data-stewardship"
+    ],
+    "entities": [
+      "Clare Kitching"
+    ],
+    "summary": "Clare Kitching's leadership-focused data governance primer defines governance as practices ensuring data is accurate, secure, and used responsibly, walking through a four-step chain (Data Governance \u2192 Trusted Data \u2192 Responsible AI \u2192 Business Value), explaining 'why now' (AI scaling without governance stalls pilots, trust is critical, regulation is tightening), what governance includes (ownership/accountability, data quality/fitness, metadata/lineage, access/privacy/security controls, risk/compliance monitoring), what leaders should do (treat governance as AI infrastructure not just compliance, focus on data that matters most, assign clear owners, measure quality/usage/control effectiveness), questions to ask, and terms to know (data owner, data steward, data quality, metadata).",
+    "source_type": "drive-image",
+    "drive_id": "1w5voFpuCwHl02ZOgWZKpo7cZkQaHN5wL",
+    "drive_name": "Screenshot 2026-06-09 at 7.24.35\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1w5voFpuCwHl02ZOgWZKpo7cZkQaHN5wL/view",
+    "note_path": "notes/2026-06/data-governance-for-leaders-scaling-ai.md",
+    "image_path": "public/img/notes/2026-06/data-governance-for-leaders-scaling-ai.png",
+    "phash": "sha256:5845e5179e65326b",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-data-governance-for-leaders-scaling-ai-extended",
+    "title": "Data Governance for Leaders Scaling AI (Extended Edition With Terms to Know)",
+    "slug": "data-governance-for-leaders-scaling-ai-extended",
+    "date_captured": "2026-05-17",
+    "category": "governance",
+    "tags": [
+      "data-governance",
+      "ai-scaling",
+      "leadership",
+      "terms-to-know"
+    ],
+    "entities": [
+      "Clare Kitching"
+    ],
+    "summary": "This is an extended version of Clare Kitching's 'Data Governance for Leaders Scaling AI' infographic, adding a 'What it includes' panel (ownership/accountability, data quality/fitness for purpose, metadata/definitions/lineage, access/privacy/security controls, risk/compliance/monitoring) and a bottom 'Terms to know' glossary bar (data owner, data steward, data quality, metadata) not present in the shorter version captured earlier in this batch. Core content (the four-step chain, why-now rationale, what leaders should do, questions to ask) is otherwise the same.",
+    "source_type": "drive-image",
+    "drive_id": "1bqrziDli4JM41nPV0epPf4HLToaeLLRJ",
+    "drive_name": "Screenshot 2026-05-17 at 8.49.20\u202fAM.png",
+    "drive_link": "https://drive.google.com/file/d/1bqrziDli4JM41nPV0epPf4HLToaeLLRJ/view",
+    "note_path": "notes/2026-05/data-governance-for-leaders-scaling-ai-extended.md",
+    "image_path": "public/img/notes/2026-05/data-governance-for-leaders-scaling-ai-extended.png",
+    "phash": "sha256:3c3e006edd6fc94a",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-humanoid-robots-when-ai-takes-physical-form",
+    "title": "Humanoid Robots: When AI Takes Physical Form (AI Simplified Series 5/5)",
+    "slug": "humanoid-robots-when-ai-takes-physical-form",
+    "date_captured": "2026-05-17",
+    "category": "concept-primer",
+    "tags": [
+      "humanoid-robots",
+      "robotics",
+      "ai-simplified-series",
+      "physical-ai"
+    ],
+    "entities": [
+      "NMF.org"
+    ],
+    "summary": "The fifth installment of NMF.org's 'AI Simplified Series' covers humanoid robots as the point where AI, sensing, and engineering meet the physical world. It breaks down what makes a humanoid robot work (perception, intelligence, dexterity, mobility), how they've developed (early prototypes 2000s \u2192 research platforms 2010s \u2192 AI-driven humanoids 2020s \u2192 early industrial pilot deployment today), where they're heading (industrial, commercial, domestic, specialized/disaster response), real bottlenecks (dexterity \u2014 human hands have 27 degrees of freedom robots still struggle to match; battery life of 2-4 hours; safety around humans; cost of tens to hundreds of thousands of dollars per unit), and what this does not mean (not general-purpose yet, jobs will change gradually not overnight, human oversight remains essential, safety/ethics are non-negotiable).",
+    "source_type": "drive-image",
+    "drive_id": "1OJNVG4Cnb-qOW4Ts5jCG1KTGf5NRXIex",
+    "drive_name": "Screenshot 2026-05-17 at 3.37.53\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1OJNVG4Cnb-qOW4Ts5jCG1KTGf5NRXIex/view",
+    "note_path": "notes/2026-05/humanoid-robots-when-ai-takes-physical-form.md",
+    "image_path": "public/img/notes/2026-05/humanoid-robots-when-ai-takes-physical-form.png",
+    "phash": "sha256:d616e7a0d4d84d3f",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-ai-agents-need-org-chart-not-better-models",
+    "title": "Your Newest AI Agents Don't Need Better Models, They Need an Org Chart",
+    "slug": "ai-agents-need-org-chart-not-better-models",
+    "date_captured": "2026-06-01",
+    "category": "agents",
+    "tags": [
+      "ai-agents",
+      "agent-management",
+      "org-design",
+      "accountability",
+      "deloitte"
+    ],
+    "entities": [
+      "Carolyn Healey",
+      "Deloitte"
+    ],
+    "summary": "Carolyn Healey's framework argues agentic AI deployment is fundamentally a management and org-design problem, not a modeling problem. Cites Deloitte data that 84% of companies still have not redesigned jobs or the nature of work around AI capabilities. Proposes treating agents like employees across eight steps: write the job description before you 'hire' the agent (one clear scope, not 'handle everything'); set the authority scope in writing (what can it decide alone, what requires approval); give every agent a named owner (business and technical); treat agent identity as real identity (agents need their own permissions/lifecycle policies, not shared human credentials); design the escalation path, not just the happy path; build review into the system from day one (logs, audit trails, monitoring); put an agent manager over the team (orchestration layer as supervisor); hold performance reviews (track task success rate, escalation rate, cost per task, exception rate, compliance incidents, human override rate).",
+    "source_type": "drive-image",
+    "drive_id": "18NQt18g7U_QBG5R0tPgkY0sQs97CpG1W",
+    "drive_name": "Screenshot 2026-06-01 at 3.46.09\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/18NQt18g7U_QBG5R0tPgkY0sQs97CpG1W/view",
+    "note_path": "notes/2026-06/ai-agents-need-org-chart-not-better-models.md",
+    "image_path": "public/img/notes/2026-06/ai-agents-need-org-chart-not-better-models.png",
+    "phash": "sha256:e9afef7a040b077a",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-how-to-turn-ai-idea-into-real-workflow",
+    "title": "How to Turn Any AI Idea Into a Real Workflow: 8-Step Architecture",
+    "slug": "how-to-turn-ai-idea-into-real-workflow",
+    "date_captured": "2026-05-29",
+    "category": "architecture",
+    "tags": [
+      "ai-workflow",
+      "architecture",
+      "production-ai",
+      "human-in-the-loop",
+      "guardrails"
+    ],
+    "entities": [
+      "Brij Kishore Pandey"
+    ],
+    "summary": "Brij Kishore Pandey's practical architecture takes AI use cases from concept to production, starting with seven core workflow questions (input, context, decision, tool/action, validation, human approval, output), then a real workflow architecture with eight layers: Trigger Layer (how work begins \u2014 user query, uploaded file, support ticket), Context Assembly Layer (gathering docs/policies/CRM/database/history/vector search), AI/Decision Layer (classify/summarize/route/draft), Tool Orchestration Layer (GitHub/Slack/PostgreSQL/API/email/calendar/ticketing via a tool gateway), Validation & Guardrails (schema check/policy check/confidence threshold/citation check), Human-in-the-Loop (legal/finance/external send/security review where risk is high), Output & Action (draft email/updated ticket/report/alert/code change/dashboard update), and Feedback & Improvement (logs/user feedback/evaluations/prompt updates/memory updates closing the loop).",
+    "source_type": "drive-image",
+    "drive_id": "17EHzpOra3rgP1qnXWHYPlVWkrypIQVjy",
+    "drive_name": "Screenshot 2026-05-27 at 9.01.57\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/17EHzpOra3rgP1qnXWHYPlVWkrypIQVjy/view",
+    "note_path": "notes/2026-05/how-to-turn-ai-idea-into-real-workflow.md",
+    "image_path": "public/img/notes/2026-05/how-to-turn-ai-idea-into-real-workflow.png",
+    "phash": "sha256:15921c6c33814eba",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-eight-claude-skills-for-construction",
+    "title": "8 Claude Skills for Construction: From Contract Review to O&M Manual Building",
+    "slug": "eight-claude-skills-for-construction",
+    "date_captured": "2026-05-22",
+    "category": "case-study",
+    "tags": [
+      "claude",
+      "construction",
+      "epc",
+      "contract-review",
+      "project-management",
+      "procurement"
+    ],
+    "entities": [
+      "Claude"
+    ],
+    "summary": "An eight-skill Claude use-case map tailored to construction/EPC workflows: Skill 1 Contract Reviews (clause-by-clause comparison, departures register with severity ratings \u2014 LD Cap, Consequential Loss, Notice Period, Liability); Skill 2 Project Context Builder/Indexer (scans project folders, creates a claude.md roadmap plus document/drawing summaries); Skill 3 Go/No-Go Bid Summary (analyzes bid docs, produces 5-slide summary + Excel Go/No-Go dashboard); Skill 4 Procurement Packaging (extracts requirements into package registers, scopes of work, pricing schedules); Skill 5 Estimate Reconciliation (checks estimate vs scope, calculation errors, gaps, double counts); Skill 6 Project Scheduling/Gantt (builds project schedules from packages); Skill 7 Document Controller/Auto (monitors correspondence, updates registers on a schedule); Skill 8 O&M Manual Builder (compiles specs/products/warranties into a standard O&M manual, flagging missing info).",
+    "source_type": "drive-image",
+    "drive_id": "1VL2XWmeX60MofLEK9V8NhRisCeCKC7GR",
+    "drive_name": "Screenshot 2026-05-22 at 6.36.42\u202fAM.png",
+    "drive_link": "https://drive.google.com/file/d/1VL2XWmeX60MofLEK9V8NhRisCeCKC7GR/view",
+    "note_path": "notes/2026-05/eight-claude-skills-for-construction.md",
+    "image_path": "public/img/notes/2026-05/eight-claude-skills-for-construction.png",
+    "phash": "sha256:e90fdf53022744d1",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-jensen-huang-five-layer-ai-cake",
+    "title": "Jensen Huang's Five-Layer AI Cake: Energy, Chips, Infrastructure, Models, Applications",
+    "slug": "jensen-huang-five-layer-ai-cake",
+    "date_captured": "2026-06-09",
+    "category": "concept-primer",
+    "tags": [
+      "nvidia",
+      "ai-infrastructure",
+      "ai-factories",
+      "jensen-huang"
+    ],
+    "entities": [
+      "Jensen Huang",
+      "Nvidia"
+    ],
+    "summary": "Nvidia CEO Jensen Huang's five-layer stack maps the AI industry from first principles as a cake: Energy \u2192 Chips \u2192 Infrastructure \u2192 Models \u2192 Applications. The Applications layer includes chatbots, digital biology, robotaxis, enterprise AI agents, science, robotics, manufacturing, and AI coders. The Models layer spans LLM, VLM, VLA, MMLLM, GPT, DM, GNN, MOE, SSM, LBM architectures. Infrastructure, Chips, and Energy form the foundational base, collectively producing what Huang calls 'AI Factories' \u2014 large-scale server infrastructure shown as racks of compute hardware.",
+    "source_type": "drive-image",
+    "drive_id": "1Wz463H9kqCxfXl38HzHZmwHSFjiq__Ng",
+    "drive_name": "Screenshot 2026-06-09 at 9.08.11\u202fAM.png",
+    "drive_link": "https://drive.google.com/file/d/1Wz463H9kqCxfXl38HzHZmwHSFjiq__Ng/view",
+    "note_path": "notes/2026-06/jensen-huang-five-layer-ai-cake.md",
+    "image_path": "public/img/notes/2026-06/jensen-huang-five-layer-ai-cake.png",
+    "phash": "sha256:12e82fbe97c79fb6",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-new-ai-roles-management-business-technical",
+    "title": "New AI Roles: A Map of Emerging AI Job Titles Across Management, Business, and Technical Tracks",
+    "slug": "new-ai-roles-management-business-technical",
+    "date_captured": "2026-06-09",
+    "category": "adoption",
+    "tags": [
+      "ai-jobs",
+      "org-design",
+      "ai-roles",
+      "career-development"
+    ],
+    "entities": [
+      "AI For Leaders"
+    ],
+    "summary": "AIForLeaders.com's role map catalogs emerging AI job titles across three tracks. Management: Chief AI Officer, Head of AI, Head of Applied AI, AI Ethicist, AI Delivery Manager, AI Strategy Manager, Director of AI, Chief Data and AI Officer, AI Product Manager, AI Risk & Governance Specialist, Responsible AI Lead, AI Operations Lead, Director of AI Transformation and Strategy, AI Policy & Advocacy Lead. Business: AI Accounting Analyst, AI-Powered Auditor, AI Tax Consultant, AI Financial Reporting Specialist, AI Compliance Analyst, AI Payroll Specialist, AI Accounts Payable/Receivable Specialist, AI Talent Acquisition Specialist, AI HR Data Analyst, AI HR Business Partner, AI People Analytics Manager, AI Customer Success Manager, AI Business Intelligence Analyst. Technical: AI Architect, Model Manager, Model Validator, Model/ML Engineer, AI Application Developer, AI App Dev Platform Architect, Data Scientist, Analytics Engineer, AI Cybersecurity Analyst/Researcher, AI Redteam Engineer, Prompt Engineer, AI Process Automation Engineer, Data Engineer, D&A and AI UX Designer.",
+    "source_type": "drive-image",
+    "drive_id": "1wKoK71jnB_XijV7Nk4MWVhg-fWPAfr05",
+    "drive_name": "Screenshot 2026-06-09 at 7.04.44\u202fAM.png",
+    "drive_link": "https://drive.google.com/file/d/1wKoK71jnB_XijV7Nk4MWVhg-fWPAfr05/view",
+    "note_path": "notes/2026-06/new-ai-roles-management-business-technical.md",
+    "image_path": "public/img/notes/2026-06/new-ai-roles-management-business-technical.png",
+    "phash": "sha256:d7abc56559ec4212",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-microsoft-entra-agent-id-agent-365-ecosystem",
+    "title": "Microsoft Entra Agent ID: Bringing Identity to AI Agents Across the Agent 365 Ecosystem",
+    "slug": "microsoft-entra-agent-id-agent-365-ecosystem",
+    "date_captured": "2026-06-09",
+    "category": "security",
+    "tags": [
+      "microsoft-entra",
+      "agent-identity",
+      "identity-management",
+      "agent-365",
+      "azure"
+    ],
+    "entities": [
+      "Aiswarya Venkitesh",
+      "Microsoft Entra Agent ID",
+      "Microsoft Foundry",
+      "Copilot Studio",
+      "Security Copilot",
+      "Microsoft 365 Copilot",
+      "Agent 365",
+      "PolyAI",
+      "Cognition",
+      "LexisNexis",
+      "Workday",
+      "ServiceNow",
+      "Perplexity",
+      "CrewAI",
+      "Adobe",
+      "Anthropic",
+      "BlueYonder",
+      "Glean",
+      "WorkOS",
+      "Cursor",
+      "Manus",
+      "Nvidia",
+      "Sophos",
+      "Zendesk",
+      "Kasisto",
+      "Vercel",
+      "n8n",
+      "LangChain",
+      "Box",
+      "Zensai",
+      "Egnyte"
+    ],
+    "summary": "Aiswarya Venkitesh's diagram explains Microsoft Entra Agent ID as a system giving AI agents real identities \u2014 spanning authentication, authorization, identity protection, access governance, and visibility \u2014 now available for Foundry, Copilot Studio, Security Copilot, Microsoft 365 Copilot, and third-party agents. The bottom panel maps the broader 'Agent 365 Ecosystem,' showing Microsoft's Agent 365/Foundry hub connected via dashed lines to a wide vendor network: PolyAI, Cognition, LexisNexis, Workday, ServiceNow, Perplexity, CrewAI, Adobe, Anthropic, BlueYonder, Glean, WorkOS, Cursor, Manus, Nvidia, Sophos, Zendesk, Kasisto, Vercel, n8n, LangChain, Box, Zensai, Egnyte.",
+    "source_type": "drive-image",
+    "drive_id": "1klnUhi-YsyEt2corX4qiuZSDUv2kl7e2",
+    "drive_name": "E4862140-D8B7-4BCC-AC08-76151EE11092.png",
+    "drive_link": "https://drive.google.com/file/d/1klnUhi-YsyEt2corX4qiuZSDUv2kl7e2/view",
+    "note_path": "notes/2026-06/microsoft-entra-agent-id-agent-365-ecosystem.md",
+    "image_path": "public/img/notes/2026-06/microsoft-entra-agent-id-agent-365-ecosystem.png",
+    "phash": "sha256:3b09d273cf590556",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-ai-robotics-future-strategy-eight-domain-wheel",
+    "title": "AI & Robotics: The Future Strategy \u2014 An Eight-Domain Wheel",
+    "slug": "ai-robotics-future-strategy-eight-domain-wheel",
+    "date_captured": "2026-06-09",
+    "category": "concept-primer",
+    "tags": [
+      "ai-robotics",
+      "computer-vision",
+      "nlp",
+      "robotic-automation",
+      "ai-ethics"
+    ],
+    "entities": [],
+    "summary": "An illustrated eight-domain wheel titled 'AI & Robotics: The Future Strategy' arranges Computer Vision (visual recognition systems), Robotic Automation (smart and autonomous robots), Natural Language Processing (advanced language understanding), Machine Learning (data-driven AI models), Innovation & Research (developing new technologies), Data & Security (safe and ethical AI use), and Business Solutions (enhancing productivity) around a central humanoid robot figure interacting with a globe, closing with three future goals: Human-Robot Collaboration, AI Ethics & Safety, Global AI Impact.",
+    "source_type": "drive-image",
+    "drive_id": "1deDsfjdxWItnT-s3Gl_02kh7pY99eb4h",
+    "drive_name": "03F63995-6F9D-4199-B05E-31A523D6E10E.png",
+    "drive_link": "https://drive.google.com/file/d/1deDsfjdxWItnT-s3Gl_02kh7pY99eb4h/view",
+    "note_path": "notes/2026-06/ai-robotics-future-strategy-eight-domain-wheel.md",
+    "image_path": "public/img/notes/2026-06/ai-robotics-future-strategy-eight-domain-wheel.png",
+    "phash": "sha256:2b266fbc8ca9a993",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-four-foundations-successful-ai-adoption",
+    "title": "4 Foundations for Successful AI Adoption",
+    "slug": "four-foundations-successful-ai-adoption",
+    "date_captured": "2026-06-09",
+    "category": "adoption",
+    "tags": [
+      "ai-adoption",
+      "change-management",
+      "data-quality",
+      "workflow-integration"
+    ],
+    "entities": [
+      "Clare Kitching"
+    ],
+    "summary": "Clare Kitching's four-circle Venn diagram names four foundations for successful AI adoption: Help People Learn How to Use AI (celebrate small wins, let teams experiment safely, show practical recognizable examples), Build AI Into How Work Gets Done (identify tasks where AI saves time, redesign workflows with AI included, remove unnecessary manual steps), Make the Technology Easy to Use (provide the right tools, integrate AI with existing systems, remove unnecessary friction), and Give AI the Right Data (connect AI to trusted data sources, organize knowledge so AI can access it, improve data quality and visibility). Overlapping regions describe compounding outcomes: people know when/how to use AI, people trust AI insights, AI tools understand organizational information, people can use AI easily \u2014 converging on the center: 'We See AI Making a Difference.'",
+    "source_type": "drive-image",
+    "drive_id": "1G0XfJ4vsUjT0yAv_Cm-Cwb6jz-U7Zcp9",
+    "drive_name": "Screenshot 2026-06-08 at 9.03.57\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1G0XfJ4vsUjT0yAv_Cm-Cwb6jz-U7Zcp9/view",
+    "note_path": "notes/2026-06/four-foundations-successful-ai-adoption.md",
+    "image_path": "public/img/notes/2026-06/four-foundations-successful-ai-adoption.png",
+    "phash": "sha256:139723a7aa43494b",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-ai-strategy-from-ambition-to-execution",
+    "title": "AI Strategy: From Ambition to Execution",
+    "slug": "ai-strategy-from-ambition-to-execution",
+    "date_captured": "2026-06-08",
+    "category": "strategy",
+    "tags": [
+      "ai-strategy",
+      "execution",
+      "trusted-data",
+      "governance"
+    ],
+    "entities": [],
+    "summary": "An illustrated conceptual poster titled 'AI Strategy: From Ambition to Execution' depicts a stylized human head with circuit-board patterns standing atop platforms representing different strategic focus areas: 'Build on trusted data,' 'Enable teams and governance,' and 'Measure value and scale,' with rising bar charts and an upward arrow toward a target symbolizing growth. Four strategic focus bullet points: align AI to business goals, build on trusted data, enable teams and governance, measure value and scale.",
+    "source_type": "drive-image",
+    "drive_id": "1tBo0Vrr8WhJ9toUO6mLApFUZCIfDryWG",
+    "drive_name": "Screenshot 2026-06-08 at 11.45.11\u202fAM.png",
+    "drive_link": "https://drive.google.com/file/d/1tBo0Vrr8WhJ9toUO6mLApFUZCIfDryWG/view",
+    "note_path": "notes/2026-06/ai-strategy-from-ambition-to-execution.md",
+    "image_path": "public/img/notes/2026-06/ai-strategy-from-ambition-to-execution.png",
+    "phash": "sha256:7d941a15e9b59bb7",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
+  },
+  {
+    "id": "note-microsoft-entra-agent-id-duplicate-capture",
+    "title": "Microsoft Entra Agent ID: Bringing Identity to AI Agents (Duplicate Capture)",
+    "slug": "microsoft-entra-agent-id-duplicate-capture",
+    "date_captured": "2026-06-08",
+    "category": "security",
+    "tags": [
+      "microsoft-entra",
+      "agent-identity",
+      "identity-management",
+      "duplicate"
+    ],
+    "entities": [
+      "Aiswarya Venkitesh"
+    ],
+    "summary": "This is an identical re-capture of Aiswarya Venkitesh's 'Microsoft Entra Agent ID' infographic and Agent 365 Ecosystem map already ingested earlier in this same batch under slug microsoft-entra-agent-id-agent-365-ecosystem. Same five identity capabilities and same 24-vendor ecosystem map.",
+    "source_type": "drive-image",
+    "drive_id": "1BbKx5TM25xscQDjeJvHgrOKyN_AUUWun",
+    "drive_name": "Screenshot 2026-06-07 at 8.55.23\u202fAM.png",
+    "drive_link": "https://drive.google.com/file/d/1BbKx5TM25xscQDjeJvHgrOKyN_AUUWun/view",
+    "note_path": "notes/2026-06/microsoft-entra-agent-id-duplicate-capture.md",
+    "image_path": "public/img/notes/2026-06/microsoft-entra-agent-id-duplicate-capture.png",
+    "phash": "sha256:20d77bd69e1bf827",
+    "ingested_at": "2026-08-02T20:15:05.665026Z",
+    "duplicate_of": "microsoft-entra-agent-id-agent-365-ecosystem"
+  },
+  {
+    "id": "note-agentic-ai-periodic-table",
+    "title": "Agentic AI Periodic Table: A Color-Coded Reference for LLM, RAG, MCP, A2A, and Agent Terminology",
+    "slug": "agentic-ai-periodic-table",
+    "date_captured": "2026-06-05",
+    "category": "concept-primer",
+    "tags": [
+      "agentic-ai",
+      "terminology",
+      "mcp",
+      "a2a",
+      "rag",
+      "vendor-tools"
+    ],
+    "entities": [
+      "GenAI.works",
+      "AWS",
+      "HuggingFace",
+      "Grok",
+      "Gemini",
+      "IBM ACP",
+      "Anthropic",
+      "OpenAI",
+      "Microsoft Azure",
+      "GCP"
+    ],
+    "summary": "GenAI.works' periodic-table-style reference organizes 70+ agentic AI terms into eight color-coded categories: AI Terminology (AAI, AGI, ASI, LLM, ML, RL), Vendor Tools (AWS, HuggingFace, Grok, Gemini, IBM ACP, Anthropic, OpenAI, Microsoft Azure, GCP), Agent Patterns (COL, HAA, PLAN, MAS), Capabilities & Skills (MAP, VOICE, IMG, IDEA, AZR, SUM, CAL, CHAT), Memory & Context Handling (CTX, FORG, SAVE, LTM, DIARY, NOTE, MEM), Evaluation & Safety (ERR, ACC, SAFE, TEST), Agent Collaboration & Networking (A2A, HELP, NET, ACP, CREW), Business & Use Cases (EDU, HR, MKT, SHOP, SUP, LEGAL), and Deployment & Scaling (MON, UPD, LOCAL, CLOUD, MCP).",
+    "source_type": "drive-image",
+    "drive_id": "1vouNL-zvxdBn8qjYjB0YtxEZyoGrbuzz",
+    "drive_name": "Screenshot 2026-06-05 at 4.47.33\u202fPM.png",
+    "drive_link": "https://drive.google.com/file/d/1vouNL-zvxdBn8qjYjB0YtxEZyoGrbuzz/view",
+    "note_path": "notes/2026-06/agentic-ai-periodic-table.md",
+    "image_path": "public/img/notes/2026-06/agentic-ai-periodic-table.png",
+    "phash": "sha256:328ed7889aa24220",
+    "ingested_at": "2026-08-02T20:15:05.665026Z"
   }
 ]
