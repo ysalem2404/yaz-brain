@@ -12894,5 +12894,317 @@
     "image_path": "public/img/notes/2026-07/ai-agents-and-mcp-prompts-10-reusable-patterns.png",
     "phash": "c1c36bc92e9e3895",
     "ingested_at": "2026-08-04T12:05:00Z"
+  },
+  {
+    "id": "note-research-prompts-synthesis-signal-fact-checking-and-decisions",
+    "title": "Research Prompts — Synthesis, Signal, Fact-Checking, and Decisions",
+    "slug": "research-prompts-synthesis-signal-fact-checking-and-decisions",
+    "date_captured": "2026-07-04",
+    "category": "research",
+    "tags": [
+      "research",
+      "prompts",
+      "synthesis",
+      "fact-checking",
+      "decision-making",
+      "source-evaluation",
+      "analysis"
+    ],
+    "entities": [
+      "YM Research & Analysis"
+    ],
+    "summary": "A six-pattern research prompt set for synthesizing sources, extracting decision-relevant signal, fact-checking claims, stress-testing positions, and comparing options in a decision matrix.",
+    "source_type": "drive-image",
+    "drive_id": "1lgbnZnC8Vm7P7hkko6jq3zTixaK1VLVk",
+    "drive_name": "Screenshot 2026-07-04 at 2.18.39 AM.png",
+    "drive_link": "https://drive.google.com/file/d/1lgbnZnC8Vm7P7hkko6jq3zTixaK1VLVk/view",
+    "note_path": "notes/2026-07/research-prompts-synthesis-signal-fact-checking-and-decisions.md",
+    "image_path": "public/img/notes/2026-07/research-prompts-synthesis-signal-fact-checking-and-decisions.png",
+    "phash": "d1e2c3c26be12ed1",
+    "ingested_at": "2026-08-05T12:08:00Z"
+  },
+  {
+    "id": "note-learning-prompts-explanations-tutors-skill-trees-and-practice",
+    "title": "Learning Prompts — Explanations, Tutors, Skill Trees, and Practice",
+    "slug": "learning-prompts-explanations-tutors-skill-trees-and-practice",
+    "date_captured": "2026-07-04",
+    "category": "learning",
+    "tags": [
+      "learning",
+      "prompts",
+      "skill-building",
+      "spaced-repetition",
+      "socratic-tutoring",
+      "deliberate-practice",
+      "explanations"
+    ],
+    "entities": [
+      "M Learning Anything Fast"
+    ],
+    "summary": "A six-pattern learning prompt set for layered explanations, Socratic tutoring, spaced repetition, skill trees, deliberate practice, and rigorous feedback on a learner's own explanation.",
+    "source_type": "drive-image",
+    "drive_id": "1I0r_MlVOFvwf3TtM5uKKIjlWJGz_h733",
+    "drive_name": "Screenshot 2026-07-04 at 2.18.07 AM.png",
+    "drive_link": "https://drive.google.com/file/d/1I0r_MlVOFvwf3TtM5uKKIjlWJGz_h733/view",
+    "note_path": "notes/2026-07/learning-prompts-explanations-tutors-skill-trees-and-practice.md",
+    "image_path": "public/img/notes/2026-07/learning-prompts-explanations-tutors-skill-trees-and-practice.png",
+    "phash": "d1c3c3c24ac36ed6",
+    "ingested_at": "2026-08-05T12:08:00Z"
+  },
+  {
+    "id": "note-databricks-data-intelligence-platform-lakehouse-and-agentic-data",
+    "title": "Databricks Data Intelligence Platform — Lakehouse and Agentic Data",
+    "slug": "databricks-data-intelligence-platform-lakehouse-and-agentic-data",
+    "date_captured": "2026-06-29",
+    "category": "data-platform",
+    "tags": [
+      "databricks",
+      "lakehouse",
+      "agentic-data",
+      "sql",
+      "data-warehouse",
+      "data-lake",
+      "open-formats",
+      "enterprise-ai"
+    ],
+    "entities": [
+      "Databricks",
+      "Lakeflow",
+      "Lakehouse",
+      "Lakebase",
+      "Delta Lake",
+      "Apache Iceberg"
+    ],
+    "summary": "A Databricks platform architecture slide connecting SQL data warehousing, Postgres transactions, serverless autoscaling, open-format lake storage, and an agentic-data layer built around Lakeflow, Lakehouse, and Lakebase.",
+    "source_type": "drive-image",
+    "drive_id": "1GbzeWwb5TKsOonGcBpqZWbWlPVj9bWrb",
+    "drive_name": "IMG_0034.HEIC",
+    "drive_link": "https://drive.google.com/file/d/1GbzeWwb5TKsOonGcBpqZWbWlPVj9bWrb/view",
+    "note_path": "notes/2026-06/databricks-data-intelligence-platform-lakehouse-and-agentic-data.md",
+    "image_path": "public/img/notes/2026-06/databricks-data-intelligence-platform-lakehouse-and-agentic-data.png",
+    "phash": "d55f685495d07a94",
+    "ingested_at": "2026-08-05T12:08:00Z"
+  },
+  {
+    "id": "note-delta-lake-and-apache-iceberg-open-data-lake-table-formats",
+    "title": "Delta Lake and Apache Iceberg — Open Data Lake Table Formats",
+    "slug": "delta-lake-and-apache-iceberg-open-data-lake-table-formats",
+    "date_captured": "2026-06-29",
+    "category": "data-platform",
+    "tags": [
+      "delta-lake",
+      "apache-iceberg",
+      "lakehouse",
+      "open-formats",
+      "data-lake",
+      "databricks",
+      "table-formats"
+    ],
+    "entities": [
+      "Delta Lake",
+      "Apache Iceberg"
+    ],
+    "summary": "A photographed architecture slide foregrounding Delta Lake and Apache Iceberg as open-format table layers in a lakehouse stack.",
+    "source_type": "drive-image",
+    "drive_id": "1r8Q3NfCOiu7wC20TZyJcZrutBKNNcpzu",
+    "drive_name": "IMG_0033.HEIC",
+    "drive_link": "https://drive.google.com/file/d/1r8Q3NfCOiu7wC20TZyJcZrutBKNNcpzu/view",
+    "note_path": "notes/2026-06/delta-lake-and-apache-iceberg-open-data-lake-table-formats.md",
+    "image_path": "public/img/notes/2026-06/delta-lake-and-apache-iceberg-open-data-lake-table-formats.png",
+    "phash": "d5052aad1cb95f2a",
+    "ingested_at": "2026-08-05T12:08:00Z"
+  },
+  {
+    "id": "note-databricks-ai-parse-document-better-parsing-better-agents",
+    "title": "Databricks AI Parse Document — Better Parsing, Better Agents",
+    "slug": "databricks-ai-parse-document-better-parsing-better-agents",
+    "date_captured": "2026-06-29",
+    "category": "document-ai",
+    "tags": [
+      "databricks",
+      "document-ai",
+      "parsing",
+      "officeqa",
+      "agents",
+      "retrieval",
+      "cost",
+      "accuracy"
+    ],
+    "entities": [
+      "Databricks",
+      "ai_parse_document",
+      "OfficeQA Pro",
+      "Docling",
+      "Unstructured"
+    ],
+    "summary": "A benchmark slide argues that stronger document parsing improves agent correctness while reducing cost, comparing Databricks ai_parse_document with Docling and Unstructured across models and parsers on OfficeQA Pro.",
+    "source_type": "drive-image",
+    "drive_id": "1MwZTuWeRw3MzuLHukDI3-XaGrKergtiL",
+    "drive_name": "IMG_0022.HEIC",
+    "drive_link": "https://drive.google.com/file/d/1MwZTuWeRw3MzuLHukDI3-XaGrKergtiL/view",
+    "note_path": "notes/2026-06/databricks-ai-parse-document-better-parsing-better-agents.md",
+    "image_path": "public/img/notes/2026-06/databricks-ai-parse-document-better-parsing-better-agents.png",
+    "phash": "daad2d65525352a5",
+    "ingested_at": "2026-08-05T12:08:00Z"
+  },
+  {
+    "id": "note-agentic-cybersecurity-fight-every-threat-with-agents",
+    "title": "Agentic Cybersecurity — Fight Every Threat with Agents",
+    "slug": "agentic-cybersecurity-fight-every-threat-with-agents",
+    "date_captured": "2026-06-29",
+    "category": "cybersecurity",
+    "tags": [
+      "cybersecurity",
+      "ai-agents",
+      "threat-detection",
+      "incident-response",
+      "siem",
+      "data-ingestion",
+      "investigation",
+      "security-operations"
+    ],
+    "entities": [
+      "Email",
+      "Network/Firewall",
+      "Identity/Access",
+      "SaaS Apps",
+      "Cloud/IaaS",
+      "DNS",
+      "EDR/XDR"
+    ],
+    "summary": "A security-operations workflow shows agents supporting data ingestion, detection authoring, and incident response across email, network, identity, SaaS, cloud, DNS, EDR/XDR, and unstructured data sources.",
+    "source_type": "drive-image",
+    "drive_id": "1O9ZKjzHA3TUxy6S4PZPwR_8WFSHFD-Hq",
+    "drive_name": "IMG_0074.HEIC",
+    "drive_link": "https://drive.google.com/file/d/1O9ZKjzHA3TUxy6S4PZPwR_8WFSHFD-Hq/view",
+    "note_path": "notes/2026-06/agentic-cybersecurity-fight-every-threat-with-agents.md",
+    "image_path": "public/img/notes/2026-06/agentic-cybersecurity-fight-every-threat-with-agents.png",
+    "phash": "94222f7f2a542aeb",
+    "ingested_at": "2026-08-05T12:08:00Z"
+  },
+  {
+    "id": "note-serverless-micro-apps-cost-efficient-scale-to-zero",
+    "title": "Serverless Micro Apps — Cost-Efficient Scale-to-Zero",
+    "slug": "serverless-micro-apps-cost-efficient-scale-to-zero",
+    "date_captured": "2026-06-29",
+    "category": "cloud",
+    "tags": [
+      "serverless",
+      "micro-apps",
+      "scale-to-zero",
+      "cost-optimization",
+      "compute",
+      "cloud-architecture"
+    ],
+    "entities": [
+      "Serverless Micro Apps"
+    ],
+    "summary": "A photographed announcement slide presents serverless micro apps as lightweight applications that use fractional CPU and memory and scale to zero when idle.",
+    "source_type": "drive-image",
+    "drive_id": "1RWQpdp4it7EjolhjIrmaclAbvyUUAqB8",
+    "drive_name": "IMG_0109.HEIC",
+    "drive_link": "https://drive.google.com/file/d/1RWQpdp4it7EjolhjIrmaclAbvyUUAqB8/view",
+    "note_path": "notes/2026-06/serverless-micro-apps-cost-efficient-scale-to-zero.md",
+    "image_path": "public/img/notes/2026-06/serverless-micro-apps-cost-efficient-scale-to-zero.png",
+    "phash": "c44d2ac0cbdfe8f0",
+    "ingested_at": "2026-08-05T12:08:00Z"
+  },
+  {
+    "id": "note-open-lakehouse-ecosystem-lakeflow-lakehouse-and-lakebase",
+    "title": "Open Lakehouse Ecosystem — Lakeflow, Lakehouse, and Lakebase",
+    "slug": "open-lakehouse-ecosystem-lakeflow-lakehouse-and-lakebase",
+    "date_captured": "2026-06-29",
+    "category": "data-platform",
+    "tags": [
+      "databricks",
+      "lakeflow",
+      "lakehouse",
+      "lakebase",
+      "open-source",
+      "data-platform",
+      "postgres",
+      "open-formats"
+    ],
+    "entities": [
+      "Databricks",
+      "Lakeflow",
+      "Lakehouse",
+      "Lakebase",
+      "Delta Lake",
+      "Apache Iceberg"
+    ],
+    "summary": "A Databricks ecosystem slide presents Lakeflow, Lakehouse, and Lakebase within an agentic-data layer, grounded in open infrastructure and open-format data lakes.",
+    "source_type": "drive-image",
+    "drive_id": "1jkFHkvw_lBPSSwjlbmbMKNg9p34s_2ZT",
+    "drive_name": "IMG_0027.HEIC",
+    "drive_link": "https://drive.google.com/file/d/1jkFHkvw_lBPSSwjlbmbMKNg9p34s_2ZT/view",
+    "note_path": "notes/2026-06/open-lakehouse-ecosystem-lakeflow-lakehouse-and-lakebase.md",
+    "image_path": "public/img/notes/2026-06/open-lakehouse-ecosystem-lakeflow-lakehouse-and-lakebase.png",
+    "phash": "dddc2a08645723bd",
+    "ingested_at": "2026-08-05T12:08:00Z"
+  },
+  {
+    "id": "note-agent-system-of-record-enterprise-context-and-governance",
+    "title": "Agent System of Record — Enterprise Context and Governance",
+    "slug": "agent-system-of-record-enterprise-context-and-governance",
+    "date_captured": "2026-06-29",
+    "category": "enterprise-ai",
+    "tags": [
+      "enterprise-ai",
+      "ai-agents",
+      "governance",
+      "context",
+      "system-of-record",
+      "data-access",
+      "support",
+      "engineering",
+      "operations"
+    ],
+    "entities": [
+      "Agent System of Record"
+    ],
+    "summary": "A photographed enterprise architecture slide positions an Agent System of Record above enterprise context and unified governance, serving support, engineering, operations, IT, finance, and security teams with access to data.",
+    "source_type": "drive-image",
+    "drive_id": "1A75-3JykceCwazensU2k8l8dHLEhZ2Z_",
+    "drive_name": "IMG_0046.HEIC",
+    "drive_link": "https://drive.google.com/file/d/1A75-3JykceCwazensU2k8l8dHLEhZ2Z_/view",
+    "note_path": "notes/2026-06/agent-system-of-record-enterprise-context-and-governance.md",
+    "image_path": "public/img/notes/2026-06/agent-system-of-record-enterprise-context-and-governance.png",
+    "phash": "da476763299154d6",
+    "ingested_at": "2026-08-05T12:08:00Z"
+  },
+  {
+    "id": "note-agentic-cybersecurity-ingest-detect-investigate-respond",
+    "title": "Agentic Cybersecurity — Ingest, Detect, Investigate, Respond",
+    "slug": "agentic-cybersecurity-ingest-detect-investigate-respond",
+    "date_captured": "2026-06-29",
+    "category": "cybersecurity",
+    "tags": [
+      "cybersecurity",
+      "ai-agents",
+      "threat-detection",
+      "incident-response",
+      "data-ingestion",
+      "investigation",
+      "security-operations"
+    ],
+    "entities": [
+      "Email",
+      "Network/Firewall",
+      "Identity/Access",
+      "SaaS Apps",
+      "Cloud/IaaS",
+      "DNS",
+      "EDR/XDR"
+    ],
+    "summary": "A duplicate-angle capture of the agentic cybersecurity workflow showing data-source ingestion, agentic detection authoring, and agentic incident response through triage, investigation, threat analysis, and response.",
+    "source_type": "drive-image",
+    "drive_id": "1XyZEv2ZrTVKtiIi4zKoMTBA-DXAfT5uC",
+    "drive_name": "IMG_0073.HEIC",
+    "drive_link": "https://drive.google.com/file/d/1XyZEv2ZrTVKtiIi4zKoMTBA-DXAfT5uC/view",
+    "note_path": "notes/2026-06/agentic-cybersecurity-ingest-detect-investigate-respond.md",
+    "image_path": "public/img/notes/2026-06/agentic-cybersecurity-ingest-detect-investigate-respond.png",
+    "phash": "94282f7f2a7e016b",
+    "ingested_at": "2026-08-05T12:08:00Z"
   }
 ]
