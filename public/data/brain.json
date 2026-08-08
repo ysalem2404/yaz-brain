@@ -13886,5 +13886,319 @@
     "note_path": "notes/2026-08/robyn-rust-based-python-web-framework.md",
     "phash": "ebc0953e4bc14b3c",
     "ingested_at": "2026-08-07T12:15:00Z"
+  },
+  {
+    "id": "note-llamaindex-data-aware-ai-apps",
+    "title": "LlamaIndex — Data-Aware AI Apps",
+    "slug": "llamaindex-data-aware-ai-apps",
+    "date_captured": "2026-08-04",
+    "category": "developer-tools",
+    "tags": [
+      "llamaindex",
+      "rag",
+      "agents",
+      "python",
+      "llm-apps",
+      "structured-data",
+      "unstructured-data",
+      "openai"
+    ],
+    "entities": [
+      "LlamaIndex",
+      "OpenAI"
+    ],
+    "summary": "A Python and AI developer card presents LlamaIndex as a way to build ChatGPT-like AI applications over personal or enterprise data.",
+    "source_type": "drive-image",
+    "drive_id": "1d1hzBfxdr3cqZhA8kVCNPETSEgAZ3ebZ",
+    "drive_name": "Screenshot 2026-08-04 at 12.05.17 AM.png",
+    "drive_link": "https://drive.google.com/file/d/1d1hzBfxdr3cqZhA8kVCNPETSEgAZ3ebZ/view",
+    "image_path": "public/img/notes/2026-08/llamaindex-data-aware-ai-apps.png",
+    "note_path": "notes/2026-08/llamaindex-data-aware-ai-apps.md",
+    "phash": "efc1943ad4492f94",
+    "ingested_at": "2026-08-08T12:06:00Z"
+  },
+  {
+    "id": "note-textual-python-terminal-uis",
+    "title": "Textual — Python Terminal UIs",
+    "slug": "textual-python-terminal-uis",
+    "date_captured": "2026-08-04",
+    "category": "developer-tools",
+    "tags": [
+      "python",
+      "textual",
+      "tui",
+      "terminal-apps",
+      "rich",
+      "interactive-ui",
+      "developer-tools"
+    ],
+    "entities": [
+      "Textual",
+      "Rich"
+    ],
+    "summary": "Textual is presented as a Python framework for building polished, interactive terminal user interfaces without a browser frontend.",
+    "source_type": "drive-image",
+    "drive_id": "1PdsLHt001GnVFRIa9FKSkx9rq4atdZT6",
+    "drive_name": "Screenshot 2026-08-04 at 12.05.04 AM.png",
+    "drive_link": "https://drive.google.com/file/d/1PdsLHt001GnVFRIa9FKSkx9rq4atdZT6/view",
+    "image_path": "public/img/notes/2026-08/textual-python-terminal-uis.png",
+    "note_path": "notes/2026-08/textual-python-terminal-uis.md",
+    "phash": "ebc1943ed5c13b0a",
+    "ingested_at": "2026-08-08T12:06:00Z"
+  },
+  {
+    "id": "note-jax-accelerated-numerical-python",
+    "title": "JAX — Accelerated Numerical Python",
+    "slug": "jax-accelerated-numerical-python",
+    "date_captured": "2026-08-04",
+    "category": "machine-learning",
+    "tags": [
+      "jax",
+      "python",
+      "numpy",
+      "autodiff",
+      "gpu",
+      "tpu",
+      "deep-learning",
+      "numerical-computing"
+    ],
+    "entities": [
+      "JAX",
+      "Google"
+    ],
+    "summary": "A developer card positions JAX as a faster NumPy-compatible library with automatic differentiation and GPU/TPU acceleration.",
+    "source_type": "drive-image",
+    "drive_id": "1EpwmjGgk-qdR3PSJfvtVHTDOOo9GqoVi",
+    "drive_name": "Screenshot 2026-08-04 at 12.04.50 AM.png",
+    "drive_link": "https://drive.google.com/file/d/1EpwmjGgk-qdR3PSJfvtVHTDOOo9GqoVi/view",
+    "image_path": "public/img/notes/2026-08/jax-accelerated-numerical-python.png",
+    "note_path": "notes/2026-08/jax-accelerated-numerical-python.md",
+    "phash": "fb90946ec1193f34",
+    "ingested_at": "2026-08-08T12:06:00Z"
+  },
+  {
+    "id": "note-pandera-dataframe-validation",
+    "title": "Pandera — DataFrame Validation",
+    "slug": "pandera-dataframe-validation",
+    "date_captured": "2026-08-04",
+    "category": "data-platform",
+    "tags": [
+      "pandera",
+      "python",
+      "pandas",
+      "data-quality",
+      "data-validation",
+      "dataframes",
+      "pipelines",
+      "pydantic"
+    ],
+    "entities": [
+      "Pandera",
+      "Pandas",
+      "Pydantic"
+    ],
+    "summary": "Pandera is introduced as a Pydantic-like validation layer for Pandas DataFrames that catches bad data before it propagates through a pipeline.",
+    "source_type": "drive-image",
+    "drive_id": "1GrjNCLbt_H9d4cj7rPk5_WkQ0Vk9fcXu",
+    "drive_name": "Screenshot 2026-08-04 at 12.04.39 AM.png",
+    "drive_link": "https://drive.google.com/file/d/1GrjNCLbt_H9d4cj7rPk5_WkQ0Vk9fcXu/view",
+    "image_path": "public/img/notes/2026-08/pandera-dataframe-validation.png",
+    "note_path": "notes/2026-08/pandera-dataframe-validation.md",
+    "phash": "be99956a1a94992e",
+    "ingested_at": "2026-08-08T12:06:00Z"
+  },
+  {
+    "id": "note-pyscript-python-in-the-browser",
+    "title": "PyScript — Python in the Browser",
+    "slug": "pyscript-python-in-the-browser",
+    "date_captured": "2026-08-04",
+    "category": "developer-tools",
+    "tags": [
+      "pyscript",
+      "python",
+      "web-development",
+      "html",
+      "browser",
+      "education",
+      "demos",
+      "frontend"
+    ],
+    "entities": [
+      "PyScript",
+      "Python"
+    ],
+    "summary": "PyScript is presented as a way to run Python-powered web experiences in the browser without a backend.",
+    "source_type": "drive-image",
+    "drive_id": "1zessb0tkhu2HCY4Jop-l17YEIRC2PR6O",
+    "drive_name": "Screenshot 2026-08-04 at 12.04.27 AM.png",
+    "drive_link": "https://drive.google.com/file/d/1zessb0tkhu2HCY4Jop-l17YEIRC2PR6O/view",
+    "image_path": "public/img/notes/2026-08/pyscript-python-in-the-browser.png",
+    "note_path": "notes/2026-08/pyscript-python-in-the-browser.md",
+    "phash": "be91956a19941f2b",
+    "ingested_at": "2026-08-08T12:06:00Z"
+  },
+  {
+    "id": "note-ruff-fast-python-linting",
+    "title": "Ruff — Fast Python Linting",
+    "slug": "ruff-fast-python-linting",
+    "date_captured": "2026-08-04",
+    "category": "developer-tools",
+    "tags": [
+      "ruff",
+      "python",
+      "linting",
+      "formatting",
+      "flake8",
+      "isort",
+      "black",
+      "code-quality"
+    ],
+    "entities": [
+      "Ruff",
+      "Flake8",
+      "isort",
+      "Black"
+    ],
+    "summary": "Ruff is presented as a fast Python linter and formatter that consolidates common tooling and can automatically fix issues.",
+    "source_type": "drive-image",
+    "drive_id": "1Oupa8HibkPGf9uY1plY4ojsLa3MKXQ97",
+    "drive_name": "Screenshot 2026-08-04 at 12.04.15 AM.png",
+    "drive_link": "https://drive.google.com/file/d/1Oupa8HibkPGf9uY1plY4ojsLa3MKXQ97/view",
+    "image_path": "public/img/notes/2026-08/ruff-fast-python-linting.png",
+    "note_path": "notes/2026-08/ruff-fast-python-linting.md",
+    "phash": "ee99956a1b84992e",
+    "ingested_at": "2026-08-08T12:06:00Z"
+  },
+  {
+    "id": "note-polars-rust-dataframes",
+    "title": "Polars — Rust DataFrames",
+    "slug": "polars-rust-dataframes",
+    "date_captured": "2026-08-04",
+    "category": "data-platform",
+    "tags": [
+      "polars",
+      "python",
+      "dataframes",
+      "rust",
+      "apache-arrow",
+      "lazy-evaluation",
+      "pandas-alternative",
+      "analytics"
+    ],
+    "entities": [
+      "Polars",
+      "Rust",
+      "Apache Arrow",
+      "Pandas"
+    ],
+    "summary": "Polars is introduced as a Rust-based DataFrame library for Python, emphasizing speed, lazy evaluation, and Apache Arrow support.",
+    "source_type": "drive-image",
+    "drive_id": "1hL241TSJCz1eC9w9JRviWBSmT8AQJxmy",
+    "drive_name": "Screenshot 2026-08-04 at 12.04.04 AM.png",
+    "drive_link": "https://drive.google.com/file/d/1hL241TSJCz1eC9w9JRviWBSmT8AQJxmy/view",
+    "image_path": "public/img/notes/2026-08/polars-rust-dataframes.png",
+    "note_path": "notes/2026-08/polars-rust-dataframes.md",
+    "phash": "bf90956a1d911d2b",
+    "ingested_at": "2026-08-08T12:06:00Z"
+  },
+  {
+    "id": "note-harness-engineering-guide",
+    "title": "Harness Engineering Guide",
+    "slug": "harness-engineering-guide",
+    "date_captured": "2026-08-04",
+    "category": "ai-engineering",
+    "tags": [
+      "harness-engineering",
+      "ai-systems",
+      "llm",
+      "guardrails",
+      "evaluation",
+      "orchestration",
+      "monitoring",
+      "feedback-loop",
+      "reliability"
+    ],
+    "entities": [
+      "DataHack Summit",
+      "Analytics Vidhya"
+    ],
+    "summary": "A system diagram for harness engineering surrounds LLMs with guardrails, evaluation, orchestration, monitoring, optimization, and a feedback loop to produce reliable outputs.",
+    "source_type": "drive-image",
+    "drive_id": "1kdq46SZyWoyxEzEddPvdElTTHel95Iwc",
+    "drive_name": "Screenshot 2026-08-04 at 12.01.20 AM.png",
+    "drive_link": "https://drive.google.com/file/d/1kdq46SZyWoyxEzEddPvdElTTHel95Iwc/view",
+    "image_path": "public/img/notes/2026-08/harness-engineering-guide.png",
+    "note_path": "notes/2026-08/harness-engineering-guide.md",
+    "phash": "ff5f82c04fc0616a",
+    "ingested_at": "2026-08-08T12:06:00Z"
+  },
+  {
+    "id": "note-ollama-vs-vllm-tool-selection",
+    "title": "Ollama vs vLLM — Tool Selection",
+    "slug": "ollama-vs-vllm-tool-selection",
+    "date_captured": "2026-08-04",
+    "category": "llm-infrastructure",
+    "tags": [
+      "ollama",
+      "vllm",
+      "llm-serving",
+      "local-ai",
+      "rag",
+      "production-inference",
+      "gpu",
+      "batching",
+      "cost-optimization"
+    ],
+    "entities": [
+      "Ollama",
+      "vLLM"
+    ],
+    "summary": "A decision matrix contrasts Ollama for simple local prototypes with vLLM for production-grade, high-throughput, multi-user inference.",
+    "source_type": "drive-image",
+    "drive_id": "1sTROkwNAN-Vp0lAQMMic34CybYFjiRsf",
+    "drive_name": "Screenshot 2026-08-04 at 12.00.48 AM.png",
+    "drive_link": "https://drive.google.com/file/d/1sTROkwNAN-Vp0lAQMMic34CybYFjiRsf/view",
+    "image_path": "public/img/notes/2026-08/ollama-vs-vllm-tool-selection.png",
+    "note_path": "notes/2026-08/ollama-vs-vllm-tool-selection.md",
+    "phash": "bf35372ac5c8d0c2",
+    "ingested_at": "2026-08-08T12:06:00Z"
+  },
+  {
+    "id": "note-ollama-vs-vllm-deployment-integrations",
+    "title": "Ollama vs vLLM — Deployment Integrations",
+    "slug": "ollama-vs-vllm-deployment-integrations",
+    "date_captured": "2026-08-04",
+    "category": "llm-infrastructure",
+    "tags": [
+      "ollama",
+      "vllm",
+      "llm-serving",
+      "openai-compatible-api",
+      "docker",
+      "kubernetes",
+      "ray",
+      "triton",
+      "langchain",
+      "llamaindex",
+      "llmops"
+    ],
+    "entities": [
+      "Ollama",
+      "vLLM",
+      "LangChain",
+      "LlamaIndex",
+      "Kubernetes",
+      "Ray",
+      "Triton Inference Server"
+    ],
+    "summary": "An integration map compares Ollama and vLLM from local setup through enterprise-scale deployment, covering APIs, containers, ecosystem hooks, and observability.",
+    "source_type": "drive-image",
+    "drive_id": "1gqrDcnNnzch95v4X6L7MP-_NS_MOdMWY",
+    "drive_name": "Screenshot 2026-08-04 at 12.00.28 AM.png",
+    "drive_link": "https://drive.google.com/file/d/1gqrDcnNnzch95v4X6L7MP-_NS_MOdMWY/view",
+    "image_path": "public/img/notes/2026-08/ollama-vs-vllm-deployment-integrations.png",
+    "note_path": "notes/2026-08/ollama-vs-vllm-deployment-integrations.md",
+    "phash": "be373589c1cac8ca",
+    "ingested_at": "2026-08-08T12:06:00Z"
   }
 ]
