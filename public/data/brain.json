@@ -15203,5 +15203,301 @@
     "note_path": "notes/2026-08/vector-databases.md",
     "phash": "be3911bd58ad4aa1",
     "ingested_at": "2026-08-11T12:08:00Z"
+  },
+  {
+    "id": "note-cybersecurity-forum-deloitte",
+    "title": "Cybersecurity Forum — Deloitte",
+    "slug": "cybersecurity-forum-deloitte",
+    "date_captured": "2026-06-25",
+    "category": "cybersecurity",
+    "tags": [
+      "cybersecurity",
+      "deloitte",
+      "security-forum",
+      "events",
+      "risk-management"
+    ],
+    "entities": [
+      "Deloitte",
+      "Blue Shield Theater"
+    ],
+    "summary": "A Deloitte-sponsored Cybersecurity Forum event card for a June 16 session at the Blue Shield Theater, scheduled from 11:30 AM to 1:00 PM.",
+    "source_type": "drive-image",
+    "drive_id": "1jSucCDK9DwoT8P-MfFi8G2gviU7JWYKp",
+    "drive_name": "IMG_0003.PNG",
+    "drive_link": "https://drive.google.com/file/d/1jSucCDK9DwoT8P-MfFi8G2gviU7JWYKp/view",
+    "image_path": "public/img/notes/2026-06/cybersecurity-forum-deloitte.png",
+    "note_path": "notes/2026-06/cybersecurity-forum-deloitte.md",
+    "phash": "bf6994f13c8d5086",
+    "ingested_at": "2026-08-12T12:17:00Z"
+  },
+  {
+    "id": "note-ai-and-revit-mcp",
+    "title": "AI and Revit MCP",
+    "slug": "ai-and-revit-mcp",
+    "date_captured": "2026-08-03",
+    "category": "ai-automation",
+    "tags": [
+      "ai",
+      "mcp",
+      "revit",
+      "bim",
+      "aec",
+      "engineering-automation",
+      "design-automation",
+      "revit-api"
+    ],
+    "entities": [
+      "Revit",
+      "MCP",
+      "BIM",
+      "Autodesk"
+    ],
+    "summary": "An infographic maps how AI and Model Context Protocol (MCP) can automate repetitive BIM and Revit work while leaving complex engineering judgment to people.",
+    "source_type": "drive-image",
+    "drive_id": "19sOoD2o2c02JlDYkSY-T3Y1XDF5Lb1SC",
+    "drive_name": "Screenshot 2026-08-03 at 8.28.04 AM.png",
+    "drive_link": "https://drive.google.com/file/d/19sOoD2o2c02JlDYkSY-T3Y1XDF5Lb1SC/view",
+    "image_path": "public/img/notes/2026-08/ai-and-revit-mcp.png",
+    "note_path": "notes/2026-08/ai-and-revit-mcp.md",
+    "phash": "9ed01e3a589e50de",
+    "ingested_at": "2026-08-12T12:17:00Z"
+  },
+  {
+    "id": "note-redis-vs-kafka",
+    "title": "Redis vs Kafka",
+    "slug": "redis-vs-kafka",
+    "date_captured": "2026-08-03",
+    "category": "data-infrastructure",
+    "tags": [
+      "redis",
+      "kafka",
+      "data-infrastructure",
+      "event-streaming",
+      "caching",
+      "pubsub",
+      "microservices",
+      "etl"
+    ],
+    "entities": [
+      "Redis",
+      "Apache Kafka"
+    ],
+    "summary": "A side-by-side flow comparison positions Redis for fast in-memory caching and lightweight real-time messaging, while Kafka is positioned for durable event logs, streaming, pipelines, and replayable analytics.",
+    "source_type": "drive-image",
+    "drive_id": "18tU2NwdEac4gI-keoIYu3Gk3q2KHKCmP",
+    "drive_name": "Screenshot 2026-08-03 at 10.09.01 AM.png",
+    "drive_link": "https://drive.google.com/file/d/18tU2NwdEac4gI-keoIYu3Gk3q2KHKCmP/view",
+    "image_path": "public/img/notes/2026-08/redis-vs-kafka.png",
+    "note_path": "notes/2026-08/redis-vs-kafka.md",
+    "phash": "ad7a6265504f525b",
+    "ingested_at": "2026-08-12T12:17:00Z"
+  },
+  {
+    "id": "note-tokenization-in-llms",
+    "title": "Tokenization in LLMs",
+    "slug": "tokenization-in-llms",
+    "date_captured": "2026-08-03",
+    "category": "llm-fundamentals",
+    "tags": [
+      "tokenization",
+      "llm",
+      "tokens",
+      "subwords",
+      "nlp",
+      "vocabulary",
+      "transformers"
+    ],
+    "entities": [
+      "LLM",
+      "Tokenizer"
+    ],
+    "summary": "A tokenization primer explains how raw text is split into subword tokens and mapped to integer IDs before entering an LLM, balancing the limits of characters and whole words.",
+    "source_type": "drive-image",
+    "drive_id": "1yawVnb9iIJ44ITAPyboM-IjO5LQi_u_N",
+    "drive_name": "Screenshot 2026-08-03 at 4.51.48 PM.png",
+    "drive_link": "https://drive.google.com/file/d/1yawVnb9iIJ44ITAPyboM-IjO5LQi_u_N/view",
+    "image_path": "public/img/notes/2026-08/tokenization-in-llms.png",
+    "note_path": "notes/2026-08/tokenization-in-llms.md",
+    "phash": "ff287c8ed3869680",
+    "ingested_at": "2026-08-12T12:17:00Z"
+  },
+  {
+    "id": "note-tokens-vs-words-vs-characters",
+    "title": "Tokens vs Words vs Characters",
+    "slug": "tokens-vs-words-vs-characters",
+    "date_captured": "2026-08-03",
+    "category": "llm-fundamentals",
+    "tags": [
+      "tokens",
+      "words",
+      "characters",
+      "tokenization",
+      "llm",
+      "nlp",
+      "transformers"
+    ],
+    "entities": [
+      "GPT",
+      "Claude",
+      "Llama"
+    ],
+    "summary": "A comparison clarifies that LLMs use tokens rather than human-style words or individual characters: tokens are a practical subword compromise that improves coverage of rare and new words.",
+    "source_type": "drive-image",
+    "drive_id": "13mpznwYGVJ7Yh87qoeMH1WY1KxXOEaz_",
+    "drive_name": "Screenshot 2026-08-03 at 4.52.04 PM.png",
+    "drive_link": "https://drive.google.com/file/d/13mpznwYGVJ7Yh87qoeMH1WY1KxXOEaz_/view",
+    "image_path": "public/img/notes/2026-08/tokens-vs-words-vs-characters.png",
+    "note_path": "notes/2026-08/tokens-vs-words-vs-characters.md",
+    "phash": "ff1751c05786d6c0",
+    "ingested_at": "2026-08-12T12:17:00Z"
+  },
+  {
+    "id": "note-byte-pair-encoding",
+    "title": "Byte Pair Encoding",
+    "slug": "byte-pair-encoding",
+    "date_captured": "2026-08-03",
+    "category": "llm-fundamentals",
+    "tags": [
+      "bpe",
+      "byte-pair-encoding",
+      "tokenization",
+      "llm",
+      "vocabulary",
+      "subwords"
+    ],
+    "entities": [
+      "GPT",
+      "Llama",
+      "Claude"
+    ],
+    "summary": "A Byte Pair Encoding (BPE) infographic shows how a tokenizer repeatedly merges the most frequent adjacent byte or character pairs until it builds a bounded vocabulary of useful subword tokens.",
+    "source_type": "drive-image",
+    "drive_id": "1v_L8tp0jA9tl8idQf9RzpaQCBftdC4ib",
+    "drive_name": "Screenshot 2026-08-03 at 4.52.16 PM.png",
+    "drive_link": "https://drive.google.com/file/d/1v_L8tp0jA9tl8idQf9RzpaQCBftdC4ib/view",
+    "image_path": "public/img/notes/2026-08/byte-pair-encoding.png",
+    "note_path": "notes/2026-08/byte-pair-encoding.md",
+    "phash": "bf307463d286d296",
+    "ingested_at": "2026-08-12T12:17:00Z"
+  },
+  {
+    "id": "note-special-tokens-in-llms",
+    "title": "Special Tokens in LLMs",
+    "slug": "special-tokens-in-llms",
+    "date_captured": "2026-08-03",
+    "category": "llm-fundamentals",
+    "tags": [
+      "special-tokens",
+      "tokenization",
+      "llm",
+      "padding",
+      "bos",
+      "eos",
+      "unknown-token",
+      "chat-templates"
+    ],
+    "entities": [
+      "LLM",
+      "Tokenizer"
+    ],
+    "summary": "A special-token reference explains reserved markers such as padding, beginning-of-sequence, end-of-sequence, unknown, separator, classification, and mask tokens that control structure and behavior around normal text.",
+    "source_type": "drive-image",
+    "drive_id": "1uGuiHxJ6Y-oFx50paFYYBwtjvnTpAsO3",
+    "drive_name": "Screenshot 2026-08-03 at 4.52.29 PM.png",
+    "drive_link": "https://drive.google.com/file/d/1uGuiHxJ6Y-oFx50paFYYBwtjvnTpAsO3/view",
+    "image_path": "public/img/notes/2026-08/special-tokens-in-llms.png",
+    "note_path": "notes/2026-08/special-tokens-in-llms.md",
+    "phash": "be31531e564e5247",
+    "ingested_at": "2026-08-12T12:17:00Z"
+  },
+  {
+    "id": "note-vocabulary-size-tradeoffs",
+    "title": "Vocabulary Size Tradeoffs",
+    "slug": "vocabulary-size-tradeoffs",
+    "date_captured": "2026-08-03",
+    "category": "llm-fundamentals",
+    "tags": [
+      "vocabulary-size",
+      "tokenization",
+      "llm",
+      "sequence-length",
+      "efficiency",
+      "coverage",
+      "model-cost"
+    ],
+    "entities": [
+      "LLM",
+      "Tokenizer"
+    ],
+    "summary": "A vocabulary-size infographic frames tokenizer design as a tradeoff: smaller vocabularies improve coverage and flexibility but create longer sequences, while larger vocabularies shorten text at the cost of memory and rare-token inefficiency.",
+    "source_type": "drive-image",
+    "drive_id": "1b2QZTK29s3Bds54CLN0oYbvE7KJN2hNF",
+    "drive_name": "Screenshot 2026-08-03 at 4.52.41 PM.png",
+    "drive_link": "https://drive.google.com/file/d/1b2QZTK29s3Bds54CLN0oYbvE7KJN2hNF/view",
+    "image_path": "public/img/notes/2026-08/vocabulary-size-tradeoffs.png",
+    "note_path": "notes/2026-08/vocabulary-size-tradeoffs.md",
+    "phash": "fe717470534c521e",
+    "ingested_at": "2026-08-12T12:17:00Z"
+  },
+  {
+    "id": "note-token-embeddings",
+    "title": "Token Embeddings",
+    "slug": "token-embeddings",
+    "date_captured": "2026-08-03",
+    "category": "transformers",
+    "tags": [
+      "token-embeddings",
+      "embeddings",
+      "tokenization",
+      "transformers",
+      "llm",
+      "positional-encoding",
+      "input-representation"
+    ],
+    "entities": [
+      "Transformer",
+      "Tokenizer"
+    ],
+    "summary": "A token-embedding diagram shows an integer token ID being used as a row lookup in an embedding table, then combined with positional encoding before the first transformer layer.",
+    "source_type": "drive-image",
+    "drive_id": "19qGRERUVZyliDZUeAoQB6McKvU9qd2P1",
+    "drive_name": "Screenshot 2026-08-03 at 4.58.12 PM.png",
+    "drive_link": "https://drive.google.com/file/d/19qGRERUVZyliDZUeAoQB6McKvU9qd2P1/view",
+    "image_path": "public/img/notes/2026-08/token-embeddings.png",
+    "note_path": "notes/2026-08/token-embeddings.md",
+    "phash": "fb29666e50334593",
+    "ingested_at": "2026-08-12T12:17:00Z"
+  },
+  {
+    "id": "note-positional-encoding",
+    "title": "Positional Encoding",
+    "slug": "positional-encoding",
+    "date_captured": "2026-08-03",
+    "category": "transformers",
+    "tags": [
+      "positional-encoding",
+      "transformers",
+      "llm",
+      "sinusoidal",
+      "rope",
+      "alibi",
+      "sequence-order",
+      "attention"
+    ],
+    "entities": [
+      "Transformer",
+      "RoPE",
+      "ALiBi"
+    ],
+    "summary": "A positional-encoding overview explains why transformers need explicit order information and surveys fixed sinusoidal, learned, rotary, and relative-bias approaches.",
+    "source_type": "drive-image",
+    "drive_id": "1svKAtNGxXPw7i2wxj16Kh3gWmoFxlt6d",
+    "drive_name": "Screenshot 2026-08-03 at 4.58.25 PM.png",
+    "drive_link": "https://drive.google.com/file/d/1svKAtNGxXPw7i2wxj16Kh3gWmoFxlt6d/view",
+    "image_path": "public/img/notes/2026-08/positional-encoding.png",
+    "note_path": "notes/2026-08/positional-encoding.md",
+    "phash": "ff6a707c54c25813",
+    "ingested_at": "2026-08-12T12:17:00Z"
   }
 ]
