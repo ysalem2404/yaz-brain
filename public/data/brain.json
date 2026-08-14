@@ -15859,5 +15859,302 @@
     "note_path": "notes/2026-08/12-techniques-to-cut-ai-inference-costs.md",
     "phash": "eb357c7478cca02a",
     "ingested_at": "2026-08-13T12:04:00Z"
+  },
+  {
+    "id": "note-sinusoidal-positional-encoding",
+    "title": "Sinusoidal Positional Encoding",
+    "slug": "sinusoidal-positional-encoding",
+    "date_captured": "2026-08-03",
+    "category": "transformers",
+    "tags": [
+      "positional-encoding",
+      "transformers",
+      "sinusoidal",
+      "token-embeddings",
+      "sequence-modeling",
+      "attention"
+    ],
+    "entities": [
+      "Transformer",
+      "Positional Encoding"
+    ],
+    "summary": "A visual guide explains sinusoidal positional encoding as a fixed, parameter-free way to add token order to transformer inputs using sine and cosine waves at different frequencies.",
+    "source_type": "drive-image",
+    "drive_id": "1yV9qZBz9hBpiA0SELjcsYXQJmJZkM8yT",
+    "drive_name": "Screenshot 2026-08-03 at 4.58.37 PM.png",
+    "drive_link": "https://drive.google.com/file/d/1yV9qZBz9hBpiA0SELjcsYXQJmJZkM8yT/view",
+    "image_path": "public/img/notes/2026-08/sinusoidal-positional-encoding.png",
+    "note_path": "notes/2026-08/sinusoidal-positional-encoding.md",
+    "phash": "ff4e743e54461113",
+    "ingested_at": "2026-08-14T12:18:00Z"
+  },
+  {
+    "id": "note-forward-propagation",
+    "title": "Forward Propagation",
+    "slug": "forward-propagation",
+    "date_captured": "2026-08-03",
+    "category": "neural-networks",
+    "tags": [
+      "forward-propagation",
+      "neural-networks",
+      "activation-functions",
+      "weights",
+      "biases",
+      "deep-learning"
+    ],
+    "entities": [
+      "Neural Network",
+      "ReLU",
+      "Softmax",
+      "Sigmoid",
+      "Tanh"
+    ],
+    "summary": "A neural-network primer shows how input data moves through weighted layers, biases, and activation functions to produce a prediction.",
+    "source_type": "drive-image",
+    "drive_id": "1W95H6RGZ4LWV-JtmC9FTqI8pII97ZIh0",
+    "drive_name": "Screenshot 2026-08-03 at 5.02.25 PM.png",
+    "drive_link": "https://drive.google.com/file/d/1W95H6RGZ4LWV-JtmC9FTqI8pII97ZIh0/view",
+    "image_path": "public/img/notes/2026-08/forward-propagation.png",
+    "note_path": "notes/2026-08/forward-propagation.md",
+    "phash": "af2b70bc6ce8290b",
+    "ingested_at": "2026-08-14T12:18:00Z"
+  },
+  {
+    "id": "note-backpropagation",
+    "title": "Backpropagation",
+    "slug": "backpropagation",
+    "date_captured": "2026-08-03",
+    "category": "neural-networks",
+    "tags": [
+      "backpropagation",
+      "gradient-descent",
+      "neural-networks",
+      "training",
+      "gradients",
+      "weights"
+    ],
+    "entities": [
+      "Neural Network",
+      "Gradient Descent",
+      "Loss Function"
+    ],
+    "summary": "A neural-network primer explains backpropagation as the backward flow of error gradients used to update weights and biases during learning.",
+    "source_type": "drive-image",
+    "drive_id": "1dTydU8DBk9Mhu0Tve62drgTbUAYTLNv_",
+    "drive_name": "Screenshot 2026-08-03 at 5.02.37 PM.png",
+    "drive_link": "https://drive.google.com/file/d/1dTydU8DBk9Mhu0Tve62drgTbUAYTLNv_/view",
+    "image_path": "public/img/notes/2026-08/backpropagation.png",
+    "note_path": "notes/2026-08/backpropagation.md",
+    "phash": "a72c70787c6c7c38",
+    "ingested_at": "2026-08-14T12:18:00Z"
+  },
+  {
+    "id": "note-activation-functions",
+    "title": "Activation Functions",
+    "slug": "activation-functions",
+    "date_captured": "2026-08-03",
+    "category": "neural-networks",
+    "tags": [
+      "activation-functions",
+      "neural-networks",
+      "relu",
+      "sigmoid",
+      "tanh",
+      "softmax",
+      "classification"
+    ],
+    "entities": [
+      "ReLU",
+      "Leaky ReLU",
+      "Sigmoid",
+      "Tanh",
+      "Softmax"
+    ],
+    "summary": "A comparison of common activation functions shows how nonlinearities let neural networks learn complex patterns and how each function fits different layers or tasks.",
+    "source_type": "drive-image",
+    "drive_id": "1P_G9E5iM0n9k12s-u7wwNxRlM73-yOiU",
+    "drive_name": "Screenshot 2026-08-03 at 5.02.48 PM.png",
+    "drive_link": "https://drive.google.com/file/d/1P_G9E5iM0n9k12s-u7wwNxRlM73-yOiU/view",
+    "image_path": "public/img/notes/2026-08/activation-functions.png",
+    "note_path": "notes/2026-08/activation-functions.md",
+    "phash": "ea7875297d68520e",
+    "ingested_at": "2026-08-14T12:18:00Z"
+  },
+  {
+    "id": "note-loss-functions",
+    "title": "Loss Functions",
+    "slug": "loss-functions",
+    "date_captured": "2026-08-03",
+    "category": "machine-learning",
+    "tags": [
+      "loss-functions",
+      "model-training",
+      "regression",
+      "classification",
+      "mse",
+      "mae",
+      "cross-entropy",
+      "huber-loss"
+    ],
+    "entities": [
+      "Mean Squared Error",
+      "Mean Absolute Error",
+      "Binary Cross Entropy",
+      "Categorical Cross Entropy",
+      "Huber Loss"
+    ],
+    "summary": "A loss-function guide compares objectives for regression and classification, emphasizing that the loss measures model error and supplies the signal used for learning.",
+    "source_type": "drive-image",
+    "drive_id": "1N_n8pG_tr00QyglvLIdtiA8LS3bOnDdI",
+    "drive_name": "Screenshot 2026-08-03 at 5.02.59 PM.png",
+    "drive_link": "https://drive.google.com/file/d/1N_n8pG_tr00QyglvLIdtiA8LS3bOnDdI/view",
+    "image_path": "public/img/notes/2026-08/loss-functions.png",
+    "note_path": "notes/2026-08/loss-functions.md",
+    "phash": "bf697468546c542b",
+    "ingested_at": "2026-08-14T12:18:00Z"
+  },
+  {
+    "id": "note-a-guide-to-word-embeddings",
+    "title": "A Guide to Word Embeddings",
+    "slug": "a-guide-to-word-embeddings",
+    "date_captured": "2026-08-03",
+    "category": "embeddings",
+    "tags": [
+      "embeddings",
+      "word-embeddings",
+      "vectors",
+      "semantic-search",
+      "nlp",
+      "cosine-similarity"
+    ],
+    "entities": [
+      "Word Embeddings",
+      "Vector"
+    ],
+    "summary": "A guide illustrates how words are represented as numeric vectors so models can compare semantic meaning rather than only exact tokens.",
+    "source_type": "drive-image",
+    "drive_id": "1WXrA_ImeU9Shz5aVq2EhFJhiEJ0GRHgH",
+    "drive_name": "Screenshot 2026-08-03 at 5.03.22 PM.png",
+    "drive_link": "https://drive.google.com/file/d/1WXrA_ImeU9Shz5aVq2EhFJhiEJ0GRHgH/view",
+    "image_path": "public/img/notes/2026-08/a-guide-to-word-embeddings.png",
+    "note_path": "notes/2026-08/a-guide-to-word-embeddings.md",
+    "phash": "ce5e17c1d19644f4",
+    "ingested_at": "2026-08-14T12:18:00Z"
+  },
+  {
+    "id": "note-why-embeddings-became-important",
+    "title": "Why Embeddings Became Important",
+    "slug": "why-embeddings-became-important",
+    "date_captured": "2026-08-03",
+    "category": "embeddings",
+    "tags": [
+      "embeddings",
+      "semantic-search",
+      "nlp",
+      "information-retrieval",
+      "keyword-search",
+      "vector-representations"
+    ],
+    "entities": [
+      "Embeddings",
+      "Artificial Intelligence"
+    ],
+    "summary": "An explanation of embeddings starts from the gap between exact keyword matching and human understanding of meaning, showing why semantic vector representations matter.",
+    "source_type": "drive-image",
+    "drive_id": "1YxJxEfz1ONrJLRQNkbUk8vONdeN-4RLi",
+    "drive_name": "Screenshot 2026-08-03 at 5.03.46 PM.png",
+    "drive_link": "https://drive.google.com/file/d/1YxJxEfz1ONrJLRQNkbUk8vONdeN-4RLi/view",
+    "image_path": "public/img/notes/2026-08/why-embeddings-became-important.png",
+    "note_path": "notes/2026-08/why-embeddings-became-important.md",
+    "phash": "b7da78684060dc9f",
+    "ingested_at": "2026-08-14T12:18:00Z"
+  },
+  {
+    "id": "note-what-are-embeddings",
+    "title": "What Are Embeddings",
+    "slug": "what-are-embeddings",
+    "date_captured": "2026-08-03",
+    "category": "embeddings",
+    "tags": [
+      "embeddings",
+      "vectors",
+      "semantic-meaning",
+      "nlp",
+      "word-embeddings",
+      "machine-learning"
+    ],
+    "entities": [
+      "Embeddings",
+      "Vector"
+    ],
+    "summary": "A beginner-friendly guide defines embeddings as numerical vector representations that preserve semantic meaning and let machines compare concepts mathematically.",
+    "source_type": "drive-image",
+    "drive_id": "1rkvFhhJ9BM_KQTKv3nw8WMsivteXrifL",
+    "drive_name": "Screenshot 2026-08-03 at 5.03.58 PM.png",
+    "drive_link": "https://drive.google.com/file/d/1rkvFhhJ9BM_KQTKv3nw8WMsivteXrifL/view",
+    "image_path": "public/img/notes/2026-08/what-are-embeddings.png",
+    "note_path": "notes/2026-08/what-are-embeddings.md",
+    "phash": "ae579114de10d75c",
+    "ingested_at": "2026-08-14T12:18:00Z"
+  },
+  {
+    "id": "note-meaning-comes-from-context-during-training",
+    "title": "Meaning Comes from Context During Training",
+    "slug": "meaning-comes-from-context-during-training",
+    "date_captured": "2026-08-03",
+    "category": "embeddings",
+    "tags": [
+      "embeddings",
+      "distributional-semantics",
+      "contextual-learning",
+      "word-meaning",
+      "vectors",
+      "nlp"
+    ],
+    "entities": [
+      "Embeddings",
+      "King",
+      "Queen",
+      "Apple"
+    ],
+    "summary": "A contextual-learning infographic explains that embedding models learn semantic relationships from repeated patterns of words appearing in similar contexts during training.",
+    "source_type": "drive-image",
+    "drive_id": "159-PKqWFr2IqN3_3gCVtQ2Ve-B4mYgx5",
+    "drive_name": "Screenshot 2026-08-03 at 5.04.11 PM.png",
+    "drive_link": "https://drive.google.com/file/d/159-PKqWFr2IqN3_3gCVtQ2Ve-B4mYgx5/view",
+    "image_path": "public/img/notes/2026-08/meaning-comes-from-context-during-training.png",
+    "note_path": "notes/2026-08/meaning-comes-from-context-during-training.md",
+    "phash": "bd574474575013d5",
+    "ingested_at": "2026-08-14T12:18:00Z"
+  },
+  {
+    "id": "note-cosine-similarity-measures-meaning",
+    "title": "Cosine Similarity Measures Meaning",
+    "slug": "cosine-similarity-measures-meaning",
+    "date_captured": "2026-08-03",
+    "category": "embeddings",
+    "tags": [
+      "cosine-similarity",
+      "embeddings",
+      "vectors",
+      "semantic-search",
+      "nlp",
+      "similarity-metrics"
+    ],
+    "entities": [
+      "Cosine Similarity",
+      "King",
+      "Queen",
+      "Apple"
+    ],
+    "summary": "A worked example introduces cosine similarity as the angle between two vectors and uses king, queen, and apple to show how semantic relatedness can be quantified.",
+    "source_type": "drive-image",
+    "drive_id": "1ngZ3m0v18w_0bPSjNSizMxFbK4uaZcg4",
+    "drive_name": "Screenshot 2026-08-03 at 5.04.25 PM.png",
+    "drive_link": "https://drive.google.com/file/d/1ngZ3m0v18w_0bPSjNSizMxFbK4uaZcg4/view",
+    "image_path": "public/img/notes/2026-08/cosine-similarity-measures-meaning.png",
+    "note_path": "notes/2026-08/cosine-similarity-measures-meaning.md",
+    "phash": "bf507254df574490",
+    "ingested_at": "2026-08-14T12:18:00Z"
   }
 ]
