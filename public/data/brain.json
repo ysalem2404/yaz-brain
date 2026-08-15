@@ -16156,5 +16156,228 @@
     "note_path": "notes/2026-08/cosine-similarity-measures-meaning.md",
     "phash": "bf507254df574490",
     "ingested_at": "2026-08-14T12:18:00Z"
+  },
+  {
+    "id": "note-25-pillars-of-a-modern-cybersecurity-system",
+    "title": "25 Pillars of a Modern Cybersecurity System",
+    "category": "cybersecurity",
+    "tags": [
+      "cybersecurity",
+      "governance",
+      "identity",
+      "threat-management",
+      "security-operations",
+      "cloud-security",
+      "application-security",
+      "risk-management"
+    ],
+    "entities": [
+      "MFA",
+      "Ransomware",
+      "SaaS",
+      "API Security"
+    ],
+    "summary": "A systems view of modern cybersecurity organizes 25 capabilities across governance and risk, identity and access, threat and exposure management, security operations and resilience, and data, cloud, and application security.",
+    "slug": "25-pillars-of-a-modern-cybersecurity-system",
+    "phash": "805e7eeae8e2e81a",
+    "note_path": "notes/2026-08/25-pillars-of-a-modern-cybersecurity-system.md",
+    "image_path": "public/img/notes/2026-08/25-pillars-of-a-modern-cybersecurity-system.png",
+    "drive_name": "Screenshot 2026-08-11 at 11.36.44 AM.png",
+    "drive_link": "https://drive.google.com/file/d/14MdM7caB2XIksNrjFGposKoCg3GmNpay/view",
+    "source_type": "drive-image",
+    "ingested_at": "2026-08-15T12:04:00Z",
+    "date_captured": "2026-08-11",
+    "drive_id": "14MdM7caB2XIksNrjFGposKoCg3GmNpay"
+  },
+  {
+    "id": "note-how-to-choose-the-right-chart-for-your-data",
+    "title": "How to Choose the Right Chart for Your Data",
+    "category": "data-visualization",
+    "tags": [
+      "data-visualization",
+      "charts",
+      "analytics",
+      "dashboard-design",
+      "communication",
+      "data-literacy"
+    ],
+    "entities": [
+      "Scatter Plot",
+      "Waterfall Chart",
+      "Sankey Diagram",
+      "Gantt Chart"
+    ],
+    "summary": "A chart-selection guide maps analytical questions to visual forms, from bar charts for category comparisons to scatter plots for relationships, maps for geography, and Sankey diagrams for flows.",
+    "slug": "how-to-choose-the-right-chart-for-your-data",
+    "phash": "e6d9d80d0df81927",
+    "note_path": "notes/2026-08/how-to-choose-the-right-chart-for-your-data.md",
+    "image_path": "public/img/notes/2026-08/how-to-choose-the-right-chart-for-your-data.png",
+    "drive_name": "Screenshot 2026-08-11 at 11.35.22 AM.png",
+    "drive_link": "https://drive.google.com/file/d/17P1xvQe0uxfbIJQ2gUW3JXIrmDu1OMMX/view",
+    "source_type": "drive-image",
+    "ingested_at": "2026-08-15T12:04:00Z",
+    "date_captured": "2026-08-11",
+    "drive_id": "17P1xvQe0uxfbIJQ2gUW3JXIrmDu1OMMX"
+  },
+  {
+    "id": "note-10-phases-of-building-production-grade-ai-systems",
+    "title": "10 Phases of Building Production-Grade AI Systems",
+    "category": "ai-engineering",
+    "tags": [
+      "ai-engineering",
+      "production-ai",
+      "mlops",
+      "evaluation",
+      "deployment",
+      "monitoring",
+      "guardrails",
+      "data-engineering",
+      "scaling"
+    ],
+    "entities": [
+      "LLM",
+      "MLOps",
+      "Guardrails",
+      "Evaluation"
+    ],
+    "summary": "A production-AI lifecycle runs from problem definition and data collection through system architecture, evaluation, guardrails and safety, deployment and scaling, and continuous monitoring.",
+    "slug": "10-phases-of-building-production-grade-ai-systems",
+    "phash": "fefc492f8703a821",
+    "note_path": "notes/2026-08/10-phases-of-building-production-grade-ai-systems.md",
+    "image_path": "public/img/notes/2026-08/10-phases-of-building-production-grade-ai-systems.png",
+    "drive_name": "Screenshot 2026-08-11 at 11.35.41 AM.png",
+    "drive_link": "https://drive.google.com/file/d/1YRgojiIOsYOO2JFhl0c593Q25q093CYJ/view",
+    "source_type": "drive-image",
+    "ingested_at": "2026-08-15T12:04:00Z",
+    "date_captured": "2026-08-11",
+    "drive_id": "1YRgojiIOsYOO2JFhl0c593Q25q093CYJ"
+  },
+  {
+    "id": "note-static-vs-contextual-embeddings",
+    "title": "Static vs Contextual Embeddings",
+    "category": "embeddings",
+    "tags": [
+      "embeddings",
+      "static-embeddings",
+      "contextual-embeddings",
+      "word2vec",
+      "glove",
+      "bert",
+      "gpt",
+      "nlp"
+    ],
+    "entities": [
+      "Word2Vec",
+      "GloVe",
+      "FastText",
+      "BERT",
+      "GPT",
+      "RoBERTa"
+    ],
+    "summary": "Static embeddings assign one fixed vector to each word, while transformer-based contextual embeddings produce different vectors for the same word based on its surrounding sentence.",
+    "slug": "static-vs-contextual-embeddings",
+    "phash": "b7667c484c4acf52",
+    "note_path": "notes/2026-08/static-vs-contextual-embeddings.md",
+    "image_path": "public/img/notes/2026-08/static-vs-contextual-embeddings.png",
+    "drive_name": "Screenshot 2026-08-03 at 5.05.37 PM.png",
+    "drive_link": "https://drive.google.com/file/d/1iVGy2-kgvH9M3VtnvS-KNE23h4Ze8daG/view",
+    "source_type": "drive-image",
+    "ingested_at": "2026-08-15T12:04:00Z",
+    "date_captured": "2026-08-03",
+    "drive_id": "1iVGy2-kgvH9M3VtnvS-KNE23h4Ze8daG"
+  },
+  {
+    "id": "note-cosine-similarity-metric",
+    "title": "Cosine Similarity Metric",
+    "category": "embeddings",
+    "tags": [
+      "cosine-similarity",
+      "embeddings",
+      "vectors",
+      "semantic-search",
+      "nlp",
+      "similarity-metrics"
+    ],
+    "entities": [
+      "Cosine Similarity",
+      "Vector Search",
+      "Nearest Neighbor Retrieval"
+    ],
+    "summary": "Cosine similarity compares the angle between embedding vectors rather than their magnitude, making it a common metric for semantic search, clustering, analogies, and nearest-neighbor retrieval.",
+    "slug": "cosine-similarity-metric",
+    "phash": "ff6c7461501a5b86",
+    "note_path": "notes/2026-08/cosine-similarity-metric.md",
+    "image_path": "public/img/notes/2026-08/cosine-similarity-metric.png",
+    "drive_name": "Screenshot 2026-08-03 at 5.05.24 PM.png",
+    "drive_link": "https://drive.google.com/file/d/1ppQfIIWyndJxMCDSazl6dre9Y9-GUqTW/view",
+    "source_type": "drive-image",
+    "ingested_at": "2026-08-15T12:04:00Z",
+    "date_captured": "2026-08-03",
+    "drive_id": "1ppQfIIWyndJxMCDSazl6dre9Y9-GUqTW"
+  },
+  {
+    "id": "note-embedding-space",
+    "title": "Embedding Space",
+    "category": "embeddings",
+    "tags": [
+      "embeddings",
+      "vectors",
+      "embedding-space",
+      "semantic-geometry",
+      "analogies",
+      "nlp",
+      "representation-learning"
+    ],
+    "entities": [
+      "Word Embeddings",
+      "King",
+      "Queen",
+      "Paris",
+      "Rome"
+    ],
+    "summary": "Embedding space represents words or tokens as points in a high-dimensional geometry where semantic relationships appear as positions and directional offsets, enabling analogies and semantic search.",
+    "slug": "embedding-space",
+    "phash": "af2d7068571b870e",
+    "note_path": "notes/2026-08/embedding-space.md",
+    "image_path": "public/img/notes/2026-08/embedding-space.png",
+    "drive_name": "Screenshot 2026-08-03 at 5.05.10 PM.png",
+    "drive_link": "https://drive.google.com/file/d/1yR-hGazWg6rkwfCksdObEQEMy1N7QmCN/view",
+    "source_type": "drive-image",
+    "ingested_at": "2026-08-15T12:04:00Z",
+    "date_captured": "2026-08-03",
+    "drive_id": "1yR-hGazWg6rkwfCksdObEQEMy1N7QmCN"
+  },
+  {
+    "id": "note-7-layers-of-ai",
+    "title": "7 Layers of AI",
+    "category": "ai-landscape",
+    "tags": [
+      "artificial-intelligence",
+      "machine-learning",
+      "deep-learning",
+      "neural-networks",
+      "generative-ai",
+      "agentic-ai",
+      "agi"
+    ],
+    "entities": [
+      "Classical AI",
+      "Machine Learning",
+      "Deep Learning",
+      "Generative AI",
+      "Agentic AI",
+      "AGI"
+    ],
+    "summary": "A progression graphic places classical AI, machine learning, neural networks, deep learning, generative AI, agentic AI, and AGI on an expanding capability ladder.",
+    "slug": "7-layers-of-ai",
+    "phash": "a0c179c1e16fb45e",
+    "note_path": "notes/2026-08/7-layers-of-ai.md",
+    "image_path": "public/img/notes/2026-08/7-layers-of-ai.png",
+    "drive_name": "Screenshot 2026-08-11 at 11.34.29 AM.png",
+    "drive_link": "https://drive.google.com/file/d/1yw6LeKoMkvEf5fyVD5_-mMg0H1pLD6T7/view",
+    "source_type": "drive-image",
+    "ingested_at": "2026-08-15T12:04:00Z",
+    "date_captured": "2026-08-11",
+    "drive_id": "1yw6LeKoMkvEf5fyVD5_-mMg0H1pLD6T7"
   }
 ]
