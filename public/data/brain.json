@@ -17186,5 +17186,301 @@
     "image_path": "public/img/notes/2026-08/bim-workflow-from-concept-to-operations.png",
     "phash": "d566399356994e4c",
     "ingested_at": "2026-08-19T12:10:00Z"
+  },
+  {
+    "id": "note-genie-for-ml-ml-lifecycle-automation",
+    "title": "Genie for ML — ML Lifecycle Automation",
+    "slug": "genie-for-ml-ml-lifecycle-automation",
+    "date_captured": "2026-06-25",
+    "category": "agentic-ai",
+    "tags": [
+      "agentic-ai",
+      "mlops",
+      "ml-engineering",
+      "model-monitoring",
+      "model-operations",
+      "databricks-genie",
+      "automation",
+      "observability"
+    ],
+    "entities": [
+      "Genie for ML",
+      "ML systems"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "1Qretwjm9hWbuih2B0TM6JdE6MMoYJy-F",
+    "drive_name": "IMG_0117.HEIC",
+    "drive_link": "https://drive.google.com/file/d/1Qretwjm9hWbuih2B0TM6JdE6MMoYJy-F/view",
+    "image_path": "public/img/notes/2026-06/genie-for-ml-ml-lifecycle-automation.png",
+    "summary": "A presentation slide introduces Genie for ML as an agent that runs ML systems across a lifecycle loop, connecting production monitoring, issue investigation, remediation, and deployment.",
+    "note_path": "notes/2026-06/genie-for-ml-ml-lifecycle-automation.md",
+    "phash": "c4c109d4343b3efe",
+    "ingested_at": "2026-08-21T12:05:00Z"
+  },
+  {
+    "id": "note-genie-code-for-ml-production-ml-engineering",
+    "title": "Genie Code for ML — Production ML Engineering",
+    "slug": "genie-code-for-ml-production-ml-engineering",
+    "date_captured": "2026-06-25",
+    "category": "agentic-ai",
+    "tags": [
+      "agentic-ai",
+      "mlops",
+      "ml-engineering",
+      "genie-code",
+      "databricks",
+      "model-development",
+      "workflows",
+      "context"
+    ],
+    "entities": [
+      "Genie Code",
+      "Databricks",
+      "Unity Catalog"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "1upjQ6OtYfQ7av8gEe718eBXhTEe3TYZO",
+    "drive_name": "IMG_0116.HEIC",
+    "drive_link": "https://drive.google.com/file/d/1upjQ6OtYfQ7av8gEe718eBXhTEe3TYZO/view",
+    "image_path": "public/img/notes/2026-06/genie-code-for-ml-production-ml-engineering.png",
+    "summary": "A product slide introduces Genie Code for ML as an agent for production ML engineering, with upgraded ML intelligence, native support across Databricks ML products, and built-in context and workflows.",
+    "note_path": "notes/2026-06/genie-code-for-ml-production-ml-engineering.md",
+    "phash": "c5cf33343abcc503",
+    "ingested_at": "2026-08-21T12:05:00Z"
+  },
+  {
+    "id": "note-genie-for-ml-the-mlops-lifecycle-loop",
+    "title": "Genie for ML — The MLOps Lifecycle Loop",
+    "slug": "genie-for-ml-the-mlops-lifecycle-loop",
+    "date_captured": "2026-06-25",
+    "category": "agentic-ai",
+    "tags": [
+      "agentic-ai",
+      "mlops",
+      "ml-lifecycle",
+      "model-monitoring",
+      "model-governance",
+      "observability",
+      "automation",
+      "databricks-genie"
+    ],
+    "entities": [
+      "Genie for ML",
+      "ML lifecycle"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "10O92bPuvMoHj0sb-bOXx4ZW7MdFzy1Yt",
+    "drive_name": "IMG_0114.HEIC",
+    "drive_link": "https://drive.google.com/file/d/10O92bPuvMoHj0sb-bOXx4ZW7MdFzy1Yt/view",
+    "image_path": "public/img/notes/2026-06/genie-for-ml-the-mlops-lifecycle-loop.png",
+    "summary": "A lifecycle diagram positions Genie for ML around a continuous ML operating loop, linking model development, deployment, monitoring, investigation, and remediation.",
+    "note_path": "notes/2026-06/genie-for-ml-the-mlops-lifecycle-loop.md",
+    "phash": "c4446ad2e0d8ebeb",
+    "ingested_at": "2026-08-21T12:05:00Z"
+  },
+  {
+    "id": "note-databricks-data-governance-dashboard",
+    "title": "Databricks Data Governance Dashboard",
+    "slug": "databricks-data-governance-dashboard",
+    "date_captured": "2026-06-25",
+    "category": "data-governance",
+    "tags": [
+      "databricks",
+      "data-governance",
+      "data-quality",
+      "data-classification",
+      "catalog",
+      "data-usage",
+      "data-recommendations"
+    ],
+    "entities": [
+      "Databricks",
+      "Unity Catalog"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "1ytGpjSQA1zUa5seuyLyQdn8zZihSerVd",
+    "drive_name": "IMG_0107.HEIC",
+    "drive_link": "https://drive.google.com/file/d/1ytGpjSQA1zUa5seuyLyQdn8zZihSerVd/view",
+    "image_path": "public/img/notes/2026-06/databricks-data-governance-dashboard.png",
+    "summary": "A Databricks governance dashboard shows catalog and asset counts, asset usage, governed tags, data classification, data quality, and recommendations for missing tags, comments, and unused assets.",
+    "note_path": "notes/2026-06/databricks-data-governance-dashboard.md",
+    "phash": "d49157b571c43f60",
+    "ingested_at": "2026-08-21T12:05:00Z"
+  },
+  {
+    "id": "note-trends-in-ai-cost-governance-and-security",
+    "title": "Trends in AI — Cost, Governance, and Security",
+    "slug": "trends-in-ai-cost-governance-and-security",
+    "date_captured": "2026-06-25",
+    "category": "ai-strategy",
+    "tags": [
+      "ai-strategy",
+      "ai-cost",
+      "ai-value",
+      "ai-governance",
+      "ai-security",
+      "enterprise-ai"
+    ],
+    "entities": [
+      "AI"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "1qKFeGS5xyC6IBQcWzyBsOkadc3sGiuSH",
+    "drive_name": "IMG_0002.HEIC",
+    "drive_link": "https://drive.google.com/file/d/1qKFeGS5xyC6IBQcWzyBsOkadc3sGiuSH/view",
+    "image_path": "public/img/notes/2026-06/trends-in-ai-cost-governance-and-security.png",
+    "summary": "A concise slide identifies three current AI themes: cost and value, governance, and security.",
+    "note_path": "notes/2026-06/trends-in-ai-cost-governance-and-security.md",
+    "phash": "806fcbb6c495d496",
+    "ingested_at": "2026-08-21T12:05:00Z"
+  },
+  {
+    "id": "note-governance-is-a-continuous-cycle",
+    "title": "Governance Is a Continuous Cycle",
+    "slug": "governance-is-a-continuous-cycle",
+    "date_captured": "2026-06-25",
+    "category": "ai-governance",
+    "tags": [
+      "ai-governance",
+      "governance-hub",
+      "risk-management",
+      "controls",
+      "monitoring",
+      "detection",
+      "response",
+      "policies",
+      "standards"
+    ],
+    "entities": [
+      "Governance Hub"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "1nCMDLQWB4BKl2d4aCpZcIASBOfOsMH5i",
+    "drive_name": "IMG_0106.HEIC",
+    "drive_link": "https://drive.google.com/file/d/1nCMDLQWB4BKl2d4aCpZcIASBOfOsMH5i/view",
+    "image_path": "public/img/notes/2026-06/governance-is-a-continuous-cycle.png",
+    "summary": "A governance cycle connects defining policies and standards, maintaining controls, monitoring change, detecting anomalies and risks, and responding with action and adoption.",
+    "note_path": "notes/2026-06/governance-is-a-continuous-cycle.md",
+    "phash": "d5d46af12a6a236a",
+    "ingested_at": "2026-08-21T12:05:00Z"
+  },
+  {
+    "id": "note-saas-security-detection-tips-to-get-started",
+    "title": "SaaS Security Detection — Tips to Get Started",
+    "slug": "saas-security-detection-tips-to-get-started",
+    "date_captured": "2026-06-25",
+    "category": "ai-security",
+    "tags": [
+      "saas-security",
+      "threat-detection",
+      "user-agents",
+      "identity",
+      "ip-analysis",
+      "anomaly-detection",
+      "security-analytics"
+    ],
+    "entities": [
+      "SaaS"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "1inKFUMJvhlqzScZYtBZVBFbAH-d60XF9",
+    "drive_name": "IMG_0083.HEIC",
+    "drive_link": "https://drive.google.com/file/d/1inKFUMJvhlqzScZYtBZVBFbAH-d60XF9/view",
+    "image_path": "public/img/notes/2026-06/saas-security-detection-tips-to-get-started.png",
+    "summary": "A detection guide recommends user-agent baselining, IP-prevalence scoring, and cross-service identity correlation as starting points for finding anomalous SaaS activity.",
+    "note_path": "notes/2026-06/saas-security-detection-tips-to-get-started.md",
+    "phash": "ea7a6453445b54d3",
+    "ingested_at": "2026-08-21T12:05:00Z"
+  },
+  {
+    "id": "note-mas-migration-to-databricks-key-milestones",
+    "title": "MAS Migration to Databricks — Key Milestones",
+    "slug": "mas-migration-to-databricks-key-milestones",
+    "date_captured": "2026-06-25",
+    "category": "data-platforms",
+    "tags": [
+      "databricks",
+      "data-platform",
+      "migration",
+      "modernization",
+      "architecture",
+      "governance",
+      "data-engineering",
+      "mas"
+    ],
+    "entities": [
+      "Databricks",
+      "MAS"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "1Flxg1tKI2XO_0clvOQHQtmAc9r2pHcfx",
+    "drive_name": "IMG_0142.HEIC",
+    "drive_link": "https://drive.google.com/file/d/1Flxg1tKI2XO_0clvOQHQtmAc9r2pHcfx/view",
+    "image_path": "public/img/notes/2026-06/mas-migration-to-databricks-key-milestones.png",
+    "summary": "A milestone timeline describes an MAS platform modernization: assessment in 2024, a replacement-platform project, a 2025 migration effort, and Databricks becoming the agreed platform for sourcing and ingesting data.",
+    "note_path": "notes/2026-06/mas-migration-to-databricks-key-milestones.md",
+    "phash": "80c008df3cf70fcf",
+    "ingested_at": "2026-08-21T12:05:00Z"
+  },
+  {
+    "id": "note-governance-hub-and-genie-one",
+    "title": "Governance Hub and Genie One",
+    "slug": "governance-hub-and-genie-one",
+    "date_captured": "2026-06-25",
+    "category": "ai-governance",
+    "tags": [
+      "ai-governance",
+      "data-governance",
+      "databricks",
+      "governance-hub",
+      "genie",
+      "analytics",
+      "data-quality",
+      "policy"
+    ],
+    "entities": [
+      "Databricks",
+      "Governance Hub",
+      "Genie One"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "17VonhvNuU2rr89yGHcujxXtSfn2VaUED",
+    "drive_name": "IMG_0104.HEIC",
+    "drive_link": "https://drive.google.com/file/d/17VonhvNuU2rr89yGHcujxXtSfn2VaUED/view",
+    "image_path": "public/img/notes/2026-06/governance-hub-and-genie-one.png",
+    "summary": "A presentation slide shows Governance Hub and Genie One working together so users can continue analysis with Genie-assisted context from governed data.",
+    "note_path": "notes/2026-06/governance-hub-and-genie-one.md",
+    "phash": "d5566a6b6a2425b5",
+    "ingested_at": "2026-08-21T12:05:00Z"
+  },
+  {
+    "id": "note-previous-saas-attack-paths",
+    "title": "Previous SaaS Attack Paths",
+    "slug": "previous-saas-attack-paths",
+    "date_captured": "2026-06-25",
+    "category": "ai-security",
+    "tags": [
+      "ai-security",
+      "saas-security",
+      "identity-security",
+      "attack-paths",
+      "threat-detection",
+      "data-exfiltration",
+      "user-agents",
+      "identity"
+    ],
+    "entities": [
+      "SaaS",
+      "Salesforce"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "15YXg0jCjWIyPiJAJcq59SI-rdKuiumFo",
+    "drive_name": "IMG_0081.HEIC",
+    "drive_link": "https://drive.google.com/file/d/15YXg0jCjWIyPiJAJcq59SI-rdKuiumFo/view",
+    "image_path": "public/img/notes/2026-06/previous-saas-attack-paths.png",
+    "summary": "A security slide contrasts fragmented SaaS attack paths, showing how malicious actors can exploit employee identities and connected applications to move across systems and exfiltrate data.",
+    "note_path": "notes/2026-06/previous-saas-attack-paths.md",
+    "phash": "f5f57aea4a4a0852",
+    "ingested_at": "2026-08-21T12:05:00Z"
   }
 ]
