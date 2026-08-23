@@ -17808,5 +17808,141 @@
     "note_path": "notes/2026-08/ai-risk-categorization-model-agentic-systems.md",
     "phash": "877cf9f0000f5c1f",
     "ingested_at": "2026-08-22T12:05:00Z"
+  },
+  {
+    "id": "note-ai-governance-controlling-ai-authority",
+    "title": "AI Governance: Controlling AI Authority",
+    "slug": "ai-governance-controlling-ai-authority",
+    "date_captured": "2026-08-23",
+    "category": "ai-governance",
+    "tags": [
+      "ai-governance",
+      "agent-authorization",
+      "ai-authority",
+      "risk-management",
+      "compliance",
+      "operational-control",
+      "data-lineage",
+      "identity",
+      "human-oversight"
+    ],
+    "entities": [
+      "AI Governance",
+      "Agentic AI",
+      "Fernsquare"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "1fJlb5pnznz6zuqz5kVN24LnJPRDl3lVB",
+    "drive_name": "Screenshot 2026-08-18 at 5.55.17 AM.png",
+    "drive_link": "https://drive.google.com/file/d/1fJlb5pnznz6zuqz5kVN24LnJPRDl3lVB/view",
+    "image_path": "public/img/notes/2026-08/ai-governance-controlling-ai-authority.png",
+    "phash": "0000000001011000111111110111111000111100111111110001100000000000",
+    "summary": "A governance framework reframes the objective from merely controlling AI systems to controlling AI authority: who an agent is, what data and tools it can access, what it can recommend or execute, and which actions require human approval. It organizes the control layer around trust and accountability, compliance and risk, operational control, data and decision lineage, and AI authority and identity."
+  },
+  {
+    "id": "note-enterprise-ai-architecture",
+    "title": "The Enterprise AI Architecture",
+    "slug": "enterprise-ai-architecture",
+    "date_captured": "2026-08-23",
+    "category": "ai-architecture",
+    "tags": [
+      "enterprise-ai",
+      "ai-architecture",
+      "agent-orchestration",
+      "rag",
+      "memory",
+      "model-routing",
+      "tool-use",
+      "guardrails",
+      "observability",
+      "human-in-the-loop"
+    ],
+    "entities": [
+      "Enterprise AI",
+      "RAG",
+      "Vector Database",
+      "Knowledge Graph",
+      "Foundation Models",
+      "MCP"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "1a0Yum1MKZ2dwLEYtCzocEv_dBM38IpJH",
+    "drive_name": "Screenshot 2026-08-20 at 1.42.59 AM.png",
+    "drive_link": "https://drive.google.com/file/d/1a0Yum1MKZ2dwLEYtCzocEv_dBM38IpJH/view",
+    "image_path": "public/img/notes/2026-08/enterprise-ai-architecture.png",
+    "phash": "0000000001100110011011101111111111011111100111111001111110000011",
+    "summary": "A seven-layer enterprise AI reference architecture connects business users and triggers to an experience and access layer, agent orchestration, knowledge and retrieval, models, tools and actions, and enterprise data and systems. Security, governance, compliance, observability, evaluation, feedback, and runtime infrastructure span the stack."
+  },
+  {
+    "id": "note-microsoft-fabric-data-and-ai-architecture",
+    "title": "Microsoft Fabric Data and AI Architecture",
+    "slug": "microsoft-fabric-data-and-ai-architecture",
+    "date_captured": "2026-08-23",
+    "category": "data-platform",
+    "tags": [
+      "microsoft-fabric",
+      "lakehouse",
+      "data-engineering",
+      "data-warehouse",
+      "real-time-intelligence",
+      "power-bi",
+      "copilot",
+      "data-agents",
+      "onelake",
+      "governance"
+    ],
+    "entities": [
+      "Microsoft Fabric",
+      "OneLake",
+      "Microsoft Purview",
+      "Power BI",
+      "Copilot",
+      "Azure Machine Learning",
+      "Microsoft Foundry"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "1DpT_JkOUVsC7yGBCDupiWRlQCWJh-PdA",
+    "drive_name": "Screenshot 2026-08-20 at 1.43.22 AM.png",
+    "drive_link": "https://drive.google.com/file/d/1DpT_JkOUVsC7yGBCDupiWRlQCWJh-PdA/view",
+    "image_path": "public/img/notes/2026-08/microsoft-fabric-data-and-ai-architecture.png",
+    "phash": "0001011100111111010100110100000101111011011111110111110000011110",
+    "summary": "A Microsoft Fabric architecture map shows external batch and streaming sources flowing through storage, processing, serving, and enrichment across provider and consumer tenants. It connects Lakehouse, Warehouse, SQL Database, Eventhouse, Mirrored Database, Data Engineering, Data Science, Real-Time Intelligence, Power BI, GraphQL API, Data Agent, Copilot, OneLake, Purview, and platform services."
+  },
+  {
+    "id": "note-ai-use-cases-oil-and-gas-uae-ksa",
+    "title": "AI Use Cases in Oil and Gas: UAE and KSA",
+    "slug": "ai-use-cases-oil-and-gas-uae-ksa",
+    "date_captured": "2026-08-23",
+    "category": "industry-ai",
+    "tags": [
+      "oil-and-gas",
+      "energy-ai",
+      "predictive-maintenance",
+      "reservoir-optimization",
+      "seismic-interpretation",
+      "autonomous-operations",
+      "digital-twins",
+      "emissions-monitoring",
+      "supply-chain",
+      "agentic-ai",
+      "uae",
+      "ksa"
+    ],
+    "entities": [
+      "ADNOC",
+      "Saudi Aramco",
+      "SLB",
+      "Baker Hughes",
+      "Halliburton",
+      "AIQ",
+      "ENOC"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "117yV_BGS9xNQGg8wnSkrkfz78bHYlZLr",
+    "drive_name": "Screenshot 2026-08-20 at 1.43.58 AM.png",
+    "drive_link": "https://drive.google.com/file/d/117yV_BGS9xNQGg8wnSkrkfz78bHYlZLr/view",
+    "image_path": "public/img/notes/2026-08/ai-use-cases-oil-and-gas-uae-ksa.png",
+    "phash": "0000000011111111110000011111001110111011101110111011101100011111",
+    "summary": "A UAE and KSA oil-and-gas use-case map presents ten AI application areas: predictive maintenance, reservoir optimization, seismic interpretation, autonomous well control, drilling optimization, production optimization, digital twins, emissions monitoring, supply-chain optimization, and AI agents or agentic AI. Logos associate regional operators and technology providers with selected use cases."
   }
 ]
