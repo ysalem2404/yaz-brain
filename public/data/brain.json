@@ -18246,5 +18246,315 @@
     "summary": "A low-confidence HEIF capture from the Databricks summit folder shows a cropped fragment of large lettering, but not enough context to identify the subject.",
     "note_path": "notes/2026-08/conference-capture-partial-text.md",
     "low_confidence": true
+  },
+  {
+    "id": "note-ai-parse-document-structured-data-conversion",
+    "title": "AI Parse Document — Structured Data Conversion",
+    "slug": "ai-parse-document-structured-data-conversion",
+    "date_captured": "2026-08-25",
+    "category": "document-ai",
+    "tags": [
+      "databricks",
+      "document-ai",
+      "parsing",
+      "structured-data",
+      "ocr",
+      "agents",
+      "retrieval"
+    ],
+    "entities": [
+      "Databricks",
+      "ai_parse_document"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "1m5T28S19tlzJiqebR2Ek1XbD9hG00t-S",
+    "drive_name": "IMG_0011.HEIC",
+    "drive_link": "https://drive.google.com/file/d/1m5T28S19tlzJiqebR2Ek1XbD9hG00t-S/view",
+    "note_path": "notes/2026-08/ai-parse-document-structured-data-conversion.md",
+    "image_path": "public/img/notes/2026-08/ai-parse-document-structured-data-conversion.png",
+    "phash": "e79998996756c498",
+    "ocr": "local_tesseract_fallback",
+    "summary": "A Databricks conference slide presents ai_parse_document as a way to turn documents into structured data, exposing layout structure, text content, figure understanding, and confidence scores.",
+    "ingested_at": "2026-08-25T12:13:00Z"
+  },
+  {
+    "id": "note-granular-access-control-match-permissions-to-task",
+    "title": "Granular Access Control — Match Permissions to the Task",
+    "slug": "granular-access-control-match-permissions-to-task",
+    "date_captured": "2026-08-25",
+    "category": "security-governance",
+    "tags": [
+      "access-control",
+      "abac",
+      "rbac",
+      "authorization",
+      "iam",
+      "security",
+      "policy",
+      "governance"
+    ],
+    "entities": [
+      "ABAC",
+      "RBAC"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "1B4cp3WjNj3i7TJ8C9DF8v4VQv_C-5mC-",
+    "drive_name": "IMG_0137.HEIC",
+    "drive_link": "https://drive.google.com/file/d/1B4cp3WjNj3i7TJ8C9DF8v4VQv_C-5mC-/view",
+    "note_path": "notes/2026-08/granular-access-control-match-permissions-to-task.md",
+    "image_path": "public/img/notes/2026-08/granular-access-control-match-permissions-to-task.png",
+    "phash": "873a0137fe0285fd",
+    "ocr": "local_tesseract_fallback",
+    "summary": "A security guidance slide argues that permissions should be narrowly matched to each task, with policy-driven repetition, attribute-based rules where conditions repeat, and role-based rules where access should not remain active all at once.",
+    "ingested_at": "2026-08-25T12:13:00Z"
+  },
+  {
+    "id": "note-databricks-agentic-data-intelligence-platform",
+    "title": "Databricks Agentic Data Intelligence Platform",
+    "slug": "databricks-agentic-data-intelligence-platform",
+    "date_captured": "2026-08-25",
+    "category": "data-intelligence",
+    "tags": [
+      "databricks",
+      "agentic-ai",
+      "data-intelligence",
+      "genie",
+      "agent-bricks",
+      "unity-catalog",
+      "lakeflow",
+      "lakehouse",
+      "mlops"
+    ],
+    "entities": [
+      "Databricks",
+      "Genie",
+      "Agent Bricks",
+      "Unity Catalog",
+      "Lakeflow"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "15ouRbERh2jWNFBfpXqE46pWkN62dSN8e",
+    "drive_name": "IMG_0045.HEIC",
+    "drive_link": "https://drive.google.com/file/d/15ouRbERh2jWNFBfpXqE46pWkN62dSN8e/view",
+    "note_path": "notes/2026-08/databricks-agentic-data-intelligence-platform.md",
+    "image_path": "public/img/notes/2026-08/databricks-agentic-data-intelligence-platform.png",
+    "phash": "d55b51d85ed059c8",
+    "ocr": "local_tesseract_fallback",
+    "summary": "A Databricks platform map connects agentic work, unified governance, and agentic development to a data foundation spanning Unity Catalog, Lakeflow, Lakehouse, and related intelligence capabilities.",
+    "ingested_at": "2026-08-25T12:13:00Z"
+  },
+  {
+    "id": "note-cybersecurity-acquisitions-siftd-and-panther",
+    "title": "Cybersecurity Acquisitions — SiftD and Panther",
+    "slug": "cybersecurity-acquisitions-siftd-and-panther",
+    "date_captured": "2026-08-25",
+    "category": "cybersecurity",
+    "tags": [
+      "cybersecurity",
+      "acquisitions",
+      "databricks",
+      "siftd",
+      "panther",
+      "security-analytics"
+    ],
+    "entities": [
+      "Databricks",
+      "SiftD",
+      "Panther",
+      "Antimatter"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "14ZVY1qvQPcGZlgTNPJZGjk4GqH4tNUBO",
+    "drive_name": "IMG_0067.HEIC",
+    "drive_link": "https://drive.google.com/file/d/14ZVY1qvQPcGZlgTNPJZGjk4GqH4tNUBO/view",
+    "note_path": "notes/2026-08/cybersecurity-acquisitions-siftd-and-panther.md",
+    "image_path": "public/img/notes/2026-08/cybersecurity-acquisitions-siftd-and-panther.png",
+    "phash": "d22d2bcbd0da052f",
+    "ocr": "local_tesseract_fallback",
+    "summary": "A conference photo highlights cybersecurity acquisition or partnership messaging with the SiftD and Panther brands alongside Databricks and Antimatter.",
+    "ingested_at": "2026-08-25T12:13:00Z"
+  },
+  {
+    "id": "note-adopt-o-thon-migrate-learn-deliver-get-recognized",
+    "title": "Adopt-o-thon — Migrate, Learn, Deliver, Get Recognized",
+    "slug": "adopt-o-thon-migrate-learn-deliver-get-recognized",
+    "date_captured": "2026-08-25",
+    "category": "change-management",
+    "tags": [
+      "databricks",
+      "adoption",
+      "migration",
+      "training",
+      "certification",
+      "incentives",
+      "change-management"
+    ],
+    "entities": [
+      "Databricks"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "1UwojeeMayLZiO93X4oBawEnjKtOEwpvE",
+    "drive_name": "IMG_0094.HEIC",
+    "drive_link": "https://drive.google.com/file/d/1UwojeeMayLZiO93X4oBawEnjKtOEwpvE/view",
+    "note_path": "notes/2026-08/adopt-o-thon-migrate-learn-deliver-get-recognized.md",
+    "image_path": "public/img/notes/2026-08/adopt-o-thon-migrate-learn-deliver-get-recognized.png",
+    "phash": "85326f31728ff891",
+    "ocr": "local_tesseract_fallback",
+    "summary": "An Adopt-o-thon slide turns platform adoption into a gamified journey: learn and certify, migrate and deliver, climb the leaderboard, and get recognized.",
+    "ingested_at": "2026-08-25T12:13:00Z"
+  },
+  {
+    "id": "note-data-governance-governing-bodies",
+    "title": "Data Governance Governing Bodies",
+    "slug": "data-governance-governing-bodies",
+    "date_captured": "2026-08-25",
+    "category": "data-governance",
+    "tags": [
+      "data-governance",
+      "governance-operating-model",
+      "strategy",
+      "stewardship",
+      "data-literacy",
+      "databricks"
+    ],
+    "entities": [
+      "Enterprise Data Strategy Board",
+      "Data Governance Office",
+      "Business Data Steering Committees",
+      "Data Stewardship Council"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "1xferYWOT2ZKpViMDn0_9jZG85HwMLMS2",
+    "drive_name": "IMG_0092.HEIC",
+    "drive_link": "https://drive.google.com/file/d/1xferYWOT2ZKpViMDn0_9jZG85HwMLMS2/view",
+    "note_path": "notes/2026-08/data-governance-governing-bodies.md",
+    "image_path": "public/img/notes/2026-08/data-governance-governing-bodies.png",
+    "phash": "b1874ea9137a616d",
+    "ocr": "local_tesseract_fallback",
+    "summary": "A governance operating model organizes enterprise data accountability through an Enterprise Data Strategy Board, Data Governance Office, business data steering committees, a stewardship council, and a community of practice.",
+    "ingested_at": "2026-08-25T12:13:00Z"
+  },
+  {
+    "id": "note-supervisor-v1-failed-fast-building-agent-foundations",
+    "title": "Supervisor v1 Failed Fast — Building Agent Foundations",
+    "slug": "supervisor-v1-failed-fast-building-agent-foundations",
+    "date_captured": "2026-08-25",
+    "category": "agent-architecture",
+    "tags": [
+      "agents",
+      "multi-agent-systems",
+      "supervisor",
+      "routing",
+      "reflection",
+      "langgraph",
+      "dspy",
+      "smolagents",
+      "rag",
+      "agent-architecture"
+    ],
+    "entities": [
+      "LangGraph",
+      "DSPy",
+      "SmolAgents",
+      "Magneto-Core"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "14Vh-D9-RWt90HLHvt_u7yHgNf3uq4bSm",
+    "drive_name": "IMG_0154.HEIC",
+    "drive_link": "https://drive.google.com/file/d/14Vh-D9-RWt90HLHvt_u7yHgNf3uq4bSm/view",
+    "note_path": "notes/2026-08/supervisor-v1-failed-fast-building-agent-foundations.md",
+    "image_path": "public/img/notes/2026-08/supervisor-v1-failed-fast-building-agent-foundations.png",
+    "phash": "bfbf00a515156a3a",
+    "ocr": "local_tesseract_fallback",
+    "summary": "A retrospective traces an agent platform from a failed Supervisor v1 through DSPy routing, SmolAgents, GPU graph work, refactoring, Magneto-Core, and a later V5 Supervisor, arguing that early failure helped build durable foundations.",
+    "ingested_at": "2026-08-25T12:13:00Z"
+  },
+  {
+    "id": "note-table-utility-evaluating-agent-lookups",
+    "title": "Table Utility — Evaluating Agent Lookups",
+    "slug": "table-utility-evaluating-agent-lookups",
+    "date_captured": "2026-08-25",
+    "category": "llm-evaluation",
+    "tags": [
+      "llm-evaluation",
+      "table-understanding",
+      "agents",
+      "structured-data",
+      "metrics",
+      "retrieval",
+      "benchmarking"
+    ],
+    "entities": [
+      "Table Utility"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "17MbM12uOK4sGMCcXKEaS8BVAWS7fWB82",
+    "drive_name": "IMG_0017.HEIC",
+    "drive_link": "https://drive.google.com/file/d/17MbM12uOK4sGMCcXKEaS8BVAWS7fWB82/view",
+    "note_path": "notes/2026-08/table-utility-evaluating-agent-lookups.md",
+    "image_path": "public/img/notes/2026-08/table-utility-evaluating-agent-lookups.png",
+    "phash": "af25218e19da5bd2",
+    "ocr": "local_tesseract_fallback",
+    "summary": "The Table Utility metric evaluates whether a parsed table can answer the lookups an agent would actually run, scoring exact matches between ground-truth and predicted table values.",
+    "ingested_at": "2026-08-25T12:13:00Z"
+  },
+  {
+    "id": "note-governance-at-scale-breaks-in-three-places",
+    "title": "Governance at Scale Breaks in Three Places",
+    "slug": "governance-at-scale-breaks-in-three-places",
+    "date_captured": "2026-08-25",
+    "category": "ai-governance",
+    "tags": [
+      "governance-at-scale",
+      "access-control",
+      "permissions",
+      "consistency",
+      "isolation",
+      "policy",
+      "security"
+    ],
+    "entities": [
+      "Access Control"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "12HqM18t-wvY-N7tMY_ArBZwauwBDVOi2",
+    "drive_name": "IMG_0119.HEIC",
+    "drive_link": "https://drive.google.com/file/d/12HqM18t-wvY-N7tMY_ArBZwauwBDVOi2/view",
+    "note_path": "notes/2026-08/governance-at-scale-breaks-in-three-places.md",
+    "image_path": "public/img/notes/2026-08/governance-at-scale-breaks-in-three-places.png",
+    "phash": "d6a82fc03f82788f",
+    "ocr": "local_tesseract_fallback",
+    "summary": "A governance slide identifies three scaling failure points for access control: excessive privilege, inconsistent rules, and permission isolation across tasks.",
+    "ingested_at": "2026-08-25T12:13:00Z"
+  },
+  {
+    "id": "note-security-lakehouse-structured-unstructured-data",
+    "title": "Security Lakehouse — Structured and Unstructured Data",
+    "slug": "security-lakehouse-structured-unstructured-data",
+    "date_captured": "2026-08-25",
+    "category": "cybersecurity",
+    "tags": [
+      "security-lakehouse",
+      "cybersecurity",
+      "structured-data",
+      "unstructured-data",
+      "data-platform",
+      "threat-detection",
+      "databricks"
+    ],
+    "entities": [
+      "Security Lakehouse",
+      "Databricks"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "13hA9VIIBcdAwXLmg3hN1Ii9523-85NXx",
+    "drive_name": "IMG_0071.HEIC",
+    "drive_link": "https://drive.google.com/file/d/13hA9VIIBcdAwXLmg3hN1Ii9523-85NXx/view",
+    "note_path": "notes/2026-08/security-lakehouse-structured-unstructured-data.md",
+    "image_path": "public/img/notes/2026-08/security-lakehouse-structured-unstructured-data.png",
+    "phash": "912e2ed03faa16b5",
+    "ocr": "local_tesseract_fallback",
+    "summary": "A conference slide frames a Security Lakehouse as a way to bring structured and unstructured data sources together for security intelligence.",
+    "ingested_at": "2026-08-25T12:13:00Z"
   }
 ]
