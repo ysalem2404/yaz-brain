@@ -20544,5 +20544,323 @@
     "ocr": "local_tesseract_fallback",
     "ingested_at": "2026-08-31T12:09:00Z",
     "summary": "A data-science-and-ML maturity slide presents a “glass box” approach to AutoML: use generated baselines and notebooks, iterate with MLflow, and expose results through dashboards or Genie."
+  },
+  {
+    "id": "note-cyber-threat-intelligence-pipeline-network-2",
+    "title": "Cyber Threat Intelligence — Pipeline Network",
+    "slug": "cyber-threat-intelligence-pipeline-network-2",
+    "date_captured": "2026-09-01",
+    "category": "cybersecurity",
+    "tags": [
+      "cybersecurity",
+      "cyber-threat-intelligence",
+      "pipeline",
+      "detection-rules",
+      "rules-transformer",
+      "policy-engine",
+      "detection-engine",
+      "snapshot-context",
+      "historical-context"
+    ],
+    "entities": [
+      "Cyber Threat Intelligence"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "1p_29iKwduwgwgAs_0bFFBz4QrL8KUfxO",
+    "drive_name": "IMG_0168.HEIC",
+    "drive_link": "https://drive.google.com/file/d/1p_29iKwduwgwgAs_0bFFBz4QrL8KUfxO/view?usp=drivesdk",
+    "note_path": "notes/2026-09/cyber-threat-intelligence-pipeline-network-2.md",
+    "image_path": "public/img/notes/2026-09/cyber-threat-intelligence-pipeline-network-2.png",
+    "phash": "b10f4b3b6ed04ed0",
+    "ocr": "local_tesseract_fallback",
+    "ingested_at": "2026-09-01T12:10:00Z",
+    "summary": "A CTI pipeline network routes many detection rules through a rules transformer and deployment policy engine into parallel detection engines backed by snapshot and historical context."
+  },
+  {
+    "id": "note-genie-one-data-smart-ai-coworker",
+    "title": "Genie One — The Data-Smart AI Coworker",
+    "slug": "genie-one-data-smart-ai-coworker",
+    "date_captured": "2026-09-01",
+    "category": "enterprise-ai",
+    "tags": [
+      "enterprise-ai",
+      "databricks",
+      "genie-one",
+      "ai-coworker",
+      "natural-language",
+      "analytics",
+      "agents",
+      "sql"
+    ],
+    "entities": [
+      "Databricks",
+      "Genie One",
+      "Google Analytics",
+      "BigQuery",
+      "Snowflake",
+      "Salesforce",
+      "SAP",
+      "Oracle",
+      "Glean"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "1ThrSxKSlB4kSwuoSOk9TtYgrRx8HtZhY",
+    "drive_name": "IMG_0043.HEIC",
+    "drive_link": "https://drive.google.com/file/d/1ThrSxKSlB4kSwuoSOk9TtYgrRx8HtZhY/view?usp=drivesdk",
+    "note_path": "notes/2026-09/genie-one-data-smart-ai-coworker.md",
+    "image_path": "public/img/notes/2026-09/genie-one-data-smart-ai-coworker.png",
+    "phash": "857a7a958563c56a",
+    "ocr": "local_tesseract_fallback",
+    "ingested_at": "2026-09-01T12:10:00Z",
+    "summary": "A Genie One launch slide positions the product as a data-smart AI coworker that can learn, create skills, schedule tasks, analyze data, and connect to enterprise data platforms."
+  },
+  {
+    "id": "note-telemetry-semantic-pipeline-network",
+    "title": "Telemetry — Semantic Pipeline Network",
+    "slug": "telemetry-semantic-pipeline-network",
+    "date_captured": "2026-09-01",
+    "category": "cybersecurity",
+    "tags": [
+      "cybersecurity",
+      "telemetry",
+      "cti",
+      "semantic-transformer",
+      "logs",
+      "pipeline",
+      "snapshot-context",
+      "bronze-archive"
+    ],
+    "entities": [
+      "Cyber Threat Intelligence"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "1J6cjQOGFzXFv21cMoF7sNeHWFUk-7ZOG",
+    "drive_name": "IMG_0170.HEIC",
+    "drive_link": "https://drive.google.com/file/d/1J6cjQOGFzXFv21cMoF7sNeHWFUk-7ZOG/view?usp=drivesdk",
+    "note_path": "notes/2026-09/telemetry-semantic-pipeline-network.md",
+    "image_path": "public/img/notes/2026-09/telemetry-semantic-pipeline-network.png",
+    "phash": "940b7ff081b43b6a",
+    "ocr": "local_tesseract_fallback",
+    "ingested_at": "2026-09-01T12:10:00Z",
+    "summary": "A telemetry pipeline turns raw logs into semantic logs enriched with cyber-threat intelligence, while retaining a raw bronze archive and a CTI snapshot context store."
+  },
+  {
+    "id": "note-own-your-saas-and-ai-security",
+    "title": "Own Your SaaS and AI Security",
+    "slug": "own-your-saas-and-ai-security",
+    "date_captured": "2026-09-01",
+    "category": "cybersecurity",
+    "tags": [
+      "cybersecurity",
+      "saas-security",
+      "ai-security",
+      "credential-theft",
+      "threat-detection",
+      "incident-response",
+      "obsidian-security"
+    ],
+    "entities": [
+      "Obsidian Security",
+      "Databricks"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "1D9-QuBTiBCiPyKfcXnFRJR4NEcbyQATs",
+    "drive_name": "IMG_0085.HEIC",
+    "drive_link": "https://drive.google.com/file/d/1D9-QuBTiBCiPyKfcXnFRJR4NEcbyQATs/view?usp=drivesdk",
+    "note_path": "notes/2026-09/own-your-saas-and-ai-security.md",
+    "image_path": "public/img/notes/2026-09/own-your-saas-and-ai-security.png",
+    "phash": "c5b579aa79a27980",
+    "ocr": "local_tesseract_fallback",
+    "ingested_at": "2026-09-01T12:10:00Z",
+    "summary": "An Obsidian Security slide frames SaaS and AI security around preventing credential theft, detecting threats across SaaS, containing attacks quickly, and operating AI safely."
+  },
+  {
+    "id": "note-detection-engine-context-aware-fast-detection",
+    "title": "Detection Engine — Context-Aware Fast Detection",
+    "slug": "detection-engine-context-aware-fast-detection",
+    "date_captured": "2026-09-01",
+    "category": "cybersecurity",
+    "tags": [
+      "cybersecurity",
+      "detection-engine",
+      "detection-rules",
+      "semantic-logs",
+      "threat-intelligence",
+      "snapshot-context",
+      "historical-context"
+    ],
+    "entities": [
+      "Cyber Threat Intelligence"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "16WSr9P4F9pP8m8MfmExu-APERaHbBdF3",
+    "drive_name": "IMG_0171.HEIC",
+    "drive_link": "https://drive.google.com/file/d/16WSr9P4F9pP8m8MfmExu-APERaHbBdF3/view?usp=drivesdk",
+    "note_path": "notes/2026-09/detection-engine-context-aware-fast-detection.md",
+    "image_path": "public/img/notes/2026-09/detection-engine-context-aware-fast-detection.png",
+    "phash": "807f7f6080803f7f",
+    "ocr": "local_tesseract_fallback",
+    "ingested_at": "2026-09-01T12:10:00Z",
+    "summary": "A detection-engine summary emphasizes fast rule-class-specific functions over semantically keyed telemetry and intelligence, with efficient joins for snapshot and historical context."
+  },
+  {
+    "id": "note-unc6395-attack-salesloft-drift-integration",
+    "title": "UNC6395 Attack via Salesloft-Drift Integration",
+    "slug": "unc6395-attack-salesloft-drift-integration",
+    "date_captured": "2026-09-01",
+    "category": "cybersecurity",
+    "tags": [
+      "cybersecurity",
+      "unc6395",
+      "salesloft",
+      "drift",
+      "oauth",
+      "credentials",
+      "salesforce",
+      "google-workspace",
+      "attack-chain"
+    ],
+    "entities": [
+      "UNC6395",
+      "Salesloft Drift",
+      "Salesforce",
+      "Google Workspace",
+      "AWS",
+      "Snowflake"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "10CFgvGMPJBh1SNvaimzi65QvLJL71wlT",
+    "drive_name": "IMG_0082.HEIC",
+    "drive_link": "https://drive.google.com/file/d/10CFgvGMPJBh1SNvaimzi65QvLJL71wlT/view?usp=drivesdk",
+    "note_path": "notes/2026-09/unc6395-attack-salesloft-drift-integration.md",
+    "image_path": "public/img/notes/2026-09/unc6395-attack-salesloft-drift-integration.png",
+    "phash": "ed2d559a712a70b8",
+    "ocr": "local_tesseract_fallback",
+    "ingested_at": "2026-09-01T12:10:00Z",
+    "summary": "A timeline maps UNC6395 abuse of Salesloft Drift OAuth tokens and API keys through Salesforce and Google Workspace into data access and credential-pivot attempts."
+  },
+  {
+    "id": "note-genie-spaces-generic-analysis-to-repeatable-insight",
+    "title": "Genie Spaces — From Generic Analysis to Repeatable Insight",
+    "slug": "genie-spaces-generic-analysis-to-repeatable-insight",
+    "date_captured": "2026-09-01",
+    "category": "analytics",
+    "tags": [
+      "genie-spaces",
+      "analytics",
+      "natural-language",
+      "sql",
+      "power-bi",
+      "excel",
+      "visualization",
+      "commentary",
+      "repeatability"
+    ],
+    "entities": [
+      "Databricks",
+      "Genie Spaces",
+      "Power BI",
+      "Excel"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "1B8f7iqG1PEK0SQ3-9HubDbqjgIDE977T",
+    "drive_name": "IMG_0145.HEIC",
+    "drive_link": "https://drive.google.com/file/d/1B8f7iqG1PEK0SQ3-9HubDbqjgIDE977T/view?usp=drivesdk",
+    "note_path": "notes/2026-09/genie-spaces-generic-analysis-to-repeatable-insight.md",
+    "image_path": "public/img/notes/2026-09/genie-spaces-generic-analysis-to-repeatable-insight.png",
+    "phash": "80203fb33fb33bb0",
+    "ocr": "local_tesseract_fallback",
+    "ingested_at": "2026-09-01T12:10:00Z",
+    "summary": "A Genie Spaces use-case slide contrasts manual dataset discovery, query writing, exports, charting, interpretation, and commentary with natural-language, highlighted-insight, reusable-SQL analysis."
+  },
+  {
+    "id": "note-genie-spaces-pricing-forecast-analysis",
+    "title": "Genie Spaces — Pricing Forecast Analysis",
+    "slug": "genie-spaces-pricing-forecast-analysis",
+    "date_captured": "2026-09-01",
+    "category": "analytics",
+    "tags": [
+      "genie-spaces",
+      "pricing-forecast",
+      "forecasting",
+      "analytics",
+      "benchmarking",
+      "visualization",
+      "business-intelligence"
+    ],
+    "entities": [
+      "Databricks",
+      "Genie Spaces"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "1hM-8HUW1WbjeBAGRiFV9M1t375zuhP6N",
+    "drive_name": "IMG_0147.HEIC",
+    "drive_link": "https://drive.google.com/file/d/1hM-8HUW1WbjeBAGRiFV9M1t375zuhP6N/view?usp=drivesdk",
+    "note_path": "notes/2026-09/genie-spaces-pricing-forecast-analysis.md",
+    "image_path": "public/img/notes/2026-09/genie-spaces-pricing-forecast-analysis.png",
+    "phash": "802857a9af2bab1f",
+    "ocr": "local_tesseract_fallback",
+    "ingested_at": "2026-09-01T12:10:00Z",
+    "summary": "A pricing-forecast use case uses Genie to compare forecasts with experts and benchmarks, analyze products, methods, and horizons, narrate movements, quantify change, challenge preconceptions, and generate visualizations."
+  },
+  {
+    "id": "note-ai-gateway-usage-user-spend-and-requests",
+    "title": "AI Gateway Usage — User Spend and Requests",
+    "slug": "ai-gateway-usage-user-spend-and-requests",
+    "date_captured": "2026-09-01",
+    "category": "ai-governance",
+    "tags": [
+      "ai-governance",
+      "unity-ai-gateway",
+      "usage-analytics",
+      "cost-control",
+      "spend",
+      "requests",
+      "databricks"
+    ],
+    "entities": [
+      "Databricks",
+      "Unity AI Gateway"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "1HkBNky7ifc_W3Yoyv0smtDiGZCiYtAsq",
+    "drive_name": "IMG_0105.HEIC",
+    "drive_link": "https://drive.google.com/file/d/1HkBNky7ifc_W3Yoyv0smtDiGZCiYtAsq/view?usp=drivesdk",
+    "note_path": "notes/2026-09/ai-gateway-usage-user-spend-and-requests.md",
+    "image_path": "public/img/notes/2026-09/ai-gateway-usage-user-spend-and-requests.png",
+    "phash": "d5d52ad1e26ad06a",
+    "ocr": "local_tesseract_fallback",
+    "ingested_at": "2026-09-01T12:10:00Z",
+    "summary": "An AI Gateway usage view shows how governance telemetry can identify which users consume and spend the most on AI, with request, token, endpoint, and spend breakdowns."
+  },
+  {
+    "id": "note-cyber-threat-intelligence-shift-analysis-to-collection",
+    "title": "Cyber Threat Intelligence — Shift Analysis to Collection",
+    "slug": "cyber-threat-intelligence-shift-analysis-to-collection",
+    "date_captured": "2026-09-01",
+    "category": "cybersecurity",
+    "tags": [
+      "cybersecurity",
+      "cyber-threat-intelligence",
+      "semantic-analysis",
+      "detection-rules",
+      "collection",
+      "data-pipeline",
+      "change-data-capture",
+      "detection-engine"
+    ],
+    "entities": [
+      "Cyber Threat Intelligence"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "1Lg4nQvicOUdfshFdiRbQzeyqkXIY8U5r",
+    "drive_name": "IMG_0169.HEIC",
+    "drive_link": "https://drive.google.com/file/d/1Lg4nQvicOUdfshFdiRbQzeyqkXIY8U5r/view?usp=drivesdk",
+    "note_path": "notes/2026-09/cyber-threat-intelligence-shift-analysis-to-collection.md",
+    "image_path": "public/img/notes/2026-09/cyber-threat-intelligence-shift-analysis-to-collection.png",
+    "phash": "952a7f6f48c53095",
+    "ocr": "local_tesseract_fallback",
+    "ingested_at": "2026-09-01T12:10:00Z",
+    "summary": "A CTI summary shifts semantic analysis and detection-rule creation toward collection: identify relevant threat data, pivot on join keys, capture only detection-relevant changes, and feed detection engines."
   }
 ]
