@@ -21792,5 +21792,40 @@
     "phash": "ebb46b0b388d03b9",
     "ingested_at": "2026-09-10T12:10:00Z",
     "duplicate_of": "note-ai-governance-security-compliance-pillars"
+  },
+  {
+    "id": "note-ai-governance-control-loop",
+    "title": "AI Governance Control Loop",
+    "slug": "ai-governance-control-loop",
+    "date_captured": "2026-09-14",
+    "category": "ai-governance",
+    "tags": [
+      "ai-governance",
+      "responsible-ai",
+      "risk-management",
+      "ai-safety",
+      "human-in-the-loop",
+      "guardrails",
+      "model-monitoring",
+      "accountability",
+      "auditability",
+      "decision-making"
+    ],
+    "entities": [
+      "AI Governance",
+      "Human Oversight",
+      "Risk Management",
+      "Responsible AI"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "1xShqwWj9arRht8rpN9ww_sjygjrTFx-E",
+    "drive_name": "Screenshot 2026-09-13 at 1.31.35 AM.png",
+    "drive_link": "https://drive.google.com/file/d/1xShqwWj9arRht8rpN9ww_sjygjrTFx-E/view?usp=drivesdk",
+    "note_path": "notes/2026-09/ai-governance-control-loop.md",
+    "image_path": "public/img/notes/2026-09/ai-governance-control-loop.png",
+    "phash": "af73343c432c4f43",
+    "ocr": "local_tesseract_fallback",
+    "ingested_at": "2026-09-14T12:24:00Z",
+    "summary": "The AI governance control loop turns intent into governed action: pressure-test risks, grant conditional permission, deploy with controls, watch real-world behavior, step in when conditions shift, and fold lessons back into the next decision cycle."
   }
 ]
