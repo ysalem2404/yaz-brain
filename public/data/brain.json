@@ -21827,5 +21827,46 @@
     "ocr": "local_tesseract_fallback",
     "ingested_at": "2026-09-14T12:24:00Z",
     "summary": "The AI governance control loop turns intent into governed action: pressure-test risks, grant conditional permission, deploy with controls, watch real-world behavior, step in when conditions shift, and fold lessons back into the next decision cycle."
+  },
+  {
+    "id": "note-six-bim-workflows",
+    "title": "6 BIM Workflows",
+    "slug": "six-bim-workflows",
+    "date_captured": "2026-09-14",
+    "category": "construction-technology",
+    "tags": [
+      "bim",
+      "building-information-modeling",
+      "construction-technology",
+      "information-management",
+      "common-data-environment",
+      "openbim",
+      "ifc",
+      "asset-information",
+      "digital-twin",
+      "interoperability",
+      "project-management"
+    ],
+    "entities": [
+      "ISO 19650",
+      "ISO 7817-1",
+      "NBIMS-US V4",
+      "IFC 4.3",
+      "IDS",
+      "BCF",
+      "AIM",
+      "EAM",
+      "Excellog.Biz"
+    ],
+    "summary": "A practical six-step BIM information workflow spanning requirements, execution planning, common data environments, model coordination, OpenBIM exchange, and asset information delivery. The sequence emphasizes measurable information needs, accountable delivery, controlled publication, clash resolution, standards-based interoperability, and reliable handover into operations.",
+    "source_type": "drive-image",
+    "drive_id": "1bjIfqKPRKEWa1FUTYx0mET7Ab5hpXjZ-",
+    "drive_name": "Screenshot 2026-09-14 at 11.20.10 PM.png",
+    "drive_link": "https://drive.google.com/file/d/1bjIfqKPRKEWa1FUTYx0mET7Ab5hpXjZ-/view?usp=drivesdk",
+    "note_path": "notes/2026-09/six-bim-workflows.md",
+    "image_path": "public/img/notes/2026-09/six-bim-workflows.png",
+    "phash": "bf7d6c21696c3032",
+    "ocr": "local_tesseract_fallback",
+    "ingested_at": "2026-09-15T12:20:00Z"
   }
 ]
