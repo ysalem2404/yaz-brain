@@ -21957,5 +21957,109 @@
     "ocr": "local_tesseract_fallback",
     "ingested_at": "2026-09-18T12:25:39Z",
     "summary": "A governance-and-compliance landscape maps AI controls from laws and standards through content safety, identity, privacy, auditability, model risk, and red-teaming assurance."
+  },
+  {
+    "id": "note-epc-project-lifecycle-opportunity-to-handover",
+    "title": "EPC Project Lifecycle: Opportunity to Handover",
+    "slug": "epc-project-lifecycle-opportunity-to-handover",
+    "date_captured": "2026-09-19",
+    "category": "construction-technology",
+    "tags": [
+      "epc",
+      "construction",
+      "project-management",
+      "engineering",
+      "procurement",
+      "commissioning",
+      "handover",
+      "stage-gates",
+      "risk-management"
+    ],
+    "entities": [
+      "EPC",
+      "FEED",
+      "HAZOP"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "1UPMlf7mP588N-KmGpoKUfzqNqBK9GRKA",
+    "drive_name": "Screenshot 2026-09-19 at 6.16.32 PM.png",
+    "drive_link": "https://drive.google.com/file/d/1UPMlf7mP588N-KmGpoKUfzqNqBK9GRKA/view?usp=drivesdk",
+    "note_path": "notes/2026-09/epc-project-lifecycle-opportunity-to-handover.md",
+    "image_path": "public/img/notes/2026-09/epc-project-lifecycle-opportunity-to-handover.png",
+    "phash": "ae293124b139fd71",
+    "ocr": "local_tesseract_fallback",
+    "ingested_at": "2026-09-20T12:10:00Z",
+    "summary": "A stage-gate map of the engineering, procurement and construction lifecycle from opportunity and bid through feasibility, FEED, detailed engineering, procurement, construction, commissioning, and handover."
+  },
+  {
+    "id": "note-construction-robotics-market",
+    "title": "Construction Robotics Market",
+    "slug": "construction-robotics-market",
+    "date_captured": "2026-09-19",
+    "category": "construction-technology",
+    "tags": [
+      "construction-robotics",
+      "robotics",
+      "automation",
+      "market-sizing",
+      "computer-vision",
+      "digital-twins",
+      "labor-shortage",
+      "construction-technology"
+    ],
+    "entities": [
+      "Construction Robotics",
+      "Caterpillar",
+      "Komatsu",
+      "Built Robotics",
+      "Dusty Robotics",
+      "Hilti",
+      "Topcon",
+      "Leica Geosystems"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "1WO4gFZoK_qdpjyJeHOr7n7zh9XOaGxm6",
+    "drive_name": "Screenshot 2026-09-19 at 1.24.03 PM.png",
+    "drive_link": "https://drive.google.com/file/d/1WO4gFZoK_qdpjyJeHOr7n7zh9XOaGxm6/view?usp=drivesdk",
+    "note_path": "notes/2026-09/construction-robotics-market.md",
+    "image_path": "public/img/notes/2026-09/construction-robotics-market.png",
+    "phash": "f5d50b02291fd674",
+    "ocr": "local_tesseract_fallback",
+    "ingested_at": "2026-09-20T12:10:00Z",
+    "summary": "A market infographic groups construction robotics applications and estimates growth from USD 6.55B in 2025 to USD 15.39B in 2030 at an 18.6% CAGR."
+  },
+  {
+    "id": "note-ai-agent-design-patterns",
+    "title": "AI Agent Design Patterns",
+    "slug": "ai-agent-design-patterns",
+    "date_captured": "2026-09-19",
+    "category": "ai-agents",
+    "tags": [
+      "ai-agents",
+      "agent-architecture",
+      "single-shot",
+      "react",
+      "planner-executor",
+      "reflexion",
+      "verification",
+      "guardrails",
+      "observability",
+      "tool-use"
+    ],
+    "entities": [
+      "LLM",
+      "ReAct",
+      "GenAI.Works"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "1ilqtsUgxJYc0sjsC7fTDmrG8lTCheHJI",
+    "drive_name": "Screenshot 2026-09-19 at 10.27.08 AM.png",
+    "drive_link": "https://drive.google.com/file/d/1ilqtsUgxJYc0sjsC7fTDmrG8lTCheHJI/view?usp=drivesdk",
+    "note_path": "notes/2026-09/ai-agent-design-patterns.md",
+    "image_path": "public/img/notes/2026-09/ai-agent-design-patterns.png",
+    "phash": "d06e3b6e6e1a521a",
+    "ocr": "local_tesseract_fallback",
+    "ingested_at": "2026-09-20T12:10:00Z",
+    "summary": "A comparison of five agent design patterns—single-shot, iterative ReAct, planner-executor, reflexive, and verifier-gated—showing how extra loops, planning, critique, and independent checks trade off against latency, cost, and reliability."
   }
 ]
