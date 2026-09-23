@@ -22341,5 +22341,40 @@
     "ocr": "local_tesseract_fallback",
     "ingested_at": "2026-09-22T12:35:00Z",
     "summary": "A self-evolving ontology pattern lets agents use a grounded semantic structure, observe gaps in real workloads, propose small changes, evaluate them against the parent state, and update the ontology without losing control or relevance."
+  },
+  {
+    "id": "note-rag-vs-cag",
+    "title": "RAG vs CAG",
+    "slug": "rag-vs-cag",
+    "date_captured": "2026-09-22",
+    "category": "AI architecture",
+    "tags": [
+      "rag",
+      "cag",
+      "retrieval-augmented-generation",
+      "context-augmented-generation",
+      "vector-database",
+      "embeddings",
+      "context-engineering",
+      "prompt-engineering",
+      "llm",
+      "evaluation"
+    ],
+    "entities": [
+      "RAG",
+      "CAG",
+      "Vector DB",
+      "LLM"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "1HzI4mqovmXoFru9yAYUKQfYJFtMZ2sPc",
+    "drive_name": "Screenshot 2026-09-22 at 6.40.38 AM.png",
+    "drive_link": "https://drive.google.com/file/d/1HzI4mqovmXoFru9yAYUKQfYJFtMZ2sPc/view?usp=drivesdk",
+    "note_path": "notes/2026-09/rag-vs-cag.md",
+    "image_path": "public/img/notes/2026-09/rag-vs-cag.png",
+    "phash": "ef31e437e1629688",
+    "ocr": "local_tesseract_fallback",
+    "ingested_at": "2026-09-23T12:16:54Z",
+    "summary": "A comparison of retrieval-augmented generation (RAG) and context-augmented generation (CAG). RAG retrieves and filters relevant context from a vector database before response creation, while CAG injects domain knowledge and repository context, merges it with the query, then applies consistency and context-synchronization checks."
   }
 ]
