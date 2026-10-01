@@ -23683,5 +23683,113 @@
     "ocr": "local_tesseract_fallback",
     "ingested_at": "2026-09-30T12:14:31Z",
     "summary": "A nine-part policy framework turns responsible-AI principles into expectations for organizational scope, accountability, risk, data, vendors, oversight, incidents, and review."
+  },
+  {
+    "id": "note-digital-twin-for-data-centers",
+    "title": "Digital Twin for Data Centers",
+    "slug": "digital-twin-for-data-centers",
+    "date_captured": "2026-10-01",
+    "category": "AI",
+    "tags": [
+      "digital-twin",
+      "data-centers",
+      "ai-analytics",
+      "real-time-data",
+      "power",
+      "cooling",
+      "predictive-maintenance",
+      "capacity-planning",
+      "infrastructure"
+    ],
+    "entities": [
+      "Digital Twin",
+      "AI Analytics",
+      "Data Centers"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "1VjTv-i6Uj1pVAE7_mVMtaNlhd4AOM6uk",
+    "drive_name": "Screenshot 2026-09-28 at 2.22.07 PM.png",
+    "drive_link": "https://drive.google.com/file/d/1VjTv-i6Uj1pVAE7_mVMtaNlhd4AOM6uk/view?usp=drivesdk",
+    "note_path": "notes/2026-10/digital-twin-for-data-centers.md",
+    "image_path": "public/img/notes/2026-10/digital-twin-for-data-centers.png",
+    "phash": "c79f786d83196066",
+    "ocr": "local_tesseract_fallback",
+    "ingested_at": "2026-10-01T12:21:22Z",
+    "summary": "A digital-twin graphic shows how live infrastructure data and AI analytics can help data-center teams manage power, cooling, assets, operations, capacity, and capital planning."
+  },
+  {
+    "id": "note-ai-drone-bim-construction-site-management",
+    "title": "AI, Drones, and BIM for Construction Site Management",
+    "slug": "ai-drone-bim-construction-site-management",
+    "date_captured": "2026-10-01",
+    "category": "AI",
+    "tags": [
+      "ai-in-construction",
+      "construction",
+      "drones",
+      "bim",
+      "site-management",
+      "progress-tracking",
+      "quantity-takeoff",
+      "site-survey",
+      "safety",
+      "quality-inspection"
+    ],
+    "entities": [
+      "BIM",
+      "ChatGPT",
+      "Google Gemini",
+      "Microsoft Copilot",
+      "Revit",
+      "Navisworks",
+      "DJI",
+      "Pix4D",
+      "DroneDeploy"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "1QFKWuSF2jtuKw_4Ijgth9DBrw9VgmdXB",
+    "drive_name": "Screenshot 2026-09-29 at 6.54.58 AM.png",
+    "drive_link": "https://drive.google.com/file/d/1QFKWuSF2jtuKw_4Ijgth9DBrw9VgmdXB/view?usp=drivesdk",
+    "note_path": "notes/2026-10/ai-drone-bim-construction-site-management.md",
+    "image_path": "public/img/notes/2026-10/ai-drone-bim-construction-site-management.png",
+    "phash": "e21965357c985c3e",
+    "ocr": "local_tesseract_fallback",
+    "ingested_at": "2026-10-01T12:21:22Z",
+    "summary": "An AI, drone, and BIM infographic maps construction-site workflows for progress tracking, quantity takeoff, surveying, quality, safety, and planning, while emphasizing source-data quality and engineering judgment."
+  },
+  {
+    "id": "note-ai-impact-assessment-five-step-roadmap",
+    "title": "AI Impact Assessment: Five-Step Roadmap",
+    "slug": "ai-impact-assessment-five-step-roadmap",
+    "date_captured": "2026-10-01",
+    "category": "AI governance",
+    "tags": [
+      "ai-impact-assessment",
+      "ai-governance",
+      "iso-42001",
+      "eu-ai-act",
+      "risk-assessment",
+      "risk-management",
+      "human-oversight",
+      "privacy",
+      "audit",
+      "compliance"
+    ],
+    "entities": [
+      "AI Impact Assessment",
+      "ISO/IEC 42001",
+      "EU AI Act",
+      "Human-in-the-Loop"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "1wcSfNvspDO7P55jxyo9BZ-CRh5ao8ZGY",
+    "drive_name": "Screenshot 2026-09-30 at 1.16.04 PM.png",
+    "drive_link": "https://drive.google.com/file/d/1wcSfNvspDO7P55jxyo9BZ-CRh5ao8ZGY/view?usp=drivesdk",
+    "note_path": "notes/2026-10/ai-impact-assessment-five-step-roadmap.md",
+    "image_path": "public/img/notes/2026-10/ai-impact-assessment-five-step-roadmap.png",
+    "phash": "bfd140c5d4d4d097",
+    "ocr": "local_tesseract_fallback",
+    "ingested_at": "2026-10-01T12:21:22Z",
+    "summary": "A five-step AI impact assessment graphic connects system scope, risk and impact identification, exposure scoring, mitigation controls, and audit-ready review with ISO 42001 and the EU AI Act."
   }
 ]
