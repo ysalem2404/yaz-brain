@@ -24947,5 +24947,320 @@
     "ocr": "local_tesseract_fallback",
     "ingested_at": "2026-10-12T12:00:00Z",
     "summary": "A cropped photographed slide frames AI governance as an organization-wide problem involving cost, control, and choice as models and usage change quickly."
+  },
+  {
+    "id": "note-lakewatch-security-operations-dashboard",
+    "title": "Lakewatch Security Operations Dashboard",
+    "slug": "lakewatch-security-operations-dashboard",
+    "date_captured": "2026-10-13",
+    "category": "security operations",
+    "tags": [
+      "Databricks",
+      "Lakewatch",
+      "security-operations",
+      "SIEM",
+      "threat-hunting",
+      "AI-agents"
+    ],
+    "entities": [
+      "Databricks Lakewatch",
+      "CVE-2024-38077",
+      "Microsoft Graph"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "1uBDBkLx1vH-qp9pyeUMTjLosidgRqASs",
+    "drive_name": "IMG_0049.HEIC",
+    "drive_link": "https://drive.google.com/file/d/1uBDBkLx1vH-qp9pyeUMTjLosidgRqASs/view?usp=drivesdk",
+    "source_url": "https://drive.google.com/file/d/1uBDBkLx1vH-qp9pyeUMTjLosidgRqASs/view?usp=drivesdk",
+    "note_path": "notes/2026-10/lakewatch-security-operations-dashboard.md",
+    "image_path": "public/img/notes/2026-10/lakewatch-security-operations-dashboard.png",
+    "phash": "de988d4b4b389e86",
+    "ocr": "local_tesseract_fallback",
+    "ingested_at": "2026-10-13T12:00:00Z",
+    "summary": "A Lakewatch security console combines source health and event-volume context with agent-assisted case investigation and analyst-visible conclusions."
+  },
+  {
+    "id": "note-lakebase-cross-cloud-disaster-recovery",
+    "title": "Lakebase Cross-Cloud Disaster Recovery",
+    "slug": "lakebase-cross-cloud-disaster-recovery",
+    "date_captured": "2026-10-13",
+    "category": "cloud architecture",
+    "tags": [
+      "Databricks",
+      "Lakebase",
+      "disaster-recovery",
+      "multi-cloud",
+      "resilience",
+      "database-branches"
+    ],
+    "entities": [
+      "Lakebase",
+      "Amazon Web Services",
+      "Microsoft Azure"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "1Z9xxhrXPcY5qA92tNRla1Mrl5gpoqDCg",
+    "drive_name": "IMG_0062.HEIC",
+    "drive_link": "https://drive.google.com/file/d/1Z9xxhrXPcY5qA92tNRla1Mrl5gpoqDCg/view?usp=drivesdk",
+    "source_url": "https://drive.google.com/file/d/1Z9xxhrXPcY5qA92tNRla1Mrl5gpoqDCg/view?usp=drivesdk",
+    "note_path": "notes/2026-10/lakebase-cross-cloud-disaster-recovery.md",
+    "image_path": "public/img/notes/2026-10/lakebase-cross-cloud-disaster-recovery.png",
+    "phash": "d52e6aad6b6a6260",
+    "ocr": "local_tesseract_fallback",
+    "ingested_at": "2026-10-13T12:00:00Z",
+    "summary": "A Lakebase slide presents managed cross-cloud disaster recovery as a way to keep a standby database ready for failover across regions or providers."
+  },
+  {
+    "id": "note-data-platform-complexity-needs-governance-and-scale",
+    "title": "Data Platform Complexity Needs Governance and Scale",
+    "slug": "data-platform-complexity-needs-governance-and-scale",
+    "date_captured": "2026-10-13",
+    "category": "data architecture",
+    "tags": [
+      "data-architecture",
+      "data-engineering",
+      "governance",
+      "CI-CD",
+      "scale",
+      "ETL",
+      "Apache-Spark"
+    ],
+    "entities": [
+      "Apache Spark",
+      "Flink",
+      "dbt",
+      "Airflow",
+      "AWS Glue"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "1chG_H__dk2NyQ5X3EbPdCQ4e3TDvUJWS",
+    "drive_name": "IMG_0053.HEIC",
+    "drive_link": "https://drive.google.com/file/d/1chG_H__dk2NyQ5X3EbPdCQ4e3TDvUJWS/view?usp=drivesdk",
+    "source_url": "https://drive.google.com/file/d/1chG_H__dk2NyQ5X3EbPdCQ4e3TDvUJWS/view?usp=drivesdk",
+    "note_path": "notes/2026-10/data-platform-complexity-needs-governance-and-scale.md",
+    "image_path": "public/img/notes/2026-10/data-platform-complexity-needs-governance-and-scale.png",
+    "phash": "80477b656e39348f",
+    "ocr": "local_tesseract_fallback",
+    "ingested_at": "2026-10-13T12:00:00Z",
+    "summary": "A platform architecture slide maps sources and consumers through connectors and ETL, using CI/CD, governance, and scale as the capabilities needed to manage growing complexity."
+  },
+  {
+    "id": "note-open-source-framework-for-calibrated-llm-judges",
+    "title": "Open-Source Framework for Calibrated LLM Judges",
+    "slug": "open-source-framework-for-calibrated-llm-judges",
+    "date_captured": "2026-10-13",
+    "category": "AI evaluation",
+    "tags": [
+      "LLM-as-a-judge",
+      "evaluation",
+      "MLflow",
+      "Databricks-Labs",
+      "human-feedback",
+      "calibration"
+    ],
+    "entities": [
+      "Databricks Labs",
+      "Databricks Research",
+      "MLflow"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "1yho700YU3CHUqM7uM5EqzIcer_vzMd9j",
+    "drive_name": "IMG_0026.HEIC",
+    "drive_link": "https://drive.google.com/file/d/1yho700YU3CHUqM7uM5EqzIcer_vzMd9j/view?usp=drivesdk",
+    "source_url": "https://drive.google.com/file/d/1yho700YU3CHUqM7uM5EqzIcer_vzMd9j/view?usp=drivesdk",
+    "note_path": "notes/2026-10/open-source-framework-for-calibrated-llm-judges.md",
+    "image_path": "public/img/notes/2026-10/open-source-framework-for-calibrated-llm-judges.png",
+    "phash": "954f6a2a2c9791d5",
+    "ocr": "local_tesseract_fallback",
+    "ingested_at": "2026-10-13T12:00:00Z",
+    "summary": "A partially overlaid summit capture describes an open framework for turning subject-matter-expert judgments into calibrated LLM judges, with an MLflow experiment ID as the input.",
+    "confidence": "low",
+    "low_confidence": true
+  },
+  {
+    "id": "note-databricks-summit-sponsor-ecosystem",
+    "title": "Databricks Summit Sponsor Ecosystem",
+    "slug": "databricks-summit-sponsor-ecosystem",
+    "date_captured": "2026-10-13",
+    "category": "Other",
+    "tags": [
+      "Databricks",
+      "conference",
+      "sponsors",
+      "data-platform-ecosystem"
+    ],
+    "entities": [
+      "Accenture",
+      "AWS",
+      "Deloitte",
+      "Google Cloud",
+      "Microsoft Azure",
+      "OpenAI",
+      "Datadog"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "15tZbej_cWr5ma1aZYqDWYcbx6T6LPsMf",
+    "drive_name": "IMG_0028.HEIC",
+    "drive_link": "https://drive.google.com/file/d/15tZbej_cWr5ma1aZYqDWYcbx6T6LPsMf/view?usp=drivesdk",
+    "source_url": "https://drive.google.com/file/d/15tZbej_cWr5ma1aZYqDWYcbx6T6LPsMf/view?usp=drivesdk",
+    "note_path": "notes/2026-10/databricks-summit-sponsor-ecosystem.md",
+    "image_path": "public/img/notes/2026-10/databricks-summit-sponsor-ecosystem.png",
+    "phash": "c02c6b356b35792e",
+    "ocr": "local_tesseract_fallback",
+    "ingested_at": "2026-10-13T12:00:00Z",
+    "summary": "A sponsor-recognition slide groups event partners into sponsor tiers and displays a broad data-and-AI vendor ecosystem.",
+    "confidence": "low",
+    "low_confidence": true
+  },
+  {
+    "id": "note-opensharing-for-data-and-ai-assets",
+    "title": "OpenSharing for Data and AI Assets",
+    "slug": "opensharing-for-data-and-ai-assets",
+    "date_captured": "2026-10-13",
+    "category": "data sharing",
+    "tags": [
+      "OpenSharing",
+      "data-sharing",
+      "AI-assets",
+      "agents",
+      "models",
+      "skills",
+      "interoperability"
+    ],
+    "entities": [
+      "OpenSharing",
+      "Apache Spark",
+      "Apache Iceberg"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "1omr3mqIK_LsiCpR03ptv-ehBGp8mNk4A",
+    "drive_name": "IMG_0035.HEIC",
+    "drive_link": "https://drive.google.com/file/d/1omr3mqIK_LsiCpR03ptv-ehBGp8mNk4A/view?usp=drivesdk",
+    "source_url": "https://drive.google.com/file/d/1omr3mqIK_LsiCpR03ptv-ehBGp8mNk4A/view?usp=drivesdk",
+    "note_path": "notes/2026-10/opensharing-for-data-and-ai-assets.md",
+    "image_path": "public/img/notes/2026-10/opensharing-for-data-and-ai-assets.png",
+    "phash": "80d02de275693e7d",
+    "ocr": "local_tesseract_fallback",
+    "ingested_at": "2026-10-13T12:00:00Z",
+    "summary": "An OpenSharing slide positions a cross-platform standard for sharing data and AI assets, including agents, models, and skills, with a large partner ecosystem."
+  },
+  {
+    "id": "note-lakewatch-detection-rules-and-coverage",
+    "title": "Lakewatch Detection Rules and Coverage",
+    "slug": "lakewatch-detection-rules-and-coverage",
+    "date_captured": "2026-10-13",
+    "category": "security operations",
+    "tags": [
+      "Databricks",
+      "Lakewatch",
+      "detection-engineering",
+      "MITRE-ATTACK",
+      "Microsoft-Graph",
+      "SIEM"
+    ],
+    "entities": [
+      "Databricks Lakewatch",
+      "MITRE ATT&CK",
+      "Microsoft Graph",
+      "CrowdStrike",
+      "Slack"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "1sqzwtjoCCOW9UWK57MBQ1Xno_MVi0tVl",
+    "drive_name": "IMG_0077.HEIC",
+    "drive_link": "https://drive.google.com/file/d/1sqzwtjoCCOW9UWK57MBQ1Xno_MVi0tVl/view?usp=drivesdk",
+    "source_url": "https://drive.google.com/file/d/1sqzwtjoCCOW9UWK57MBQ1Xno_MVi0tVl/view?usp=drivesdk",
+    "note_path": "notes/2026-10/lakewatch-detection-rules-and-coverage.md",
+    "image_path": "public/img/notes/2026-10/lakewatch-detection-rules-and-coverage.png",
+    "phash": "81883e853f859f3d",
+    "ocr": "local_tesseract_fallback",
+    "ingested_at": "2026-10-13T12:00:00Z",
+    "summary": "A Lakewatch rule table illustrates a detection catalog spanning identity, endpoint, threat-intelligence, and SaaS activity, with severity, fidelity, category, and active-state fields."
+  },
+  {
+    "id": "note-genie-code-adoption-and-usage-metrics",
+    "title": "Genie Code Adoption and Usage Metrics",
+    "slug": "genie-code-adoption-and-usage-metrics",
+    "date_captured": "2026-10-13",
+    "category": "AI adoption",
+    "tags": [
+      "Databricks",
+      "Genie-Code",
+      "AI-adoption",
+      "developer-productivity",
+      "usage-metrics"
+    ],
+    "entities": [
+      "Databricks Genie Code"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "11e8S7K5jyfGIw-i05Fmzx5RwT_4EGUtt",
+    "drive_name": "IMG_0099.HEIC",
+    "drive_link": "https://drive.google.com/file/d/11e8S7K5jyfGIw-i05Fmzx5RwT_4EGUtt/view?usp=drivesdk",
+    "source_url": "https://drive.google.com/file/d/11e8S7K5jyfGIw-i05Fmzx5RwT_4EGUtt/view?usp=drivesdk",
+    "note_path": "notes/2026-10/genie-code-adoption-and-usage-metrics.md",
+    "image_path": "public/img/notes/2026-10/genie-code-adoption-and-usage-metrics.png",
+    "phash": "c0053fea7ab6694a",
+    "ocr": "local_tesseract_fallback",
+    "ingested_at": "2026-10-13T12:00:00Z",
+    "summary": "A summit slide reports rapid internal adoption of Genie Code, with 500+ AI users, around 1,000 prompts per person on average, and more than 500,000 interactions across March and April."
+  },
+  {
+    "id": "note-workflow-and-sql-warehouse-cost-analytics",
+    "title": "Workflow and SQL Warehouse Cost Analytics",
+    "slug": "workflow-and-sql-warehouse-cost-analytics",
+    "date_captured": "2026-10-13",
+    "category": "FinOps",
+    "tags": [
+      "Databricks",
+      "FinOps",
+      "workflows",
+      "SQL-warehouse",
+      "cost-analytics",
+      "observability"
+    ],
+    "entities": [
+      "Databricks Workflows",
+      "Databricks SQL Warehouse"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "1DPbQpgx6hfgrb1S5h_ihFz01uSkBun8I",
+    "drive_name": "IMG_0102.HEIC",
+    "drive_link": "https://drive.google.com/file/d/1DPbQpgx6hfgrb1S5h_ihFz01uSkBun8I/view?usp=drivesdk",
+    "source_url": "https://drive.google.com/file/d/1DPbQpgx6hfgrb1S5h_ihFz01uSkBun8I/view?usp=drivesdk",
+    "note_path": "notes/2026-10/workflow-and-sql-warehouse-cost-analytics.md",
+    "image_path": "public/img/notes/2026-10/workflow-and-sql-warehouse-cost-analytics.png",
+    "phash": "d5202a7bd595952b",
+    "ocr": "local_tesseract_fallback",
+    "ingested_at": "2026-10-13T12:00:00Z",
+    "summary": "A benefits slide shows how workflow and SQL warehouse usage can be analyzed by use case, subscription, task, job, query, user, and warehouse to support cost/performance decisions."
+  },
+  {
+    "id": "note-data-evolution-360-proficiency-agility-communities",
+    "title": "Data Evolution 360: Proficiency, Agility, Communities",
+    "slug": "data-evolution-360-proficiency-agility-communities",
+    "date_captured": "2026-10-13",
+    "category": "data strategy",
+    "tags": [
+      "data-strategy",
+      "data-platform",
+      "business-value",
+      "operational-efficiency",
+      "innovation"
+    ],
+    "entities": [
+      "Data Evolution 360"
+    ],
+    "source_type": "drive-image",
+    "drive_id": "1WxZcuN-olhPWw-edtqeCahlJ2MEaoOve",
+    "drive_name": "IMG_0086.HEIC",
+    "drive_link": "https://drive.google.com/file/d/1WxZcuN-olhPWw-edtqeCahlJ2MEaoOve/view?usp=drivesdk",
+    "source_url": "https://drive.google.com/file/d/1WxZcuN-olhPWw-edtqeCahlJ2MEaoOve/view?usp=drivesdk",
+    "note_path": "notes/2026-10/data-evolution-360-proficiency-agility-communities.md",
+    "image_path": "public/img/notes/2026-10/data-evolution-360-proficiency-agility-communities.png",
+    "phash": "cd11366b39e64996",
+    "ocr": "local_tesseract_fallback",
+    "ingested_at": "2026-10-13T12:00:00Z",
+    "summary": "A Data Evolution 360 framework connects proficiency, agility, and communities to faster delivery and a 360-degree view of business data."
   }
 ]
